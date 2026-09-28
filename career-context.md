@@ -116,6 +116,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 - **AI features (#11):** ceiling is "prototyped," never "shipped" (`BL` raised it from "proposed" on
   2026-09-28). No post-prototype outcome; don't claim human-in-the-loop requirements.
 - **Pricing:** recommended only; never "set" or "owned." `BL`
+- **Business cases:** no dollar cost models. What's true: at sprint and quarterly planning, presented large features with their benefits, alternatives, and estimated engineering hours. Describe that; don't label it "business case" or claim cost/ROI models. (Kfir, 2026-09-28)
 - **Monolith → microservices:** advised the CPO and CTO on product impact; they led. `BL`
 - **Renewal negotiations:** supported only, never led. `BL`
 - **Engagement scoring:** internal dashboard Engineering built to Kfir's spec (login frequency,
@@ -321,6 +322,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | Business cases refined: no dollar cost models, but did present benefits, alternatives, and engineering-hour estimates for large features at sprint/quarterly planning. Say that; don't write "wrote business cases" (the other project's BDC draft and the TELUS CV overclaimed) | Kfir (BDC review) |
 | 2026-09-28 | No banking/lending experience: frame fintech adjacency (payments, Stripe, refunds on public funds), never claim banking. No formal business cases/ROI models for leadership: don't claim them | Kfir (BDC) |
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |
 | 2026-09-28 | AI features ceiling raised from "proposed" to "prototyped" | `BL` |

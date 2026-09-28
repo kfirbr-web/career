@@ -45,19 +45,22 @@
 ## CV
 - **Track / base:** PM / `Kfir_Braunstein_PM_Master.docx`
 - **Tailored copy:** [Kfir_Braunstein_PM_BDC](https://docs.google.com/document/d/14_a1m5ezqkE2Ti26O1HjsmchhRz0mBVmHRfF7sUSbJ0/edit) (Google Doc, uploaded from the .docx built on the PM master)
-- **Changes from master:**
-  - Summary: sentence 2 now says sole PM for the full platform.
-  - Skills: AI & Builder Tools row moved first; Loveable → Claude Cowork; Go-to-Market → MVP
-    Scoping; KPI Definition → Root-cause Analysis; Linear moved first in Tools.
-  - Bullets: order #1 (pricing variant), #11, #17, #2 (with microservices clause), #13, #8, #6.
-    Dropped from master: #5 onboarding 33%, #4 permissions, #3 mobile.
-  - One-page fit (rendered with Carlito, Calibri's metric twin): dropped #6 engagement scoring (18%);
-    projects merged to 2 lines; small trims: #1 "messy" cut; #11 "working through feasibility" →
-    "testing feasibility", "really/just" cut; #2 "multi-quarter" cut and "during the move from a
-    monolith to microservices" → "in the move to microservices". Final PM bullets: #1, #11, #17,
-    #2, #13, #8. Page is full (last line at 762pt vs Jerry V2 761pt): check it stays on one page in
-    Google Docs before exporting.
-  - Projects section added (Chrome extension, job-search tool, career agent).
+- **v2 (2026-09-28, after comparing with another project's draft):** local file
+  `Kfir_Braunstein_PM_BDC_v2.docx` in this folder; not in Drive yet (see Log). Changes from master:
+  - Summary: sentence 2 = sole PM for the full platform; sentence 3 (client contact / QBRs) replaced
+    with the planning line: benefits, alternatives, engineering-hour estimates (new fact, Kfir).
+  - Bullets: #1 (pricing variant), #11, #17, #2 (short: "cutting or delaying scope", "during the
+    move to microservices"), #15+#13 combined (vendors + mapping tool), #9 event form (UX).
+    Dropped: #5 onboarding 33%, #4 permissions, #3 mobile, #6 engagement 18%, #8 login (for fit;
+    swap #8 for #9 if the UX line matters less than the 40% to 85% number).
+  - Skills: AI & Builder Tools row first; Loveable → Claude Cowork; Go-to-Market → MVP Scoping;
+    KPI Definition → Root-cause Analysis; Linear first in Tools.
+  - Projects: career agent only (one line).
+  - Fit: one page with ~1 line spare (Carlito render: last line 747pt vs Jerry V2 761pt).
+- **v1:** [Kfir_Braunstein_PM_BDC](https://docs.google.com/document/d/14_a1m5ezqkE2Ti26O1HjsmchhRz0mBVmHRfF7sUSbJ0/edit)
+  (superseded). The other project's draft is a second Doc with the same name:
+  https://docs.google.com/document/d/1v-6GziWbXj0_qnztFv6NbY_lpNrxiGmK6P3OSxH4NnA/edit
+  (it claims "wrote short business cases", which the facts file doesn't allow).
 
 ## Cover note
 Saved in `cover-note.txt` (2026-09-28). Names the banking gap plainly and points to payments work.
@@ -75,3 +78,4 @@ Saved in `cover-note.txt` (2026-09-28). Names the banking gap plainly and points
 |---|---|
 | 2026-09-28 | Vetted: Stretch. Draft CV text shown for approval. |
 | 2026-09-28 | Kfir approved; CV built and uploaded to Drive; cover note drafted. |
+| 2026-09-28 | Compared with another project's draft; v2 built (planning line, vendors, UX bullet, shorter CRM bullet). |

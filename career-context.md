@@ -117,7 +117,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 - **AI features (#11):** ceiling is "prototyped," never "shipped" (`BL` raised it from "proposed" on
   2026-09-28). No post-prototype outcome; don't claim human-in-the-loop requirements.
 - **Pricing:** recommended only; never "set" or "owned." `BL`
-- **Business cases:** no dollar cost models. What's true: at sprint and quarterly planning, presented large features with their benefits, alternatives, and estimated engineering hours. Describe that; don't label it "business case" or claim cost/ROI models. (Kfir, 2026-09-28)
+- **Business cases:** no dollar cost models. What's true: at sprint and quarterly planning, presented large features with their benefits, alternatives, and estimated engineering hours. "Short, high-level business cases" is OK as a label (Kfir, 2026-09-28, Akur8); never claim cost/ROI models, and never on the subscriptions bullet (#1). (Kfir, 2026-09-28)
 - **Monolith → microservices:** advised the CPO and CTO on product impact; they led. `BL`
 - **Renewal negotiations:** supported only, never led. `BL`
 - **Quota:** never carried a quota or formal revenue target (CSM or PM). Say "owned renewals and expansion," never "quota" or "hit target." (Kfir, 2026-09-28, Akur8)
@@ -129,6 +129,8 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
   Confirmed audience (Kfir, 2026-09-28): **city managers and senior city leaders**; OK to name them. Still not "C-level."
   Also **system managers** (`PMEM`, MindBridge). Not finance leaders: no CFO or audit-committee claims.
   (`HO` lists "delivered C-level roadmap presentations"; `BL` is stricter and newer.)
+  **Resolved (Kfir, 2026-09-28, Akur8):** C-level presentations were **internal only** (own CPO/CTO). Never
+  claim client executives: no "Executive Relationships" or "C-level stakeholders" for clients.
 - **SSO / OAuth2 / OIDC:** product requirements level only, not auth architecture. `HO`
 - **Mobile:** Flutter, cross-platform (iOS + Android), not native. Dedicated squad through the whole
   PM tenure. `HO`
@@ -151,7 +153,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 ### Confirmed tool stack `HO`
 | Category | Tools |
 |---|---|
-| PM & Collaboration | ClickUp, Confluence, Linear, Figma, Figma Make |
+| PM & Collaboration | ClickUp, Confluence, Figma, Figma Make (Linear removed: personal beginner use only, never on a CV; Kfir 2026-09-28) |
 | Engineering / Technical | Postman, SQL, Webhooks, Chrome Extension Dev, Prompt Engineering, SSO/OAuth2/OIDC (requirements level) |
 | Customer & Support | Intercom (incl. Fin), HubSpot, Jam.dev |
 | Analytics | Google Analytics, SQL |
@@ -198,7 +200,7 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | "What is PM to you?" | US launch: Sales promised any integration; API not ready → embeddable JS widget as a bridge | Launched on time, kept contracts |
 | How do you use AI? | Claude Code for PRDs / user stories / prototypes; Figma Make mockups; job-search app built solo | Specifics on 3 tools |
 | Implementation / white-label | Owned per-client pre-configuration: API settings, data mapping, integrations with city IT (CivicPlus, Granicus, CivicRec) | Templated the mapping |
-| Contract compliance | Checked each client's contract against actual use: seats, admins, usage, storage | Confirmed by Kfir 2026-09-28. Say "contract compliance" / "checked usage against the contract"; **not** invoicing or billing accuracy |
+| Contract compliance | Checked each client's contract against actual use: seats, admins, usage, storage | Confirmed by Kfir 2026-09-28. Say "contract compliance" / "checked usage against the contract". **Also handled billing issues** (Kfir 2026-09-28, Akur8; overrides the earlier "not billing" rule). Still no invoicing ownership or revenue recognition |
 | Mentoring | Mentored junior CSMs at Bewith | Confirmed by Kfir 2026-09-28 (first appeared on the Fortra CV) |
 | Client champions | Worked with internal champions at each client to drive rollout and adoption | Confirmed by Kfir 2026-09-28; OK on CVs ("client champions") |
 | Scoping custom client requests | Wrote change requests and Statements of Work (SOWs) for custom client requests | Confirmed by Kfir 2026-09-28; details (how many, typical size) [TODO] |
@@ -216,7 +218,7 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Change management | Helped client teams move off old processes onto the platform, including reluctant staff | `PMEM` (MindBridge) |
 | Pushback on leadership | Pushed back on internal C-level pressure to prioritize features over infrastructure readiness | `PMEM`. Internal leadership, not clients |
 | Bulk actions | Specced bulk action capabilities inside the CRM/API data model work (#2); fold in when a JD signals bulk actions | `PMEM` |
-| Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. This is **not** billing, contract compliance, or revenue recognition; don't claim those (Kfir, 2026-09-28) |
+| Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
 
 ### Story rules
 - Balance "we" and "me": every story needs an explicit "I decided / I noticed / I built" moment. `STAR`
@@ -356,6 +358,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | Conflicts resolved: handled billing issues (billing OK now); C-level = internal only, never client executives; "short business cases" label OK; Linear removed | Kfir (Akur8) |
 | 2026-09-28 | Imported non-conflicting facts from the standalone CV project's memory (`PMEM`); conflicts sent to Kfir | Kfir (Akur8) |
 | 2026-09-28 | No quota ever; "account plans" OK; account mapping was informal (don't name it); on-site client visits confirmed | Kfir (Akur8) |
 | 2026-09-28 | New fact: attended industry conferences and events with Sales | Kfir (food CPG CSR) |

@@ -189,6 +189,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | Mentoring | Mentored junior CSMs at Bewith | Confirmed by Kfir 2026-09-28 (first appeared on the Fortra CV) |
 | Client champions | Worked with internal champions at each client to drive rollout and adoption | Confirmed by Kfir 2026-09-28; OK on CVs ("client champions") |
 | Scoping custom client requests | Wrote change requests and Statements of Work (SOWs) for custom client requests | Confirmed by Kfir 2026-09-28; details (how many, typical size) [TODO] |
+| Industry conferences | Attended industry conferences and events with Sales for Bewith | Confirmed by Kfir 2026-09-28 (food CPG CSR build). Which events [TODO]; say "attended with Sales," don't claim booth ownership or leads generated |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. This is **not** billing, contract compliance, or revenue recognition; don't claim those (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -329,6 +330,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | New fact: attended industry conferences and events with Sales | Kfir (food CPG CSR) |
 | 2026-09-28 | Word confirmed; change requests confirmed alongside SOWs | Kfir (Insurity) |
 | 2026-09-28 | New facts: contract compliance (usage vs contract: seats, admins, usage, storage; not invoicing); mentored junior CSMs | Kfir (Insurity) |
 | 2026-09-28 | New facts: QBR audience = city managers and senior city leaders; worked with client champions | Kfir (Insurity) |

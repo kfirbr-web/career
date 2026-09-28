@@ -50,8 +50,9 @@
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`)
-- **Tailored copy (final):** [Kfir_Braunstein_CSM_Insurity](https://docs.google.com/document/d/1M7rWYHDMhwUplqeavqw4jNI6Ckng2h2MnAoe1hkx-3I/edit)
-  (Google Doc; source .docx in this folder). One page, full (Drive PDF export: last line 751pt of 792).
+- **Tailored copy (final):** [Kfir_Braunstein_CSM_Insurity](https://docs.google.com/document/d/1O9DeeySv9FRS3XNOLV_OEN5P8ebFhyPJa58mYrS8Df0/edit)
+  (Google Doc; source .docx in this folder). One page, full (Drive PDF export: last line 751pt of 792). v2 after the other chat's review;
+  earlier Drive versions renamed `_old_v1` and `_old_v2_2pages` (not deleted).
   Another session's draft was renamed `Kfir_Braunstein_CSM_Insurity_old_other-project` (not deleted).
   It overclaimed: "checked that usage and billing matched their contracts", "Contract Compliance",
   "Billing Accuracy" (Kfir: not billing), plus unconfirmed "client champions", "city managers",
@@ -67,6 +68,18 @@
     Figma → Postman. Added (not swapped): Excel, PowerPoint.
   - QBR bullet (#7): added "reviewing each client's ticket sales revenue and recommending changes
     to their future events and marketing" (new fact, 2026-09-28).
+
+- **v2 changes (after the other chat's review, 2026-09-28):**
+  - QBR bullet: "client champions"; QBRs "for city managers and senior city leaders"; dropped
+    "roadmap presentations" (still in Skills) to fit.
+  - Access bullet (#4): now "checked seats, admins, usage, and storage against each contract"
+    (contract compliance, new fact); shortened to fit.
+  - Trainings bullet (#22): "led early- and mid-stage sales demos" → "mentored junior CSMs".
+  - Skills: + Customer Champions, Contract Compliance, Change Requests & SOWs, Mentoring, Figma,
+    Word. To keep rows on one line: Escalation Management → Escalations, Expansion & Upsell →
+    Upsell, Value & ROI Cases → ROI Cases, Renewal Negotiation Support → Renewal Support;
+    Payments & Billing dropped (reviewer called it vague; Contract Compliance replaces it).
+  - Not used: "billing accuracy" (checking was usage vs contract, not invoices).
 
 ## Cover note
 None
@@ -84,4 +97,5 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-28 | Vetted: Stretch. Found the Remote - Canada posting. CV draft sent for approval |
+| 2026-09-28 | v2 built after the other chat's review (champions, city managers, contract compliance, mentoring, skills) |
 | 2026-09-28 | Kfir confirmed SOWs, Excel/PowerPoint, ticket-revenue insights. Compared with the other session's Drive draft; built and uploaded final |

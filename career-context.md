@@ -148,7 +148,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | Data / Automation | Airtable |
 | Design | AutoCAD (architecture background) |
 | Testing | A/B Testing (confirmed by Kfir 2026-09-28) |
-| Office | Excel, PowerPoint (confirmed by Kfir 2026-09-28) |
+| Office | Excel, PowerPoint, Word (confirmed by Kfir 2026-09-28) |
 
 `CV` also uses Monday, Slack, Loveable. [TODO: confirm these are OK]
 
@@ -185,8 +185,10 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | "What is PM to you?" | US launch: Sales promised any integration; API not ready → embeddable JS widget as a bridge | Launched on time, kept contracts |
 | How do you use AI? | Claude Code for PRDs / user stories / prototypes; Figma Make mockups; job-search app built solo | Specifics on 3 tools |
 | Implementation / white-label | Owned per-client pre-configuration: API settings, data mapping, integrations with city IT (CivicPlus, Granicus, CivicRec) | Templated the mapping |
+| Contract compliance | Checked each client's contract against actual use: seats, admins, usage, storage | Confirmed by Kfir 2026-09-28. Say "contract compliance" / "checked usage against the contract"; **not** invoicing or billing accuracy |
+| Mentoring | Mentored junior CSMs at Bewith | Confirmed by Kfir 2026-09-28 (first appeared on the Fortra CV) |
 | Client champions | Worked with internal champions at each client to drive rollout and adoption | Confirmed by Kfir 2026-09-28; OK on CVs ("client champions") |
-| Scoping custom client requests | Wrote Statements of Work (SOWs) for custom client requests | Confirmed by Kfir 2026-09-28; details (how many, typical size) [TODO] |
+| Scoping custom client requests | Wrote change requests and Statements of Work (SOWs) for custom client requests | Confirmed by Kfir 2026-09-28; details (how many, typical size) [TODO] |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. This is **not** billing, contract compliance, or revenue recognition; don't claim those (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -327,6 +329,8 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | Word confirmed; change requests confirmed alongside SOWs | Kfir (Insurity) |
+| 2026-09-28 | New facts: contract compliance (usage vs contract: seats, admins, usage, storage; not invoicing); mentored junior CSMs | Kfir (Insurity) |
 | 2026-09-28 | New facts: QBR audience = city managers and senior city leaders; worked with client champions | Kfir (Insurity) |
 | 2026-09-28 | New fact: wrote SOWs for custom client requests | Kfir (Insurity) |
 | 2026-09-28 | Skills: when a posting asks for a confirmed tool the CV lacks, **add** it to the row; don't swap out existing tools to make room (still one line per row) | Kfir (Insurity) |

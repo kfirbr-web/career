@@ -26,6 +26,8 @@ career/
 │   ├── Kfir_Braunstein_PM_Jerry_v2.docx <- layout base for every build
 │   ├── Kfir_Braunstein_PM_Master.docx/.pdf <- PM MASTER: every PM build starts here
 │   ├── master-PM.md           <- master's text + reasoning + swap-in bench
+│   ├── Kfir_Braunstein_CSM_Master.docx/.pdf <- CSM MASTER: every CSM build starts here
+│   ├── master-CSM.md          <- CSM master's text + reasoning + swap-in bench
 │   ├── moved-forward/         <- CVs that got to a screen/interview (reference)
 │   └── bullet-library.md      <- LOCKED canonical bullets + story selection guide. Select, don't invent
 ├── jobs/

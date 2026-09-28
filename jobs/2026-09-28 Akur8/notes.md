@@ -74,18 +74,19 @@ experience (Kfir: US clients yes, insurance none).
 None
 
 ## Application answers
-- **What products or services have you sold, and who were your typical customers?**
-  I sold and expanded Bewith.io, a B2B2C SaaS platform that municipalities and organizations used to run
-  events and activities for their residents: event pages, registration and ticketing, payments and
-  memberships, and mobile apps for residents and staff. Typical customers were cities and public
-  organizations across North America and Europe. The buyers were city managers and senior city leaders,
-  and I also worked closely with their IT teams and the internal champions who drove adoption.
-  As a Customer Success Manager I owned about $2M ARR across 30+ accounts, kept 100% retention, and grew
-  ARR by 20% by upgrading 4 entry-level clients to enterprise contracts. As Product Manager I supported
-  Sales from demos through enterprise proposals, and launched a subscription and multi-entry payment
-  product that brought in $100K+ in new ARR from 3 new clients and 4 major expansions. I didn't carry a
-  new-business quota; my commercial work was renewals and expansion of existing accounts, which is
-  what this role is built around.
+- **What products or services have you sold, and who were your typical customers?** (v2: says upfront he wasn't in Sales)
+  I wasn't in a sales role, but I've worked on the commercial side of every account I owned. At Bewith.io,
+  a B2B2C SaaS platform that municipalities and organizations used to run events and activities for their
+  residents (event pages, registration and ticketing, payments and memberships, and mobile apps for
+  residents and staff), I was first a Customer Success Manager and then the Product Manager.
+  Typical customers were cities and public organizations across North America and Europe. The buyers were
+  city managers and senior city leaders, and I also worked closely with their IT teams and the internal
+  champions who drove adoption.
+  As a CSM I owned about $2M ARR across 30+ accounts, kept 100% retention, and grew ARR by 20% by
+  upgrading 4 entry-level clients to enterprise contracts. As PM I supported Sales from demos through
+  enterprise proposals, and launched a subscription and multi-entry payment product that brought in
+  $100K+ in new ARR from 3 new clients and 4 major expansions. So my experience is in renewing and
+  growing existing accounts, which is what this role is built around.
 
 ## Interview prep
 - Stages / people: Unknown

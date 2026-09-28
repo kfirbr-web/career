@@ -358,6 +358,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | Never frame Kfir as a salesperson ("I sold…"). In sales-style questions, say upfront he wasn't in a sales role, then give the commercial results (renewals, expansion, Sales support) | Kfir (Akur8) |
 | 2026-09-28 | Conflicts resolved: handled billing issues (billing OK now); C-level = internal only, never client executives; "short business cases" label OK; Linear removed | Kfir (Akur8) |
 | 2026-09-28 | Imported non-conflicting facts from the standalone CV project's memory (`PMEM`); conflicts sent to Kfir | Kfir (Akur8) |
 | 2026-09-28 | No quota ever; "account plans" OK; account mapping was informal (don't name it); on-site client visits confirmed | Kfir (Akur8) |

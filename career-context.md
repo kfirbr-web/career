@@ -65,6 +65,9 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
 - **Side projects** (separate Projects section, never folded into Bewith bullets) `HO`:
   - X/Twitter Bookmark Organizer Chrome extension, built with Claude Code
   - Job search tracking tool, built with Claude Code, Supabase, and Git
+  - Career agent: Claude Code setup with written rules, one facts file, reusable skills (vet a
+    posting, tailor a CV, interview prep), and a Python script that sweeps Greenhouse, Lever, and
+    Ashby boards for new postings (this repo). OK to name on CVs. (Kfir, 2026-09-28)
 - **Gap since Oct 2025:** studied French full-time for 6 months, Jan 2026 - Jul 2026 (now A2);
   built the side projects above; job search. (Kfir, 2026-09-28)
 - **Why I left Bewith:** laid off in a restructuring; the company made cuts and the role was part of
@@ -318,6 +321,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | No banking/lending experience: frame fintech adjacency (payments, Stripe, refunds on public funds), never claim banking. No formal business cases/ROI models for leadership: don't claim them | Kfir (BDC) |
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |
 | 2026-09-28 | AI features ceiling raised from "proposed" to "prototyped" | `BL` |
 | 2026-09-28 | Engagement scoring: "Defined… that Engineering built" | `BL` |

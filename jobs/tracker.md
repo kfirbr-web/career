@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-28 | BDC | PM, AI-Native Incubator | Stretch | PM_BDC (draft) | Interested | Kfir approves CV draft; send posting link | `2026-09-28 BDC/` |
 | 2026-09-28 | Monks | ? PM | Apply | PM_Monks | ? | ? | `2026-09-28 Monks/` |
 | 2026-09-25 | Karbon | ? CSM | Apply | CSM_Karbon | ? | ? | `2026-09-25 Karbon/` |
 | 2026-09-25 | GC AI | ? CSM | Apply | CSM_GCAI | ? | ? | `2026-09-25 GCAI/` |

@@ -84,6 +84,17 @@
 ## Cover note
 None
 
+## Application answers
+- **P&C / commercial insurance experience (years, policy lines):**
+  I don't have direct P&C or commercial insurance experience, so 0 years and no policy lines. My 5 years
+  are in B2B2C SaaS at Bewith.io, where I owned about $2M ARR as a Customer Success Manager and then
+  worked as the Product Manager for the same clients: 100+ municipalities and organizations across
+  North America and Europe. The work maps closely to this role: account management, QBRs for city
+  managers and senior leaders, checking usage against each contract, writing SOWs for client
+  requests, and taking enhancements through release with Engineering. Municipal operations were new
+  to me too, and every city worked differently, so I learned that domain fast. I'd bring the same
+  approach to P&C.
+
 ## Interview prep
 - Stages / people: Unknown (video interview with recruiter first, per posting)
 - Stories to use: engagement scoring → at-risk clients; subscriptions (client request → shipped,

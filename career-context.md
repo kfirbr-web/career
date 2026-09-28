@@ -2,7 +2,8 @@
 
 Single source of truth. Every CV line, cover note, and interview answer must trace back here.
 Items marked **[TODO]** need Kfir. Items marked **[confirm]** were pulled from existing tailored CVs
-(Google Drive, Sep 2026) and need a yes/no before they count as verified.
+(Google Drive, Sep 2026) and need a yes/no. Bullet wording and metrics are locked in
+`cv/bullet-library.md`.
 
 ---
 
@@ -15,11 +16,18 @@ Items marked **[TODO]** need Kfir. Items marked **[confirm]** were pulled from e
 - **Work authorization:** [TODO] Canada status; US (needs sponsorship or not?)
 - **Languages:** English (fluent), Hebrew (native), French (A2)
 - **CV length:** 1 page [confirm]
+- **Summary openers:** see `cv/bullet-library.md` (PM vs CSM; "startup" only when the JD requires it;
+  never "5 years across…")
 - **CV file format / preview method:** [TODO] Google Docs → PDF export? Check fonts render the same.
 
 ### Voice rules
 - Plain facts, no adjectives. Say what was built and what changed.
 - Past tense, active verbs, one idea per bullet.
+- Plain-language check: would Kfir say this line out loud to an interviewer?
+- No filler ("evaluating tradeoffs across scope and timeline," "scalable workflows"), no jargon
+  ("discovery synthesis," "testable concept"), no hedges ("where possible"), no trait-style lines.
+- No JD mirroring.
+- **No em dashes** in any resume text.
 - [TODO] anything else you always fix in drafts
 
 ### Banned words
@@ -47,56 +55,57 @@ leveraged, spearheaded, passionate, results-driven, synergy, dynamic, [TODO: add
 
 ## 3. Verified numbers
 
-Every number needs a source (dashboard, report, email, memory) and a date. Unverified = can't use.
+Metrics below are locked in `cv/bullet-library.md` (treated as confirmed by Kfir). Each metric
+belongs to **one story only** and appears **at most once per resume**. Source/date column is
+optional backup for interviews.
 
-| # | Claim | Source | Date | Status |
-|---|---|---|---|---|
-| N1 | Owned ~$2M ARR in client contracts as CSM | [TODO] | 2021 | [confirm] |
-| N2 | Roles & permissions model → clients expanded contracts 100%+ into new departments | [TODO] | | [confirm] |
-| N3 | Subscription + multi-entry payment product → $100K+ incremental ARR | [TODO] | | [confirm] |
-| N4 | CRM / API data model changes supported 30+ contract renewals | [TODO] | | [confirm] |
-| N5 | Engagement scoring → 18% QoQ usage growth | [TODO] | | [confirm] |
-| N6 | First mobile apps (resident ticketing + staff scanner) → $55K+ new revenue | [TODO] | | [confirm] |
-| N7 | Onboarding time cut 33% (9 → 6 days) | [TODO] | | [confirm] |
-| N8 | Login conversion 40% → 85%, related support tickets −90%, no eng work | [TODO] | | [confirm] |
-| N9 | Integration mapping tool cut eng integration effort from days to hours | [TODO] | | [confirm] |
-| N10 | Event creation redesign: time to first event from tens of minutes to a few minutes | [TODO] | | [confirm] |
-| N11 | CSM: ARR +20% by upgrading 4 entry-level clients to enterprise contracts | [TODO] | 2021 | [confirm] |
-| N12 | CSM: 100% retention across 30+ accounts | [TODO] | 2021 | [confirm] |
-| N13 | Platform reached 12M+ residents; 100+ municipalities/orgs | [TODO] | | [confirm] |
-| N14 | Promoted CSM → PM in under a year | — | Nov 2021 | [confirm] |
+| # | Claim | Story (library #) | Source / date |
+|---|---|---|---|
+| N1 | Owned ~$2M ARR in client contracts as CSM (**summary only**) | CSM | [optional] |
+| N2 | Roles & permissions model → 100%+ contract expansion into new departments | #4 | |
+| N3 | Subscription + multi-entry payments → $100K+ incremental ARR | #1 | |
+| N4 | CRM / API data model changes → supported 30+ contract renewals | #2 only | |
+| N5 | Engagement scoring → 18% QoQ usage growth | #6 | |
+| N6 | First mobile apps → $55K+ new revenue | #3 | |
+| N7 | Onboarding time −33% (9 → 6 days) | #5 | |
+| N8 | Login conversion 40% → 85%; related tickets −90%; no eng work | #8 | |
+| N9 | Integration mapping tool: eng integration effort days → hours | #13 | |
+| N10 | Event creation: time to first event tens of minutes → a few minutes | #9 | |
+| N11 | CSM: ARR +20% by upgrading 4 entry-level clients to enterprise | CSM | |
+| N12 | CSM: 100% retention across 30+ accounts | CSM | |
+| N13 | 100+ municipalities/orgs across NA + Europe; 12M+ residents | summary | [confirm 12M+] |
+| N14 | Promoted CSM → PM in under a year | CSM (italic line) | Nov 2021 |
 
-### Never claim
-- No invented numbers or rounded-up estimates.
-- No "hours saved" / "% efficiency" without a source.
-- No client names or confidential contract details unless public. [TODO: any client names that are OK?]
-- [TODO] anything else off-limits (e.g., titles you didn't formally hold, team size you didn't manage)
-
----
+### Never claim (claim ceilings)
+- **Retired:** 35% retention. Never use.
+- **Pricing:** recommended only. Never "set" or "owned" pricing.
+- **Monolith → microservices migration:** advised the CPO and CTO on product impact only; they led.
+- **Renewal negotiations:** supported only, never led.
+- **AI features (#11):** ceiling is "prototyped," never "shipped." No post-prototype outcome. Don't
+  claim human-in-the-loop requirements.
+- **Engagement scoring (#6):** internal dashboard Engineering built to Kfir's spec. Not a BI tool
+  (no Metabase / Looker / Tableau).
+- **SQL:** a mix; some queries himself, some run by engineers.
+- **QBR audience:** "client leadership," not "C-level," unless confirmed client-facing C-level.
+- **Multi-region (#16):** assigned clients to EU/US regions and configured subdomains; did not design
+  the regional architecture; no dedicated per-client infrastructure.
+- **Vendors (#15):** no concrete negotiation outcome exists; pair with #13 or #14.
+- No invented numbers, no "hours saved" / "% efficiency" without a source.
+- [TODO] client names OK to mention? Anything else off-limits?
 
 ## 4. Stories (problem → what I built → result)
 
-Feed both bullets and interviews. Fill in the details you'd say out loud.
+Canonical bullet wording and the **Story Selection Guide** (which story to lead with per role
+signal) live in `cv/bullet-library.md` (#1–#23). This section holds what the library doesn't: the
+details Kfir would say out loud in an interview.
 
-- **S1 Roles & permissions** — complex municipal org structures → roles/permissions model → 100%+
-  contract expansion (N2). [TODO: details, your decisions, what went wrong]
-- **S2 Manual refunds over automation** — refunds touched public funds and audit trails → chose
-  admin-approved refunds for first paid-events launch → shipped on time, no compliance blockers,
-  real cases informed later automation. [TODO: details]
-- **S3 Login conversion fix** — funnel analysis showed drop-off → config + copy only → 40% → 85% (N8).
-- **S4 Onboarding** — interviews + behavioral data → self-serve setup + event-based workflows → 9 → 6
-  days (N7).
-- **S5 Mobile apps from zero** — phased rollout + post-launch tracking → $55K+ (N6).
-- **S6 Engagement scoring** — defined score, Eng built it, combined with CS/support data → 18% QoQ (N5).
-- **S7 Integration mapping tool** — replaced spreadsheet process, Postman API validation → days → hours (N9).
-- **S8 Stripe / webhook debugging** — SQL + logs to trace sync/reconciliation errors, defined fixes.
-- **S9 AI features** — scoped prompt-based search and generative text tool; decided where AI helps
-  vs adds complexity. [TODO: shipped or prototype only?]
-- **S10 CSM expansion** — 4 entry-level → enterprise contracts, +20% ARR (N11).
-- [TODO] a failure / conflict story (for behavioral rounds)
-- [TODO] a disagreement-with-leadership story
+[TODO] For the stories you lead with most (#1, #2, #4, #5, #6, #8, #13, #17), add: the context,
+your specific decisions, what went wrong or was hard, who else was involved.
 
----
+Missing stories (needed for behavioral rounds):
+- [TODO] a failure / mistake story
+- [TODO] a conflict or disagreement-with-leadership story
+- [TODO] a "said no to a client / Sales" story
 
 ## 5. Target roles (ranked)
 
@@ -161,11 +170,11 @@ Location filters: [TODO] Montreal, Remote-Canada, Remote-North America?
   1. Title + 5 years + B2B2C SaaS, 100+ municipalities/orgs, NA + Europe
   2. The track-specific angle (PM: discovery→launch / CSM: $2M ARR portfolio / AI: prototyping)
   3. One headline number matched to the posting
-- **Bewith PM bullets:** 7–8, ordered by relevance to the posting (pick from `cv/bullet-bank.md`)
-- **Bewith CSM bullets:** fixed 3 + "Promoted to Product Manager in under a year based on performance."
+- **Bewith PM bullets:** 7–8, picked and ordered with the library's Story Selection Guide (`cv/bullet-library.md`)
+- **Bewith CSM bullets:** locked 3 + *Promoted to Product Manager in under a year based on performance.* (italic; the only italic line)
 - **Peres Center:** fixed 2 bullets
 - **Education, Skills (6 grouped lines), Languages** — skills lines change per track
-- Dates use en dash: `Nov 2021 – Oct 2025`
+- Dates use en dash: `Nov 2021 – Oct 2025` (en dash for date ranges only; no em dashes)
 
 ---
 

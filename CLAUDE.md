@@ -23,7 +23,7 @@ career/
 │   └── interview-prep.md      <- mock interview build
 ├── cv/
 │   ├── README.md              <- where the masters live (Google Drive) — never edited per job
-│   └── bullet-bank.md         <- your existing bullet bank goes here (placeholder). Select, don't invent
+│   └── bullet-library.md      <- LOCKED canonical bullets + story selection guide. Select, don't invent
 ├── jobs/
 │   ├── tracker.md             <- one table, every job, every status (including skips)
 │   ├── _template/notes.md     <- copy into each new job folder
@@ -37,7 +37,7 @@ career/
 - Every correction Kfir makes becomes a written rule in `career-context.md` → "Corrections log".
   Same fix twice = the system failed.
 - Masters in `cv/` are never edited for a single job. General improvements go into the master and
-  the bullet bank so the next job starts better.
+  `cv/bullet-library.md` (with a Version Log entry: date, what, why) so the next job starts better.
 - Every posting vetted goes into `jobs/tracker.md`, including skips.
 - Tailored CVs are Google Docs in Drive named `Kfir_Braunstein_<Track>_<Company>`; link them from
   the job's `notes.md`.

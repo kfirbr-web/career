@@ -8,8 +8,9 @@ named `Kfir_Braunstein_<Track>_<Company>`) and linked from `jobs/<folder>/notes.
 | PM  | [TODO: link the master PM CV] | |
 | CSM | [TODO: link the master CSM CV] | |
 
-`bullet-bank.md` holds every approved bullet across tracks. Tailoring selects from it; new wording
-only gets added after Kfir approves it.
+`bullet-library.md` is the locked, canonical version of every recurring bullet, plus the story
+selection guide. Tailoring starts from it and only rewords for JD keyword fit. A genuinely stronger
+version replaces the library entry (logged in its Version Log), never lives in one resume only.
 
 When a tailoring change is a general improvement (a better fact, a fixed phrase), apply it to the
-master and the bullet bank too.
+master and the bullet library too.

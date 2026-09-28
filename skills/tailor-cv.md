@@ -6,9 +6,19 @@ Only after `vet-job.md` gave Apply or Stretch.
 - Title line: swap to match the posting.
 - Skills: swap 3–4 terms (or pick the 6 skill lines for the track).
 - Summary: reword one line only where a true fact matches a posting term.
-- Bullets: reorder by relevance; swap in bullets from `cv/bullet-bank.md`; reword a bullet only
-  where a true fact from `career-context.md` matches a key term.
+- Bullets: reorder by relevance; pick bullets from `cv/bullet-library.md` using its **Story
+  Selection Guide** (lead / second / avoid for the role signal); reword only for JD keyword fit.
+  Respect each bullet's tailoring notes (claim ceilings like "prototyped, never shipped").
 - **Never** rewrite the whole CV. **Never** change layout, fonts, or page count.
+
+## Library rules every bullet must pass
+- No metric repeated in the same resume. Each metric belongs to its own story (e.g. 30+ renewals
+  stays with #2 CRM/API).
+- No JD mirroring. Connect to the JD's actual signal instead of echoing its phrasing.
+- Plain-language check: would Kfir say this out loud to an interviewer? No filler, no jargon, no
+  hedges, no trait-style lines.
+- **No em dashes** anywhere in resume text.
+- Use the standard summary openers from the library (PM vs CSM).
 
 ## Steps
 1. Start from the right master (`cv/README.md`) for the track.
@@ -25,5 +35,6 @@ Only after `vet-job.md` gave Apply or Stretch.
 5. Create the copy in Drive as `Kfir_Braunstein_<Track>_<Company>`. Check it still fits one page in
    the real-font viewer; export PDF from there.
 6. Record the changes + Drive link in the job's `notes.md`; set tracker "CV used".
-7. If any change is a general improvement, propose adding it to the master and bullet bank.
+7. If any change is a general improvement, propose updating the master and
+   `cv/bullet-library.md` (add a Version Log line: date, what changed, why).
 8. Any correction Kfir made → new rule in `career-context.md` §10.

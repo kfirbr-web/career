@@ -6,7 +6,8 @@ named `Kfir_Braunstein_<Track>_<Company>`) and linked from `jobs/<folder>/notes.
 | File | What | Status |
 |---|---|---|
 | `Kfir_Braunstein_PM_Jerry_v2.docx` | Layout base for every build | In use |
-| `master-PM.md` | PM master content, built from the CVs that moved forward | **Draft; awaiting approval** |
+| `Kfir_Braunstein_PM_Master.docx` / `.pdf` | **PM master**: start every PM build here | Locked 2026-09-28 |
+| `master-PM.md` | Text of the PM master + why it's built that way + swap-in bench | Reference |
 | `moved-forward/` | CVs that got Kfir to a screen/interview (Lightspeed, Botpress, GoTo, Lyft) | Reference only |
 | CSM master | [TODO] after the PM master is locked | |
 

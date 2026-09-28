@@ -24,7 +24,8 @@ career/
 ├── cv/
 │   ├── README.md              <- which file is what; masters never edited per job
 │   ├── Kfir_Braunstein_PM_Jerry_v2.docx <- layout base for every build
-│   ├── master-PM.md           <- PM master content (draft)
+│   ├── Kfir_Braunstein_PM_Master.docx/.pdf <- PM MASTER: every PM build starts here
+│   ├── master-PM.md           <- master's text + reasoning + swap-in bench
 │   ├── moved-forward/         <- CVs that got to a screen/interview (reference)
 │   └── bullet-library.md      <- LOCKED canonical bullets + story selection guide. Select, don't invent
 ├── jobs/

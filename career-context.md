@@ -14,7 +14,7 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
 
 - **Name:** Kfir Braunstein
 - **Location:** Montreal, QC, Canada
-- **Header on CV:** Montreal, QC, Canada | phone | kfirbr@gmail.com | LinkedIn (always a hyperlink
+- **Header on CV:** Montreal, QC, Canada | 514-462-2234 (the only phone to use; 431-294-5256 is old) | kfirbr@gmail.com | LinkedIn (always a hyperlink
   with display text "LinkedIn"; never a raw URL, never omitted) `HO`
 - **Work setup:** open to remote, hybrid, or on-site. **No relocation to the US.** (Kfir, 2026-09-28)
 - **Work authorization:** [TODO] Canada status (only needed for form questions)
@@ -52,9 +52,9 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
 
 | Dates | Role | Company | One line |
 |---|---|---|---|
-| Nov 2021 - Oct 2025 | Product Manager | Bewith.io (B2B2C SaaS, 100+ municipalities and organizations, North America and Europe) | Sole PM for the full platform; tripod with Design and Engineering; planning sessions with the CPO |
+| Nov 2021 - Oct 2025 (never Oct 2021) | Product Manager | Bewith.io (B2B2C SaaS, 100+ municipalities and organizations, North America and Europe) | Sole PM for the full platform; tripod with Design and Engineering; planning sessions with the CPO |
 | Feb 2021 - Oct 2021 | Customer Success Manager | Bewith.io | ~$2M ARR portfolio; promoted to the company's first PM in under a year |
-| Dec 2018 - Dec 2019 | Project Manager and Content Developer | Peres Center for Peace and Innovation (non-profit) | Multi-year lecture program, full P&L |
+| Dec 2018 - Dec 2019 (never Dec 2020) | Project Manager and Content Developer | Peres Center for Peace and Innovation (non-profit) | Multi-year lecture program, full P&L |
 | 2015 - 2019 | B.Arch. | Bezalel Academy of Arts and Design, Jerusalem | |
 
 - **Title rule:** always "Product Manager." "Product and Operations Manager" only for ops-facing roles
@@ -65,9 +65,9 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
   - X/Twitter Bookmark Organizer Chrome extension, built with Claude Code
   - Job search tracking tool, built with Claude Code, Supabase, and Git
 - **Gap since Oct 2025:** studied French full-time for 6 months, Jan 2026 - Jul 2026 (now A2);
-  built the side projects above; job search. (Kfir, 2026-09-28) [TODO: Oct-Dec 2025?]
+  built the side projects above; job search. (Kfir, 2026-09-28)
 - **Why I left Bewith:** [TODO]
-- **Peres Center → Bewith gap (Dec 2019 - Feb 2021):** [TODO] anything to say if asked?
+- **Peres Center → Bewith gap (Dec 2019 - Feb 2021):** not relevant (Kfir); don't raise it.
 
 ---
 
@@ -138,6 +138,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | AI / Builder | Claude Code, Claude Cowork, ChatGPT |
 | Data / Automation | Airtable |
 | Design | AutoCAD (architecture background) |
+| Testing | A/B Testing (confirmed by Kfir 2026-09-28) |
 
 `CV` also uses Monday, Slack, Loveable. [TODO: confirm these are OK]
 
@@ -267,7 +268,8 @@ Location filters: [TODO] Montreal, Remote-Canada, Remote-North America?
 ## 9. CV setup `HO` `BL`
 
 **Layout base:** `cv/Kfir_Braunstein_PM_Jerry_v2.docx` (Calibri, 1cm margins confirmed).
-**Content base:** `cv/master-PM.md` (draft built from the CVs that moved forward; pending approval).
+**Content base:** `cv/Kfir_Braunstein_PM_Master.docx` (text in `cv/master-PM.md`), built from the CVs
+that moved forward.
 
 **Layout (never changes):**
 - Calibri throughout. Body 10pt, name 16pt. Margins 1cm on all sides.
@@ -287,8 +289,7 @@ voice; doesn't repeat bullet 1; short sentences; no JD mirroring.
 **Bullets:** first bullet hits the JD's top signal with a hard outcome. 5-8 PM bullets to fit one page.
 **CSM section:** locked 3 bullets + promoted line. **Peres Center:** locked 2 bullets.
 
-**Date format [CONFLICT]:** `HO` says a plain hyphen (`Nov 2021 - Oct 2025`). Some September CVs
-(Karbon, GCAI, Fortra) use an en dash (`Nov 2021 – Oct 2025`); Monks uses a hyphen. Pick one.
+**Date format:** plain hyphen: `Nov 2021 - Oct 2025` (as in the PM master).
 
 **File naming:** `Kfir_Braunstein_<Track>_<Company>` (e.g. `_PM_`, `_CSM_`, `_ProductOps_`, `_PMO_`).
 
@@ -303,6 +304,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |
 | 2026-09-28 | AI features ceiling raised from "proposed" to "prototyped" | `BL` |
 | 2026-09-28 | Engagement scoring: "Defined… that Engineering built" | `BL` |
+| 2026-09-28 | Phone is 514-462-2234; Peres ends Dec 2019; A/B Testing confirmed; "company's first Product Manager" OK | Kfir |
 | 2026-09-28 | Pay is deferred at this stage; don't ask about it | Kfir |
 | 2026-09-28 | No relocation to the US | Kfir |
 | 2026-07-02 | Never include Israel in the Bewith.io descriptor | `HO` |

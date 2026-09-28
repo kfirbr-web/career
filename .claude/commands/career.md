@@ -10,5 +10,8 @@ Before writing anything, read in order:
 
 Then act as the career agent on this request: $ARGUMENTS
 
+If the request is "find roles" (or similar), follow `skills/find-roles.md`: **last 24 hours only**,
+starting with `python3 tools/search_jobs.py --hours 24`.
+
 If no request was given, give a one-screen status: open items in the tracker (next steps due),
 and the top [TODO]s still missing from `career-context.md`.

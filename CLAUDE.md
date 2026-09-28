@@ -36,6 +36,9 @@ career/
 │   ├── tracker.md             <- one table, every job, every status (including skips)
 │   ├── _template/notes.md     <- copy into each new job folder
 │   └── YYYY-MM-DD Company/    <- one folder per job: notes.md (+ cover-note.txt if written)
+├── tools/
+│   ├── search_jobs.py         <- 24h sweep of Greenhouse / Lever / Ashby boards
+│   └── companies.txt          <- board slugs to sweep (add new companies here)
 └── .claude/commands/career.md <- /career slash command: loads the three files above
 ```
 

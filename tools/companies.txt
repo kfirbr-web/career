@@ -1,0 +1,43 @@
+# One board slug per line. The search tries each slug on Greenhouse, Lever and Ashby.
+# Add a company by adding its slug (the part after the board URL, e.g. jobs.lever.co/<slug>).
+# Unverified seeds: the first run reports which ones don't resolve; delete or fix those.
+
+# Past applications / interviews
+lyft
+samsara
+lightspeedhq
+botpress
+goto
+narvar
+axon
+trulioo
+maintainx
+nesto
+solink
+sherweb
+monarch
+cohere
+1password
+wealthsimple
+karbon
+fortra
+monks
+
+# Montreal / Canada / remote-NA SaaS
+hopper
+coveo
+kabam
+pointclickcare
+xsolla
+nerdwallet
+ramp
+dialogue
+workleap
+appdirect
+unity
+shopify
+clio
+wave
+jobber
+thinkific
+ada

@@ -189,7 +189,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 
 ## 5. Target roles
 
-Pulled from ~40 builds in `HO` and Drive. [TODO] rank these and confirm seniority.
+Pulled from ~40 builds in `HO` and Drive. Not ranked: all in scope.
 
 1. **Product Manager**: B2B / B2B2C SaaS, platform, payments, 0-to-1, AI PM, mobile PM, Product Owner
 2. **Customer Success Manager**: mid-market / enterprise SaaS, onboarding-heavy
@@ -198,7 +198,8 @@ Pulled from ~40 builds in `HO` and Drive. [TODO] rank these and confirm seniorit
 4. **Product Ops / GTM / Program**: "Product and Operations Manager" title (Autodesk, Axon, Samsara)
 5. **Lifecycle / digital CS** (1Password)
 
-- **Seniority:** Associate PM up to Senior PM seen in builds. [TODO] where do you want to aim?
+- **Seniority:** both PM and Senior PM (and CSM / Senior CSM). (Kfir, 2026-09-28)
+- **All five tracks are in scope.** (Kfir, 2026-09-28)
 - **Applies widely:** Kfir applies to dozens of roles a day. **Never ask about role priority or how
   serious an application is.** `HO`
 
@@ -267,8 +268,7 @@ Pulled from ~40 builds in `HO` and Drive. [TODO] rank these and confirm seniorit
 
 ## 8. Search terms
 
-[TODO] confirm / add
-- "Product Manager" B2B SaaS, Montreal / Remote Canada
+- "Product Manager" / "Senior Product Manager" B2B SaaS, Montreal / Remote Canada
 - "Product Manager" payments / platform / GovTech / civic tech
 - "Technical Product Manager" integrations / API
 - "Product Owner" SaaS Montreal
@@ -276,7 +276,9 @@ Pulled from ~40 builds in `HO` and Drive. [TODO] rank these and confirm seniorit
 - "Product Operations" / "Product and Operations Manager"
 - "Customer Success Manager" SaaS, Remote Canada
 
-Location filters: [TODO] Montreal, Remote-Canada, Remote-North America?
+**Location filters:** Montreal (any setup) · Remote Canada · Remote North America. (Kfir, 2026-09-28)
+**Freshness:** searches return postings from the **last 24 hours** only. (Kfir, 2026-09-28)
+**Board list:** `tools/companies.txt`; **sweep:** `tools/search_jobs.py` (see `skills/find-roles.md`).
 
 ---
 
@@ -319,6 +321,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |
 | 2026-09-28 | AI features ceiling raised from "proposed" to "prototyped" | `BL` |
 | 2026-09-28 | Engagement scoring: "Defined… that Engineering built" | `BL` |
+| 2026-09-28 | Searches = last 24h only; PM + Senior PM; Montreal / Remote CA / Remote NA; all tracks | Kfir |
 | 2026-09-28 | Permanent resident; laid off in restructuring; available immediately | Kfir / Lightspeed prep |
 | 2026-09-28 | Tailoring review: show only the full "after" draft, no before → after list | Kfir |
 | 2026-09-28 | 30+ renewals replaces 35% everywhere; 18% and 33% can go on either of their two stories, once per resume; 100+ accounts / no added headcount confirmed | Kfir |

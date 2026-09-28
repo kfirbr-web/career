@@ -44,23 +44,22 @@
 
 ## CV
 - **Track / base:** PM / `Kfir_Braunstein_PM_Master.docx`
-- **Tailored copy:** [Kfir_Braunstein_PM_BDC](https://docs.google.com/document/d/14_a1m5ezqkE2Ti26O1HjsmchhRz0mBVmHRfF7sUSbJ0/edit) (Google Doc, uploaded from the .docx built on the PM master)
-- **v2 (2026-09-28, after comparing with another project's draft):** local file
-  `Kfir_Braunstein_PM_BDC_v2.docx` in this folder; not in Drive yet (see Log). Changes from master:
+- **Tailored copy (final):** [Kfir_Braunstein_PM_BDC](https://docs.google.com/document/d/10M_kIPjNCoxBsrjI-g-xxTK-3tDjbkm7K8ee91HLECE/edit)
+  (Google Doc; source .docx in this folder). Old Drive copies renamed, not deleted:
+  `Kfir_Braunstein_PM_BDC_old_v1` and `Kfir_Braunstein_PM_BDC_old_other-project`.
+- **Changes from master:**
   - Summary: sentence 2 = sole PM for the full platform; sentence 3 (client contact / QBRs) replaced
     with the planning line: benefits, alternatives, engineering-hour estimates (new fact, Kfir).
   - Bullets: #1 (pricing variant), #11, #17, #2 (short: "cutting or delaying scope", "during the
-    move to microservices"), #15+#13 combined (vendors + mapping tool), #9 event form (UX).
-    Dropped: #5 onboarding 33%, #4 permissions, #3 mobile, #6 engagement 18%, #8 login (for fit;
-    swap #8 for #9 if the UX line matters less than the 40% to 85% number).
+    move to microservices"), #15+#13 combined (vendors + mapping tool), #8 login.
+    Dropped: #5 onboarding 33%, #4 permissions, #3 mobile, #6 engagement 18%, #9 event form
+    (Kfir chose #8 over #9: exact numbers + root-cause signal beat the UX line).
   - Skills: AI & Builder Tools row first; Loveable → Claude Cowork; Go-to-Market → MVP Scoping;
     KPI Definition → Root-cause Analysis; Linear first in Tools.
   - Projects: career agent only (one line).
   - Fit: one page with ~1 line spare (Carlito render: last line 747pt vs Jerry V2 761pt).
-- **v1:** [Kfir_Braunstein_PM_BDC](https://docs.google.com/document/d/14_a1m5ezqkE2Ti26O1HjsmchhRz0mBVmHRfF7sUSbJ0/edit)
-  (superseded). The other project's draft is a second Doc with the same name:
-  https://docs.google.com/document/d/1v-6GziWbXj0_qnztFv6NbY_lpNrxiGmK6P3OSxH4NnA/edit
-  (it claims "wrote short business cases", which the facts file doesn't allow).
+  - History: v1 (sole-PM summary, no vendors, 44-word CRM bullet) → compared with another
+    project's draft (which overclaimed "wrote short business cases") → final.
 
 ## Cover note
 Saved in `cover-note.txt` (2026-09-28). Names the banking gap plainly and points to payments work.
@@ -79,3 +78,4 @@ Saved in `cover-note.txt` (2026-09-28). Names the banking gap plainly and points
 | 2026-09-28 | Vetted: Stretch. Draft CV text shown for approval. |
 | 2026-09-28 | Kfir approved; CV built and uploaded to Drive; cover note drafted. |
 | 2026-09-28 | Compared with another project's draft; v2 built (planning line, vendors, UX bullet, shorter CRM bullet). |
+| 2026-09-28 | Final: login bullet back in place of event form; uploaded to Drive; old Docs renamed `_old_*`. |

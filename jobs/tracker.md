@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-28 | PIP Canada (Protective Industrial Products) | PM, First Aid and Footwear (Laval, QC) | Skip | — | Passed | — | — |
 | 2026-09-28 | Insurity | Senior CSM, Decisions Suite (Remote - Canada) | Stretch | CSM_Insurity | Interested | Kfir reviews CV and applies (Canada posting) | `2026-09-28 Insurity/` |
 | 2026-09-28 | BDC | PM, AI-Native Incubator | Stretch | PM_BDC | Interested | Kfir reviews CV + cover note, applies; send posting link | `2026-09-28 BDC/` |
 | 2026-09-28 | Monks | ? PM | Apply | PM_Monks | ? | ? | `2026-09-28 Monks/` |
@@ -56,6 +57,7 @@ Structure Studios, FutureFit (CS Ops).
 
 | Company | Role | Reason |
 |---|---|---|
+| PIP Canada | PM, First Aid and Footwear | Physical-goods category PM (sourcing, SKUs, inventory, Health Canada/FDA product compliance); no SaaS analog |
 | National Bank | Governance PO | Data/analytics domain gap |
 | CN Rail | Telecom PM | Hard telecom requirement |
 | CN Rail | Enterprise PM | 10-year minimum, railroad domain |

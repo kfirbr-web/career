@@ -73,6 +73,20 @@ experience (Kfir: US clients yes, insurance none).
 ## Cover note
 None
 
+## Application answers
+- **What products or services have you sold, and who were your typical customers?**
+  I sold and expanded Bewith.io, a B2B2C SaaS platform that municipalities and organizations used to run
+  events and activities for their residents: event pages, registration and ticketing, payments and
+  memberships, and mobile apps for residents and staff. Typical customers were cities and public
+  organizations across North America and Europe. The buyers were city managers and senior city leaders,
+  and I also worked closely with their IT teams and the internal champions who drove adoption.
+  As a Customer Success Manager I owned about $2M ARR across 30+ accounts, kept 100% retention, and grew
+  ARR by 20% by upgrading 4 entry-level clients to enterprise contracts. As Product Manager I supported
+  Sales from demos through enterprise proposals, and launched a subscription and multi-entry payment
+  product that brought in $100K+ in new ARR from 3 new clients and 4 major expansions. I didn't carry a
+  new-business quota; my commercial work was renewals and expansion of existing accounts, which is
+  what this role is built around.
+
 ## Interview prep
 - Stages / people: Unknown
 - Stories to use: CSM expansion (4 upgrades, +20%); permissions rebuild → 100%+ expansion; engagement

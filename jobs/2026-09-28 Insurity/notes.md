@@ -58,7 +58,9 @@
   - Bullets: #7 (liaison / QBRs) moved from 7th to 3rd; #1 (cross-sell) from 8th to 5th; #22
     (trainings) to last. No bullet text changed.
   - Skills swapped: Renewal Forecasting → Escalation Management; A/B Testing → APIs & Webhooks;
-    Figma → Postman.
+    Figma → Postman. Added (not swapped): Excel, PowerPoint.
+  - QBR bullet (#7): added "reviewing each client's ticket sales revenue and recommending changes
+    to their future events and marketing" (new fact, 2026-09-28).
 
 ## Cover note
 None

@@ -324,6 +324,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | Skills: when a posting asks for a confirmed tool the CV lacks, **add** it to the row; don't swap out existing tools to make room (still one line per row) | Kfir (Insurity) |
 | 2026-09-28 | New facts: Excel + PowerPoint confirmed; reviewed client ticket-sales revenue and gave event/marketing recommendations (client insights, not billing or revenue recognition) | Kfir (Insurity) |
 | 2026-09-28 | Business cases refined: no dollar cost models, but did present benefits, alternatives, and engineering-hour estimates for large features at sprint/quarterly planning. Say that; don't write "wrote business cases" (the other project's BDC draft and the TELUS CV overclaimed) | Kfir (BDC review) |
 | 2026-09-28 | No banking/lending experience: frame fintech adjacency (payments, Stripe, refunds on public funds), never claim banking. No formal business cases/ROI models for leadership: don't claim them | Kfir (BDC) |

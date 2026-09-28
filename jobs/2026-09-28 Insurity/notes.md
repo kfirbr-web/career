@@ -50,11 +50,17 @@
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`)
-- **Tailored copy:** pending Kfir's approval of the draft
+- **Tailored copy (final):** [Kfir_Braunstein_CSM_Insurity](https://docs.google.com/document/d/1M7rWYHDMhwUplqeavqw4jNI6Ckng2h2MnAoe1hkx-3I/edit)
+  (Google Doc; source .docx in this folder). One page, full (Drive PDF export: last line 751pt of 792).
+  Another session's draft was renamed `Kfir_Braunstein_CSM_Insurity_old_other-project` (not deleted).
+  It overclaimed: "checked that usage and billing matched their contracts", "Contract Compliance",
+  "Billing Accuracy" (Kfir: not billing), plus unconfirmed "client champions", "city managers",
+  Agile/Scrum/SDLC/Release Management/Word. Took from it only "which were at risk".
 - **Changes from the master:**
-  - Summary: second sentence reworded: "as a PM took client requests from scoping through release
-    with Engineering" (source: #1 / §2 story line), replacing "led the product side of onboarding,
+  - Summary: second sentence reworded: "as a PM wrote Statements of Work for custom client requests
+    and took them from scoping through release with Engineering" (source: #1 / §2 story line), replacing "led the product side of onboarding,
     QBRs, and renewals" (enhancement-delivery signal; QBRs and onboarding are already in bullets).
+  - #6: "which weren't" → "which were at risk".
   - Bullets: #7 (liaison / QBRs) moved from 7th to 3rd; #1 (cross-sell) from 8th to 5th; #22
     (trainings) to last. No bullet text changed.
   - Skills swapped: Renewal Forecasting → Escalation Management; A/B Testing → APIs & Webhooks;
@@ -78,3 +84,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-28 | Vetted: Stretch. Found the Remote - Canada posting. CV draft sent for approval |
+| 2026-09-28 | Kfir confirmed SOWs, Excel/PowerPoint, ticket-revenue insights. Compared with the other session's Drive draft; built and uploaded final |

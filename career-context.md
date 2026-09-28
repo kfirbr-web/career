@@ -67,7 +67,7 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
 - **Gap since Oct 2025:** studied French full-time for 6 months, Jan 2026 - Jul 2026 (now A2);
   built the side projects above; job search. (Kfir, 2026-09-28)
 - **Why I left Bewith:** [TODO]
-- **Peres Center → Bewith gap (Dec 2019 - Feb 2021):** not relevant (Kfir); don't raise it.
+- **Peres Center → Bewith gap (Dec 2019 - Feb 2021):** [TODO] anything to say if asked?
 
 ---
 

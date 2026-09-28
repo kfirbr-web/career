@@ -80,10 +80,10 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | N1 | ~$2M ARR in client contracts owned as CSM | CSM | **Summary only** `BL` |
 | N2 | 100%+ contract expansion into new departments | #4 Permissions | |
 | N3 | $100K+ incremental ARR | #1 Subscriptions | Interview detail: **3 new clients, 4 major expansions** `SB` |
-| N4 | 30+ contract renewals | #2 CRM/API | **[CONFLICT]** see below |
-| N5 | 18% QoQ usage growth | #6 Engagement scoring | **[CONFLICT]** see below |
+| N4 | 30+ contract renewals | #2 CRM/API only | CV **and** interviews. Replaces 35% retention |
+| N5 | 18% QoQ usage growth | #6 Engagement scoring **or** self-serve configuration workflows | Both contributed; pick per submission, still once per resume |
 | N6 | $55K+ new revenue | #3 Mobile apps | |
-| N7 | Onboarding −33% (9 → 6 days) | #5 Onboarding | **[CONFLICT]** see below |
+| N7 | Onboarding −33% (9 → 6 days) | #5 Onboarding workflows **or** #13 integration mapping | Both contributed; pick per submission, still once per resume |
 | N8 | Login conversion 40% → 85%; related tickets −90%; zero engineering | #8 Login | |
 | N9 | Eng integration effort days → hours | #13 Integration tool | |
 | N10 | Time to first event: tens of minutes → a few minutes | #9 Event form | |
@@ -91,18 +91,20 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | N12 | CSM: 100% retention across 30+ accounts | CSM | |
 | N13 | 12M+ residents engaged (public stat); 100+ municipalities and organizations | Summary | Say "residents engaged," never "active users" `HO` |
 | N14 | Promoted CSM → PM in under a year | CSM italic line | |
-| N15 | CS scaled to 100+ accounts with no added headcount (HubSpot CS ops layer) | Interview only | `SB` `STAR` **[CONFLICT]** see below |
+| N15 | CS scaled to 100+ accounts with no added headcount | HubSpot CS ops layer | Confirmed by Kfir 2026-09-28; OK on CVs and in interviews |
 
-### Metric conflicts to resolve
-1. **35% retention** is retired in `BL` and `HO`, but `SB` and `STAR` still give it as the result of
-   the CRM/API data model story. The interview version should say "supported 30+ contract renewals."
-   → Confirm, and I'll fix those two Drive docs' wording in this repo's story index.
-2. **18% QoQ usage growth:** `BL` credits it to engagement scoring (#6); `SB` and `STAR` credit it to
-   self-serve configuration workflows. Which one is true?
-3. **33% onboarding:** `BL` credits the onboarding workflows (#5); `SB` credits the integration
-   mapping system. `SB` also notes an older "weeks to hours" version. Which one is true?
-4. **100+ accounts, no added headcount:** CSM bullet says 30+ accounts. Is "100+ accounts" the whole
-   company's CS book? OK to use?
+### How the shared metrics work (resolved with Kfir, 2026-09-28)
+- **30+ renewals** is the CRM/API story's result everywhere. It was used on 4 CVs (Lightspeed,
+  Jerry V2, Monks, the PM master) against 1 for 35% (Botpress, June). The Drive *Master_Story_Bank*
+  and *Screening_Prep* still say "35% retention" for this story; **say 30+ renewals instead** when
+  telling it.
+- **18% and 33% came from two efforts each.** Attach each one to whichever story fits the JD best,
+  but **only once per resume**. If 33% goes on the integration mapping bullet, that bullet drops its
+  own "days to hours" line (one metric per bullet).
+  - 18%: engagement scoring (data / CSM / metrics roles) **or** self-serve configuration (self-serve / ops / activation roles).
+  - 33%: onboarding workflows (most roles) **or** integration mapping tool (implementation / integrations / ops roles).
+- **100+ accounts, no added headcount** (HubSpot CS ops layer) is confirmed. It's a different number
+  from the 30+ accounts Kfir personally owned as a CSM; don't mix the two.
 
 ### Never claim (claim ceilings)
 - **Retired:** 35% retention. Never use. `HO` `BL`
@@ -167,7 +169,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | One decision, three audiences | Calendar widget vs family-user structure | **[TODO] confirm details** (`SB` says reconstructed) |
 | Meetings that decide things | Roadmap review rebuilt around trade-off templates | Fewer last-minute surprises |
 | Built something teams adopted without a mandate | Internal ClickUp system | Single source of truth |
-| Scale ops without headcount | HubSpot CS ops layer (lifecycle automation, triggers, escalation, renewal alerts) | N15 (see conflict 4) |
+| Scale ops without headcount | HubSpot CS ops layer (lifecycle automation, triggers, escalation, renewal alerts) | N15 |
 | "What is PM to you?" | US launch: Sales promised any integration; API not ready → embeddable JS widget as a bridge | Launched on time, kept contracts |
 | How do you use AI? | Claude Code for PRDs / user stories / prototypes; Figma Make mockups; job-search app built solo | Specifics on 3 tools |
 | Implementation / white-label | Owned per-client pre-configuration: API settings, data mapping, integrations with city IT (CivicPlus, Granicus, CivicRec) | Templated the mapping |
@@ -304,6 +306,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |
 | 2026-09-28 | AI features ceiling raised from "proposed" to "prototyped" | `BL` |
 | 2026-09-28 | Engagement scoring: "Defined… that Engineering built" | `BL` |
+| 2026-09-28 | 30+ renewals replaces 35% everywhere; 18% and 33% can go on either of their two stories, once per resume; 100+ accounts / no added headcount confirmed | Kfir |
 | 2026-09-28 | Phone is 514-462-2234; Peres ends Dec 2019; A/B Testing confirmed; "company's first Product Manager" OK | Kfir |
 | 2026-09-28 | Pay is deferred at this stage; don't ask about it | Kfir |
 | 2026-09-28 | No relocation to the US | Kfir |

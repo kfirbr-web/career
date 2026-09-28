@@ -128,7 +128,7 @@
 ---
 
 ### 12. Sales / CS Enablement and Ops Tooling
-**No metric**
+**Metric (optional):** CS scaled to 100+ accounts with no added headcount (confirmed 2026-09-28)
 **Use for:** internal tools, CS/Support operations, startup range
 
 > Built CS processes from scratch, including Intercom routing and escalation rules, HubSpot lifecycle workflows, and a shared knowledge base for CS and Support.
@@ -277,6 +277,7 @@
 
 ## VERSION LOG
 
+- **2026-09-28 (career repo):** 18% QoQ and 33% onboarding each came from two efforts. 18% can go on #6 (engagement scoring) or on a self-serve configuration bullet; 33% on #5 (onboarding) or #13 (integration mapping, which then drops "days to hours"). Still once per resume. 30+ renewals confirmed over 35% for #2 in interviews too. New confirmed metric: CS ops layer in HubSpot scaled CS to 100+ accounts with no added headcount (see #12).
 - **2026-09-28:** Plain-language pass on every bullet (#1, #2, #5, #6, #8, #10 reworded) after AI-sounding phrasing was flagged. Added stories #13–#23 from confirmed facts in the Sherweb, Cohere, Monarch, Vention, 1Password, Fortra, GC AI, and Karbon builds. #11 ceiling raised from "proposed" to "prototyped." #6 corrected to "Defined… that Engineering built." Added standard summary openers and CSM-role selection rows.
 - **2026-07-02:** Full audit against 15 historical builds. Corrections to #2, #3, #4, #5; added #10, #11, #12.
 - **2026-07-02:** Library created from the Autodesk Tandem build session.

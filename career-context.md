@@ -318,6 +318,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | Every JD: consultant-style analysis (real needs, pain points, fit, gaps + positioning, tailoring plan + ATS + skills adds, questions before drafting). Quick screen first; full analysis only for Apply/Stretch; token-lean | Kfir |
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |
 | 2026-09-28 | AI features ceiling raised from "proposed" to "prototyped" | `BL` |
 | 2026-09-28 | Engagement scoring: "Defined… that Engineering built" | `BL` |

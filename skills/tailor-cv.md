@@ -1,10 +1,12 @@
 # Skill: tailor a CV
 
-Only after `vet-job.md` gave Apply or Stretch.
+Only after `vet-job.md` gave Apply or Stretch **and** Kfir answered its questions. The tailoring
+plan, ATS table and skills changes from the analysis are the brief; don't redo them.
 
 ## Edit caps
 - Title line: swap to match the posting.
-- Skills: swap 3–4 terms (or pick the 6 skill lines for the track).
+- Skills: start from the master's 6-row template; apply only the adds/drops Kfir approved in the
+  analysis (3–4 terms). Exactly 6 rows, one line each.
 - Summary: reword one line only where a true fact matches a posting term.
 - Bullets: reorder by relevance; pick bullets from `cv/bullet-library.md` using its **Story
   Selection Guide** (lead / second / avoid for the role signal); reword only for JD keyword fit.

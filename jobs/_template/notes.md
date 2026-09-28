@@ -19,8 +19,14 @@
 - Fit (what matches): 
 - Gaps / stretches: 
 
-## Key terms (8–12)
-1. 
+## Analysis (from vet-job.md)
+- **Real role:** 
+- **Pain points:** 
+- **Position as / lead story:** 
+- **Gaps + framing:** 
+- **ATS coverage:** x of y key terms
+- **Skills adds / drops (approved):** 
+- **Kfir's answers:** 
 
 ## CV
 - **Track / base:** PM / CSM

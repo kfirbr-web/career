@@ -27,7 +27,8 @@ means last 24h unless Kfir names another window.
 3. Open every candidate and check it's live and within the window. No proof of the date = don't show
    it as new.
 4. Drop anything already in `jobs/tracker.md`.
-5. Run `skills/vet-job.md` on each survivor, then show the results.
+5. Run the `skills/vet-job.md` quick screen on each survivor and show the list (format below).
+   Full analysis only for the ones Kfir picks, or all Apply / Stretch if Kfir says so.
 6. Add every result to the tracker, skips included.
 
 LinkedIn / Indeed: not searched (login walls, bot blocking). Kfir pastes those in; they get vetted

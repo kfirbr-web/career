@@ -147,6 +147,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | Data / Automation | Airtable |
 | Design | AutoCAD (architecture background) |
 | Testing | A/B Testing (confirmed by Kfir 2026-09-28) |
+| Office | Excel, PowerPoint (confirmed by Kfir 2026-09-28) |
 
 `CV` also uses Monday, Slack, Loveable. [TODO: confirm these are OK]
 
@@ -183,6 +184,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | "What is PM to you?" | US launch: Sales promised any integration; API not ready → embeddable JS widget as a bridge | Launched on time, kept contracts |
 | How do you use AI? | Claude Code for PRDs / user stories / prototypes; Figma Make mockups; job-search app built solo | Specifics on 3 tools |
 | Implementation / white-label | Owned per-client pre-configuration: API settings, data mapping, integrations with city IT (CivicPlus, Granicus, CivicRec) | Templated the mapping |
+| Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. This is **not** billing, contract compliance, or revenue recognition; don't claim those (Kfir, 2026-09-28) |
 
 ### Story rules
 - Balance "we" and "me": every story needs an explicit "I decided / I noticed / I built" moment. `STAR`
@@ -322,6 +324,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | New facts: Excel + PowerPoint confirmed; reviewed client ticket-sales revenue and gave event/marketing recommendations (client insights, not billing or revenue recognition) | Kfir (Insurity) |
 | 2026-09-28 | Business cases refined: no dollar cost models, but did present benefits, alternatives, and engineering-hour estimates for large features at sprint/quarterly planning. Say that; don't write "wrote business cases" (the other project's BDC draft and the TELUS CV overclaimed) | Kfir (BDC review) |
 | 2026-09-28 | No banking/lending experience: frame fintech adjacency (payments, Stripe, refunds on public funds), never claim banking. No formal business cases/ROI models for leadership: don't claim them | Kfir (BDC) |
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |

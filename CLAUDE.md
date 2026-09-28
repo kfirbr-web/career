@@ -42,6 +42,14 @@ career/
 └── .claude/commands/career.md <- /career slash command: loads the three files above
 ```
 
+## Git: one shared branch
+- **`main` is the shared branch.** Every session starts from it and must merge its work back into it
+  before ending: commit on the session's branch, then `git fetch origin main && git merge
+  origin/main` (resolve conflicts), then `git push origin HEAD:main`. Kfir has approved sessions
+  pushing to `main` for this repo.
+- If `main` moved while you worked, merge it in first; never force-push `main`.
+- `jobs/tracker.md` is the file most likely to conflict: keep every row from both sides.
+
 ## Area rules
 - One fact lives in one place: `career-context.md`. If a CV and the facts file disagree, the facts
   file wins and the CV is wrong.

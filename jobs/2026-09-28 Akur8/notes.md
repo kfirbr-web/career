@@ -51,19 +51,24 @@ experience (Kfir: US clients yes, insurance none).
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`)
-- **Tailored copy:** not built yet (draft sent for approval 2026-09-28)
+- **Track / base:** AM (built from the CSM master on the Jerry V2 layout); bullet set from the other CV project's draft, fixed here
+- **Tailored copy (final):** [Kfir_Braunstein_AM_Akur8](https://docs.google.com/document/d/1mHkDayw85ltHeBu3k2aYn--GPYkdXW27347f0e9XHN4/edit)
+  (Google Doc; source .docx in this folder). One page, full (Drive PDF export: last line 763pt of 792); all skill rows one line.
+  The other project's draft was renamed `Kfir_Braunstein_AM_Akur8_old_other-project` (not deleted).
 - **Kfir's answers (2026-09-28):** no quota ever; account mapping informal (don't name it); "account
   plans" OK; on-site client visits yes. Logged in `career-context.md`.
-- **Planned changes from the master (draft):**
+- **Changes from the CSM master:**
   - Summary: 2nd sentence → "Owned about $2M ARR as a CSM, with renewal forecasts and account plans
-    tied to client goals, and as a PM worked with each client from onboarding through renewal and
-    contract expansion."
-  - Order: #4 expansion 1st (top signal: grow the portfolio), #21 renewals 2nd, #6 3rd, #7 4th,
-    #1 5th, #5 6th, #12 7th, #22 8th.
-  - #7 reworded: champions, IT teams, city managers and senior city leaders; on-site visits.
-  - Skills: row "Customer Success" → "Account Management"; Onboarding → Account Plans (Onboarding
-    moves to Training row, replacing Process Building); Roadmap Presentations → Client Champions;
-    Payments & Billing → Contract Compliance.
+    tied to client goals, and as a PM worked with each client from onboarding through renewal and contract expansion."
+  - Bullets: #4 expansion, #21 renewals, #6 scoring, #7 relationships (champions, IT, city managers and
+    senior city leaders, on-site visits, QBRs with ticket-sales revenue insights), #1 cross-sell, #5
+    onboarding, #18 Sales support (demos through enterprise proposals), #2 CRM/API (30+ renewals,
+    migration clause dropped). Dropped: #12 CS processes, #22 trainings (quota role wants commercial signal).
+  - Skills: "Customer Success" row → "Account Management"; Onboarding → Account Plans (Onboarding moved to
+    Training row, replacing Process Building); Roadmap Presentations → Client Champions; Payments & Billing →
+    Contract Compliance; + Proposal Support; + Excel, PowerPoint (added, not swapped).
+  - Fixed from the other project's draft: removed "Stakeholder Mapping" (mapping was informal) and
+    "Executive Relationships" (C-level was internal only); Skills back above Education; "French - A2" as in the master.
 
 ## Cover note
 None
@@ -80,3 +85,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-28 | Vetted: Stretch (quota, 6+ yrs, insurance). Posting live on Ashby. Clarifying questions sent |
+| 2026-09-28 | Compared with the other CV project's Drive draft; imported its memory into the repo; built final AM_Akur8 and uploaded |

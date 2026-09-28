@@ -15,7 +15,8 @@ TITLE_IN = re.compile(r"product manager|product owner|product operations|product
                       r"onboarding|lifecycle|product specialist|technical account manager", re.I)
 TITLE_OUT = re.compile(r"marketing|intern\b|director|\bvp\b|vice president|head of|principal|"
                        r"\bstaff\b|designer|sales development|account executive", re.I)
-LOC_IN = re.compile(r"montr[eé]al|qu[eé]bec|canada|north america|\bnamer\b|americas", re.I)
+LOC_IN = re.compile(r"montr[eé]al|qu[eé]bec|canada|north america|\bnamer\b|americas|toronto|vancouver|"
+                    r"calgary|ottawa|waterloo|edmonton|ontario|alberta|british columbia", re.I)
 REMOTE = re.compile(r"remote|anywhere|distributed", re.I)
 US_ONLY = re.compile(r"\b(us|usa|united states|u\.s\.)\b( only)?", re.I)
 
@@ -52,7 +53,9 @@ def location_ok(loc):
         return True
     if REMOTE.search(loc) and LOC_IN.search(loc):
         return True
-    if REMOTE.search(loc) and not US_ONLY.search(loc):
+    if re.fullmatch(r"\W*canada\W*", loc, re.I):
+        return True  # "Canada" alone usually means anywhere in Canada
+    if REMOTE.search(loc) and not re.sub(r"remote|anywhere|distributed|\W", "", loc, flags=re.I):
         return True  # bare "Remote": keep, verdict step checks eligibility
     return False
 

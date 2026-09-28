@@ -6,7 +6,8 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
 **Sources merged (newest wins unless marked CONFLICT):**
 `BL` = `cv/bullet-library.md` (2026-09-28) · `HO` = Drive *Kfir_Session_Handoff_v10* (2026-07-02) ·
 `SB` = Drive *Master_Story_Bank* (2026-07-16) · `STAR` = Drive *Screening_Prep_Full_STAR_Answers*
-(2026-07-06) · `CV` = tailored CVs in Drive (Sep 2026).
+(2026-07-06) · `CV` = tailored CVs in Drive (Sep 2026) · `PMEM` = the standalone Claude CV project's
+memory export (2026-09-28).
 
 ---
 
@@ -126,6 +127,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
   NOT write SQL independently." → Newest (`BL`) wins unless you say otherwise.
 - **QBR / roadmap audience:** "client leadership," not "C-level," unless confirmed client-facing. `BL`
   Confirmed audience (Kfir, 2026-09-28): **city managers and senior city leaders**; OK to name them. Still not "C-level."
+  Also **system managers** (`PMEM`, MindBridge). Not finance leaders: no CFO or audit-committee claims.
   (`HO` lists "delivered C-level roadmap presentations"; `BL` is stricter and newer.)
 - **SSO / OAuth2 / OIDC:** product requirements level only, not auth architecture. `HO`
 - **Mobile:** Flutter, cross-platform (iOS + Android), not native. Dedicated squad through the whole
@@ -134,7 +136,16 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 - **Multi-region (#16):** assigned clients to EU/US regions and configured subdomains; did not design
   the architecture. `BL`
 - **Vendors (#15):** no concrete negotiation outcome. `BL`
-- **Tools never to add:** Salesforce, Jira, Looker, Amplitude, Tableau, Miro, Mixpanel. `HO`
+- **Tools never to add:** Salesforce, Jira, Looker, Amplitude, Tableau, Miro, Mixpanel. `HO` Also Statsig,
+  Customer.io, Notion (never used). `PMEM`
+- **Management:** CS/Support had their own managers. Kfir's role was functional product leadership and
+  mentoring; never formal people management (no hiring, PTO, or reviews). Mentored junior CSMs only,
+  never PMs or designers. `PMEM`
+- **No margin, cost, or profitability work** at Bewith (revenue/ARR metrics only); P&L only at Peres. `PMEM`
+- **Revenue recognition:** small-scale exposure only; keep off the CV, discuss honestly in interviews. `PMEM`
+- **Subscriptions (#1) had no business case:** never claim one in that bullet. `PMEM`
+- **Scrum:** ran the ceremonies himself (sprint planning, grooming, retros, acceptance criteria); no
+  Scrum Master or PO certification. `PMEM`
 - No invented numbers; no "hours saved" or "% efficiency" without a source.
 
 ### Confirmed tool stack `HO`
@@ -151,7 +162,8 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | Testing | A/B Testing (confirmed by Kfir 2026-09-28) |
 | Office | Excel, PowerPoint, Word (confirmed by Kfir 2026-09-28) |
 
-`CV` also uses Monday, Slack, Loveable. [TODO: confirm these are OK]
+Also confirmed: **Slack, Monday** (used regularly, `PMEM`). Loveable [TODO: confirm]. HTML/CSS: basic,
+via AI-assisted building; OK only when a JD asks. `PMEM`
 
 ---
 
@@ -194,6 +206,16 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | Account plans | Per-client account plans (goals, priorities, next steps); same thing as the CSM "success plans tied to client goals" | Confirmed by Kfir 2026-09-28 (Akur8); OK to say "account plans" on CVs |
 | Client relationships across the org | Knew and worked with buyers, champions, IT, and city leadership at each client, **informally**; never a written map | Kfir 2026-09-28 (Akur8). Say "relationships with champions, IT teams, and city leaders"; **never "account mapping" or "multi-threading"** |
 | On-site client visits | Met clients in person at their sites, beyond the industry conferences with Sales | Confirmed by Kfir 2026-09-28 (Akur8). Where / how often [TODO] |
+| App store releases | Owned App Store / Google Play submission and compliance for the mobile apps, including opening the developer accounts | `PMEM` |
+| Design ownership | Owned UX and wireframing end to end for the first 2 years as PM, before a designer joined; full Figma | `PMEM` |
+| GDPR | Coordinated GDPR compliance with third-party auditors | `PMEM` |
+| Distributed teams | Worked with Engineering and Design in other countries and time zones | `PMEM` (Monks) |
+| Client discovery | Ran structured requirements and discovery sessions with client teams | `PMEM` (Monks) |
+| Roadmap strategy | Set roadmap strategy with the CPO using competitive analysis | `PMEM` (Monks) |
+| Reusable CS assets | Created an onboarding playbook, QBR template, and success plan template that other CSMs used | `PMEM` (MindBridge) |
+| Change management | Helped client teams move off old processes onto the platform, including reluctant staff | `PMEM` (MindBridge) |
+| Pushback on leadership | Pushed back on internal C-level pressure to prioritize features over infrastructure readiness | `PMEM`. Internal leadership, not clients |
+| Bulk actions | Specced bulk action capabilities inside the CRM/API data model work (#2); fold in when a JD signals bulk actions | `PMEM` |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. This is **not** billing, contract compliance, or revenue recognition; don't claim those (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -334,6 +356,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | Imported non-conflicting facts from the standalone CV project's memory (`PMEM`); conflicts sent to Kfir | Kfir (Akur8) |
 | 2026-09-28 | No quota ever; "account plans" OK; account mapping was informal (don't name it); on-site client visits confirmed | Kfir (Akur8) |
 | 2026-09-28 | New fact: attended industry conferences and events with Sales | Kfir (food CPG CSR) |
 | 2026-09-28 | Word confirmed; change requests confirmed alongside SOWs | Kfir (Insurity) |

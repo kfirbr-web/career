@@ -41,8 +41,10 @@
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`), with Insurity's confirmed wording for #7
-- **Tailored copy:** pending approval. Name: `Kfir_Braunstein_CSM_FoodCPG` (rename once the client is known)
-- **Changes from the master (draft, awaiting approval):**
+- **Tailored copy (final):** [Kfir_Braunstein_CSM_FoodCPG](https://docs.google.com/document/d/1Q8uQW0j_IHS1b5D3ixaPIMoE4FK3p4zRMqqRKTz-m0M/edit)
+  (Google Doc; source .docx in this folder, built from the CSM master). One page, full (Drive PDF export: last line 763pt of 792).
+  Rename once the client is known.
+- **Changes from the master (approved by Kfir 2026-09-28):**
   - Summary: second clause "as a PM led the product side of onboarding, QBRs, and renewals" →
     "as a PM worked with Sales and Marketing on proposals, client presentations, and launches" (#18, #19, #7)
   - Bullets picked: #7 (Insurity wording) first, #21, #18 + conferences (new), #4, #19 (new to CSM
@@ -69,3 +71,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-28 | Vetted: Apply (down-level). Kfir confirmed he attended industry conferences with Sales. CV draft sent for approval |
+| 2026-09-28 | Draft approved; built and uploaded to Drive |

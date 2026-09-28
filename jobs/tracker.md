@@ -13,7 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
-| 2026-09-28 | Unnamed food & consumer products co. (via recruiting agency) | Customer Success Representative (Montreal) | Apply (down-level) | CSM_FoodCPG (draft) | Interested | Kfir approves CV draft; ask the agency for the client name | `2026-09-28 FoodCPG CSR/` |
+| 2026-09-28 | Unnamed food & consumer products co. (via recruiting agency) | Customer Success Representative (Montreal) | Apply (down-level) | CSM_FoodCPG | Interested | Kfir applies; ask the agency for the client name | `2026-09-28 FoodCPG CSR/` |
 | 2026-09-28 | PIP Canada (Protective Industrial Products) | PM, First Aid and Footwear (Laval, QC) | Skip | — | Passed | — | — |
 | 2026-09-28 | Insurity | Senior CSM, Decisions Suite (Remote - Canada) | Stretch | CSM_Insurity | Interested | Kfir reviews CV and applies (Canada posting) | `2026-09-28 Insurity/` |
 | 2026-09-28 | BDC | PM, AI-Native Incubator | Stretch | PM_BDC | Interested | Kfir reviews CV + cover note, applies; send posting link | `2026-09-28 BDC/` |

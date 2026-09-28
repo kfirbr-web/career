@@ -165,8 +165,8 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | Behavioral signal, not a request | Clients copy-pasting event content from outside docs → form redesign | Tens of minutes → a few minutes |
 | Pushback on a senior stakeholder (honest partial win) | Naming convention overhaul; CTO pushed back; shipped lowest-risk part + terminology guide + labels side project | Partial win |
 | Mistake #1 | Overbuilt V1 (scoped too many cases before validating) → smaller releases after | Process change |
-| Mistake #2 | Messaging spec sent to build without CTO/Eng review → rework + review checkpoint | **[TODO] confirm details** (`SB` says reconstructed) |
-| One decision, three audiences | Calendar widget vs family-user structure | **[TODO] confirm details** (`SB` says reconstructed) |
+| Mistake #2 | Messaging spec sent to build without CTO/Eng review → rework + review checkpoint | **On hold: don't use** (unconfirmed; Kfir 2026-09-28) |
+| One decision, three audiences | Calendar widget vs family-user structure | **On hold: don't use** (unconfirmed; Kfir 2026-09-28) |
 | Meetings that decide things | Roadmap review rebuilt around trade-off templates | Fewer last-minute surprises |
 | Built something teams adopted without a mandate | Internal ClickUp system | Single source of truth |
 | Scale ops without headcount | HubSpot CS ops layer (lifecycle automation, triggers, escalation, renewal alerts) | N15 |

@@ -23,7 +23,13 @@ Only after `vet-job.md` gave Apply or Stretch.
 ## Steps
 1. Start from the right master (`cv/README.md`) for the track.
 2. Map each of the 8–12 key terms to a fact in `career-context.md` (or mark "no match — don't fake it").
-3. Present a **before → after list**, not a document:
+3. **[CONFLICT: pick one]** The Jerry note says show a before → after list. Your handoff says always
+   show the **full text draft** (summary + all bullets + CSM section) in chat for one approval round,
+   then build once. Until you pick, do this: show the before → after list, then the full text draft
+   in the same message.
+   Before presenting, **run the self-check** against every rule in `career-context.md` and the
+   library, and flag any violation yourself. `HO`
+   Before → after format:
    ```
    Title:   <before>  →  <after>
    Summary: <before>  →  <after>
@@ -32,8 +38,8 @@ Only after `vet-job.md` gave Apply or Stretch.
    Order:   bullets 1,2,3… → 4,1,2…
    ```
 4. Wait for Kfir's approval. Apply only approved changes.
-5. Create the copy in Drive as `Kfir_Braunstein_<Track>_<Company>`. Check it still fits one page in
-   the real-font viewer; export PDF from there.
+5. Build from **Jerry V2** as `Kfir_Braunstein_<Track>_<Company>` (layout rules: `career-context.md`
+   §9). Rasterize the PDF and compare it visually with Jerry V2; flag a thin page before presenting.
 6. Record the changes + Drive link in the job's `notes.md`; set tracker "CV used".
 7. If any change is a general improvement, propose updating the master and
    `cv/bullet-library.md` (add a Version Log line: date, what changed, why).

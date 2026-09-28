@@ -124,6 +124,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 - **SQL:** some queries himself, some run by engineers (`BL`). `HO` said "read/analysis only; does
   NOT write SQL independently." → Newest (`BL`) wins unless you say otherwise.
 - **QBR / roadmap audience:** "client leadership," not "C-level," unless confirmed client-facing. `BL`
+  Confirmed audience (Kfir, 2026-09-28): **city managers and senior city leaders**; OK to name them. Still not "C-level."
   (`HO` lists "delivered C-level roadmap presentations"; `BL` is stricter and newer.)
 - **SSO / OAuth2 / OIDC:** product requirements level only, not auth architecture. `HO`
 - **Mobile:** Flutter, cross-platform (iOS + Android), not native. Dedicated squad through the whole
@@ -184,6 +185,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | "What is PM to you?" | US launch: Sales promised any integration; API not ready → embeddable JS widget as a bridge | Launched on time, kept contracts |
 | How do you use AI? | Claude Code for PRDs / user stories / prototypes; Figma Make mockups; job-search app built solo | Specifics on 3 tools |
 | Implementation / white-label | Owned per-client pre-configuration: API settings, data mapping, integrations with city IT (CivicPlus, Granicus, CivicRec) | Templated the mapping |
+| Client champions | Worked with internal champions at each client to drive rollout and adoption | Confirmed by Kfir 2026-09-28; OK on CVs ("client champions") |
 | Scoping custom client requests | Wrote Statements of Work (SOWs) for custom client requests | Confirmed by Kfir 2026-09-28; details (how many, typical size) [TODO] |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. This is **not** billing, contract compliance, or revenue recognition; don't claim those (Kfir, 2026-09-28) |
 
@@ -325,6 +327,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | New facts: QBR audience = city managers and senior city leaders; worked with client champions | Kfir (Insurity) |
 | 2026-09-28 | New fact: wrote SOWs for custom client requests | Kfir (Insurity) |
 | 2026-09-28 | Skills: when a posting asks for a confirmed tool the CV lacks, **add** it to the row; don't swap out existing tools to make room (still one line per row) | Kfir (Insurity) |
 | 2026-09-28 | New facts: Excel + PowerPoint confirmed; reviewed client ticket-sales revenue and gave event/marketing recommendations (client insights, not billing or revenue recognition) | Kfir (Insurity) |

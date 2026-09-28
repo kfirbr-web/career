@@ -23,12 +23,12 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 | 2026-09-24 | Sherweb | ? PM | Apply | PM_Sherweb | ? | ? | — |
 | ≤2026-09-28 | Cohere | ? | Apply | ? | ? | ? | — |
 | 2026-08-27 | Samsara | Product Ops | Apply | ProductOps_Samsara | ? | ? | — |
-| 2026-08-05 | Lightspeed | ? | Apply | ? | Screen (prep doc exists) | ? | — |
-| 2026-07-23 | GoTo | ? | Apply | ? | Interview round 2 (prep doc exists) | ? | — |
+| 2026-08-05 | Lightspeed | ? | Apply | PM_Lightspeed (moved forward) | Screen (prep doc exists) | ? | — |
+| 2026-07-23 | GoTo | ? | Apply | PM_GoTo (moved forward) | Interview round 2 (prep doc exists) | ? | — |
 | 2026-07-06 | Autodesk | Operations Manager, Platform Product Teams | Apply | PMO_Autodesk | Screen (recruiter) | ? | — |
 | 2026-07-06 | RBC | PM/BA hybrid, Capital Markets (QTS/RAMPP), contract | Apply | ? | Screen | ? | — |
 | 2026-07-06 | ? (adult platform) | Search & Recommendation PM | Apply | ? | Screen (recruiter) | ? | — |
-| 2026-06-16 | Botpress | ? | Apply | ? | Interview (prep v2 exists) | ? | — |
+| 2026-06-16 | Botpress | ? | Apply | PM_Botpress (moved forward) | Interview (prep v2 exists) | ? | — |
 | ≤2026-07 | Wealthsimple | ? | Apply | ? | Interview? (prep referenced) | ? | — |
 
 ## Built in handoff v10 session (2026-07-01)
@@ -41,7 +41,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 | Narvar | Associate PM | PM_Narvar | ? |
 | Nesto | Product Implementation Manager | PM_Nesto | ? |
 | Trulioo | PM, KYB | PM_Trulioo | ? |
-| Lyft | Enterprise Software PM | PM_Lyft | ? |
+| Lyft | Enterprise Software PM | PM_Lyft | Moved forward |
 | MaintainX | Senior PM | PM_MaintainX | ? |
 | oolu | PM | PM_oolu | ? |
 | Samsara | Senior PM | PM_Samsara | ? |

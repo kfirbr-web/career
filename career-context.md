@@ -16,8 +16,8 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
 - **Location:** Montreal, QC, Canada
 - **Header on CV:** Montreal, QC, Canada | phone | kfirbr@gmail.com | LinkedIn (always a hyperlink
   with display text "LinkedIn"; never a raw URL, never omitted) `HO`
-- **Work setup:** [TODO] remote / hybrid / on-site in Montreal? Open to relocating?
-- **Work authorization:** [TODO] Canada status; US (sponsorship needed or not?)
+- **Work setup:** open to remote, hybrid, or on-site. **No relocation to the US.** (Kfir, 2026-09-28)
+- **Work authorization:** [TODO] Canada status (only needed for form questions)
 - **Languages:** English – Fluent | Hebrew – Native | French – A2 (always "A2"; never A1 or
   Beginner) `HO`
 - **Years:** always "5 years" `HO`
@@ -64,7 +64,8 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
 - **Side projects** (separate Projects section, never folded into Bewith bullets) `HO`:
   - X/Twitter Bookmark Organizer Chrome extension, built with Claude Code
   - Job search tracking tool, built with Claude Code, Supabase, and Git
-- **Gap since Oct 2025:** [TODO] what you've been doing (search, side projects above, courses?)
+- **Gap since Oct 2025:** studied French full-time for 6 months, Jan 2026 - Jul 2026 (now A2);
+  built the side projects above; job search. (Kfir, 2026-09-28) [TODO: Oct-Dec 2025?]
 - **Why I left Bewith:** [TODO]
 - **Peres Center → Bewith gap (Dec 2019 - Feb 2021):** [TODO] anything to say if asked?
 
@@ -204,6 +205,8 @@ Pulled from ~40 builds in `HO` and Drive. [TODO] rank these and confirm seniorit
 
 ## 6. Pay
 
+**Deferred:** not relevant at this stage (Kfir, 2026-09-28). If a form forces a number, ask Kfir.
+
 - **Target range (CAD, base):** [TODO] PM: ___  CSM: ___
 - **USD for US-remote roles:** [TODO]
 - **Walk-away floor:** [TODO] (never said out loud)
@@ -230,9 +233,12 @@ Pulled from ~40 builds in `HO` and Drive. [TODO] rank these and confirm seniorit
   differently, so I learned that domain fast." `HO` (Nesto)
 - **Past application answers to reuse:** Nesto (implementation experience, why Nesto, standout) and
   Solink (standout, best person, why Solink) in Drive *Kfir_Session_Handoff_v10*.
-- **Why are you looking? / what have you done since Oct 2025?** [TODO]
+- **What have you done since Oct 2025?** "I took six months to study French full-time, since I'm
+  building my career in Montreal, and used the time to build a couple of tools with Claude Code."
+  [draft; confirm wording]
+- **Why are you looking?** [TODO] (depends on why you left Bewith)
 - **Pay expectations:** see §6. [TODO]
-- **Work authorization / relocation:** [TODO]
+- **Relocation:** open within Canada / remote; not relocating to the US.
 
 ### Questions to ask them `SB`
 - Recruiter: why is the role open; what separates candidates who move forward; team structure and
@@ -260,8 +266,8 @@ Location filters: [TODO] Montreal, Remote-Canada, Remote-North America?
 
 ## 9. CV setup `HO` `BL`
 
-**Base file:** "Jerry V2" (mandatory base for every build). [TODO] upload it or link it; it becomes
-the master in `cv/`.
+**Layout base:** `cv/Kfir_Braunstein_PM_Jerry_v2.docx` (Calibri, 1cm margins confirmed).
+**Content base:** `cv/master-PM.md` (draft built from the CVs that moved forward; pending approval).
 
 **Layout (never changes):**
 - Calibri throughout. Body 10pt, name 16pt. Margins 1cm on all sides.
@@ -297,6 +303,8 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |
 | 2026-09-28 | AI features ceiling raised from "proposed" to "prototyped" | `BL` |
 | 2026-09-28 | Engagement scoring: "Defined… that Engineering built" | `BL` |
+| 2026-09-28 | Pay is deferred at this stage; don't ask about it | Kfir |
+| 2026-09-28 | No relocation to the US | Kfir |
 | 2026-07-02 | Never include Israel in the Bewith.io descriptor | `HO` |
 | 2026-07-02 | Never ask about role priority or seriousness | `HO` |
 | ≤2026-07 | 35% retention permanently retired | `HO` |

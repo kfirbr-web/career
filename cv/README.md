@@ -3,10 +3,12 @@
 Masters are never edited for a single job. Tailored copies are made per job (Google Docs in Drive,
 named `Kfir_Braunstein_<Track>_<Company>`) and linked from `jobs/<folder>/notes.md`.
 
-| Track | Master (Google Doc link) | Status |
+| File | What | Status |
 |---|---|---|
-| PM  | [TODO: link the master PM CV] | |
-| CSM | [TODO: link the master CSM CV] | |
+| `Kfir_Braunstein_PM_Jerry_v2.docx` | Layout base for every build | In use |
+| `master-PM.md` | PM master content, built from the CVs that moved forward | **Draft; awaiting approval** |
+| `moved-forward/` | CVs that got Kfir to a screen/interview (Lightspeed, Botpress, GoTo, Lyft) | Reference only |
+| CSM master | [TODO] after the PM master is locked | |
 
 `bullet-library.md` is the locked, canonical version of every recurring bullet, plus the story
 selection guide. Tailoring starts from it and only rewords for JD keyword fit. A genuinely stronger

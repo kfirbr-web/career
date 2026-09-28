@@ -1,0 +1,7 @@
+I'm applying for the Product Manager role at BDC's AI-native incubator.
+
+At Bewith.io, our first paid-events launch meant refunds on public funds, so I shipped manual, admin-approved refunds instead of automating them. We launched on time with no compliance blockers and used the real refund cases to design the automated version.
+
+For four years I was the company's only Product Manager, working directly with Design and Engineering, and I build with Claude Code, including the agent I use to run my own job search.
+
+Commercial banking would be a new domain for me, as municipal operations were when I joined Bewith. My closest work is payments: a subscription product that added $100K+ in ARR, and tracing Stripe reconciliation errors with SQL.

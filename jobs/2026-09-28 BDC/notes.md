@@ -44,17 +44,23 @@
 
 ## CV
 - **Track / base:** PM / `Kfir_Braunstein_PM_Master.docx`
-- **Tailored copy:** <Drive link, after approval>
+- **Tailored copy:** [Kfir_Braunstein_PM_BDC](https://docs.google.com/document/d/14_a1m5ezqkE2Ti26O1HjsmchhRz0mBVmHRfF7sUSbJ0/edit) (Google Doc, uploaded from the .docx built on the PM master)
 - **Changes from master:**
   - Summary: sentence 2 now says sole PM for the full platform.
   - Skills: AI & Builder Tools row moved first; Loveable → Claude Cowork; Go-to-Market → MVP
     Scoping; KPI Definition → Root-cause Analysis; Linear moved first in Tools.
   - Bullets: order #1 (pricing variant), #11, #17, #2 (with microservices clause), #13, #8, #6.
     Dropped from master: #5 onboarding 33%, #4 permissions, #3 mobile.
+  - One-page fit (rendered with Carlito, Calibri's metric twin): dropped #6 engagement scoring (18%);
+    projects merged to 2 lines; small trims: #1 "messy" cut; #11 "working through feasibility" →
+    "testing feasibility", "really/just" cut; #2 "multi-quarter" cut and "during the move from a
+    monolith to microservices" → "in the move to microservices". Final PM bullets: #1, #11, #17,
+    #2, #13, #8. Page is full (last line at 762pt vs Jerry V2 761pt): check it stays on one page in
+    Google Docs before exporting.
   - Projects section added (Chrome extension, job-search tool, career agent).
 
 ## Cover note
-None yet. Worth one: the JD's two hard gaps (banking, business case) can be framed there.
+Saved in `cover-note.txt` (2026-09-28). Names the banking gap plainly and points to payments work.
 
 ## Interview prep
 - Stages / people:
@@ -68,3 +74,4 @@ None yet. Worth one: the JD's two hard gaps (banking, business case) can be fram
 | Date | What happened |
 |---|---|
 | 2026-09-28 | Vetted: Stretch. Draft CV text shown for approval. |
+| 2026-09-28 | Kfir approved; CV built and uploaded to Drive; cover note drafted. |

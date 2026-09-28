@@ -1,6 +1,7 @@
 # Skill: interview prep
 
-Built only from `career-context.md` and the job's `notes.md`.
+Built only from `career-context.md` and the job's `notes.md`. Grade every answer against
+`interview/late-round-patterns.md`; that's where the jobs have been lost.
 
 ## The set
 1. "Tell me about yourself" (60–90s, tuned to the track).

@@ -17,7 +17,8 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
 - **Header on CV:** Montreal, QC, Canada | 514-462-2234 (the only phone to use; 431-294-5256 is old) | kfirbr@gmail.com | LinkedIn (always a hyperlink
   with display text "LinkedIn"; never a raw URL, never omitted) `HO`
 - **Work setup:** open to remote, hybrid, or on-site. **No relocation to the US.** (Kfir, 2026-09-28)
-- **Work authorization:** [TODO] Canada status (only needed for form questions)
+- **Work authorization:** Canadian permanent resident (Kfir, 2026-09-28). No sponsorship needed in Canada.
+- **Notice period:** available immediately (no current role). `Lightspeed prep`
 - **Languages:** English – Fluent | Hebrew – Native | French – A2 (always "A2"; never A1 or
   Beginner) `HO`
 - **Years:** always "5 years" `HO`
@@ -66,7 +67,8 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
   - Job search tracking tool, built with Claude Code, Supabase, and Git
 - **Gap since Oct 2025:** studied French full-time for 6 months, Jan 2026 - Jul 2026 (now A2);
   built the side projects above; job search. (Kfir, 2026-09-28)
-- **Why I left Bewith:** [TODO]
+- **Why I left Bewith:** laid off in a restructuring; the company made cuts and the role was part of
+  that. Clean, no drama. `Lightspeed prep`
 - **Peres Center → Bewith gap (Dec 2019 - Feb 2021):** [TODO] anything to say if asked?
 
 ---
@@ -165,7 +167,11 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | Behavioral signal, not a request | Clients copy-pasting event content from outside docs → form redesign | Tens of minutes → a few minutes |
 | Pushback on a senior stakeholder (honest partial win) | Naming convention overhaul; CTO pushed back; shipped lowest-risk part + terminology guide + labels side project | Partial win |
 | Mistake #1 | Overbuilt V1 (scoped too many cases before validating) → smaller releases after | Process change |
-| Mistake #2 | Messaging spec sent to build without CTO/Eng review → rework + review checkpoint | **On hold: don't use** (unconfirmed; Kfir 2026-09-28) |
+| Mistake #2 | Notification & messaging redesign scoped as UI/UX; CTO review showed it needed backend work → phased it, shipped a smaller first slice; lesson: bring Eng in during spec, not at review | `Lightspeed prep` (the confirmed version of the "messaging spec" story) |
+| Shipped but not adopted | Form builder released in one batch; slow + unclear flow; CS went back to building forms for clients → fixed performance and flow, adoption recovered; lesson: release lean | `Lightspeed prep` |
+| Let customers answer their own questions | Customer-facing activity dashboard (attendance + usage) | CS questions about client data: a few dozen a month → near zero |
+| Specced but never shipped (AI, backup only) | CRM insights bot: plain-language questions on own account data; success criteria set upfront | [TODO] the real reason it didn't ship |
+| Learning a new domain fast | US integration mapping: no provider-side support, non-technical clients, first time touching an API → found the repeatable pattern and built the mapping tool | `Lightspeed debrief` |
 | One decision, three audiences | Calendar widget vs family-user structure | **On hold: don't use** (unconfirmed; Kfir 2026-09-28) |
 | Meetings that decide things | Roadmap review rebuilt around trade-off templates | Fewer last-minute surprises |
 | Built something teams adopted without a mandate | Internal ClickUp system | Single source of truth |
@@ -239,7 +245,14 @@ Pulled from ~40 builds in `HO` and Drive. [TODO] rank these and confirm seniorit
 - **What have you done since Oct 2025?** "I took six months to study French full-time, since I'm
   building my career in Montreal, and used the time to build a couple of tools with Claude Code."
   [draft; confirm wording]
-- **Why are you looking?** [TODO] (depends on why you left Bewith)
+- **Why are you looking / why did you leave?** "I was laid off in a restructuring. The company made
+  cuts and my role was part of that. It was clean, no drama, and it gave me time to be intentional
+  about what I want next." Then one line on why this role. `Lightspeed prep`
+- **SQL depth:** "For a client called Portland, I ran simple single-table queries myself, like how many
+  users had registered for more than ten events. Multi-table joins I handed to Engineering. I know
+  where my line is." Say **Portland**, not Cleveland (slipped in the Lightspeed mock). `Lightspeed debrief`
+- **Have you interviewed elsewhere?** "Yes, I'm in active conversations with a few companies. I want the
+  right fit, not just the first offer." `Lightspeed prep`
 - **Pay expectations:** see §6. [TODO]
 - **Relocation:** open within Canada / remote; not relocating to the US.
 
@@ -306,6 +319,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |
 | 2026-09-28 | AI features ceiling raised from "proposed" to "prototyped" | `BL` |
 | 2026-09-28 | Engagement scoring: "Defined… that Engineering built" | `BL` |
+| 2026-09-28 | Permanent resident; laid off in restructuring; available immediately | Kfir / Lightspeed prep |
 | 2026-09-28 | Tailoring review: show only the full "after" draft, no before → after list | Kfir |
 | 2026-09-28 | 30+ renewals replaces 35% everywhere; 18% and 33% can go on either of their two stories, once per resume; 100+ accounts / no added headcount confirmed | Kfir |
 | 2026-09-28 | Phone is 514-462-2234; Peres ends Dec 2019; A/B Testing confirmed; "company's first Product Manager" OK | Kfir |

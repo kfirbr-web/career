@@ -30,6 +30,8 @@ career/
 │   ├── master-CSM.md          <- CSM master's text + reasoning + swap-in bench
 │   ├── moved-forward/         <- CVs that got to a screen/interview (reference)
 │   └── bullet-library.md      <- LOCKED canonical bullets + story selection guide. Select, don't invent
+├── interview/
+│   └── late-round-patterns.md <- why round 3 / final rounds were lost + fixes
 ├── jobs/
 │   ├── tracker.md             <- one table, every job, every status (including skips)
 │   ├── _template/notes.md     <- copy into each new job folder

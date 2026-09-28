@@ -306,6 +306,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |
 | 2026-09-28 | AI features ceiling raised from "proposed" to "prototyped" | `BL` |
 | 2026-09-28 | Engagement scoring: "Defined… that Engineering built" | `BL` |
+| 2026-09-28 | Tailoring review: show only the full "after" draft, no before → after list | Kfir |
 | 2026-09-28 | 30+ renewals replaces 35% everywhere; 18% and 33% can go on either of their two stories, once per resume; 100+ accounts / no added headcount confirmed | Kfir |
 | 2026-09-28 | Phone is 514-462-2234; Peres ends Dec 2019; A/B Testing confirmed; "company's first Product Manager" OK | Kfir |
 | 2026-09-28 | Pay is deferred at this stage; don't ask about it | Kfir |

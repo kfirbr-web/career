@@ -23,20 +23,11 @@ Only after `vet-job.md` gave Apply or Stretch.
 ## Steps
 1. Start from the right master (`cv/README.md`) for the track.
 2. Map each of the 8–12 key terms to a fact in `career-context.md` (or mark "no match — don't fake it").
-3. **[CONFLICT: pick one]** The Jerry note says show a before → after list. Your handoff says always
-   show the **full text draft** (summary + all bullets + CSM section) in chat for one approval round,
-   then build once. Until you pick, do this: show the before → after list, then the full text draft
-   in the same message.
+3. Show **only the "after"**: the full text draft (summary + all bullets + CSM section + skills) in
+   chat, for one approval round, then one build. No before → after list. (Kfir, 2026-09-28)
    Before presenting, **run the self-check** against every rule in `career-context.md` and the
    library, and flag any violation yourself. `HO`
-   Before → after format:
-   ```
-   Title:   <before>  →  <after>
-   Summary: <before>  →  <after>
-   Bullet 3: <before> → <after>   (term: X, fact: N7)
-   Skills:  -A -B  +C +D
-   Order:   bullets 1,2,3… → 4,1,2…
-   ```
+   Keep a record of what changed from the master in the job's `notes.md`.
 4. Wait for Kfir's approval. Apply only approved changes.
 5. Build from **Jerry V2** as `Kfir_Braunstein_<Track>_<Company>` (layout rules: `career-context.md`
    §9). Rasterize the PDF and compare it visually with Jerry V2; flag a thin page before presenting.

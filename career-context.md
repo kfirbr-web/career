@@ -119,6 +119,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 - **Business cases:** no dollar cost models. What's true: at sprint and quarterly planning, presented large features with their benefits, alternatives, and estimated engineering hours. Describe that; don't label it "business case" or claim cost/ROI models. (Kfir, 2026-09-28)
 - **Monolith → microservices:** advised the CPO and CTO on product impact; they led. `BL`
 - **Renewal negotiations:** supported only, never led. `BL`
+- **Quota:** never carried a quota or formal revenue target (CSM or PM). Say "owned renewals and expansion," never "quota" or "hit target." (Kfir, 2026-09-28, Akur8)
 - **Engagement scoring:** internal dashboard Engineering built to Kfir's spec (login frequency,
   frontend/backend usage, events created per client). Not a BI tool. `BL` `HO`
 - **SQL:** some queries himself, some run by engineers (`BL`). `HO` said "read/analysis only; does
@@ -190,6 +191,9 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | Client champions | Worked with internal champions at each client to drive rollout and adoption | Confirmed by Kfir 2026-09-28; OK on CVs ("client champions") |
 | Scoping custom client requests | Wrote change requests and Statements of Work (SOWs) for custom client requests | Confirmed by Kfir 2026-09-28; details (how many, typical size) [TODO] |
 | Industry conferences | Attended industry conferences and events with Sales for Bewith | Confirmed by Kfir 2026-09-28 (food CPG CSR build). Which events [TODO]; say "attended with Sales," don't claim booth ownership or leads generated |
+| Account plans | Per-client account plans (goals, priorities, next steps); same thing as the CSM "success plans tied to client goals" | Confirmed by Kfir 2026-09-28 (Akur8); OK to say "account plans" on CVs |
+| Client relationships across the org | Knew and worked with buyers, champions, IT, and city leadership at each client, **informally**; never a written map | Kfir 2026-09-28 (Akur8). Say "relationships with champions, IT teams, and city leaders"; **never "account mapping" or "multi-threading"** |
+| On-site client visits | Met clients in person at their sites, beyond the industry conferences with Sales | Confirmed by Kfir 2026-09-28 (Akur8). Where / how often [TODO] |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. This is **not** billing, contract compliance, or revenue recognition; don't claim those (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -330,6 +334,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | No quota ever; "account plans" OK; account mapping was informal (don't name it); on-site client visits confirmed | Kfir (Akur8) |
 | 2026-09-28 | New fact: attended industry conferences and events with Sales | Kfir (food CPG CSR) |
 | 2026-09-28 | Word confirmed; change requests confirmed alongside SOWs | Kfir (Insurity) |
 | 2026-09-28 | New facts: contract compliance (usage vs contract: seats, admins, usage, storage; not invoicing); mentored junior CSMs | Kfir (Insurity) |

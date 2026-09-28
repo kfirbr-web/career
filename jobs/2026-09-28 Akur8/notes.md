@@ -51,7 +51,19 @@ experience (Kfir: US clients yes, insurance none).
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`)
-- **Tailored copy:** not built yet (waiting on Kfir's answers, then draft approval)
+- **Tailored copy:** not built yet (draft sent for approval 2026-09-28)
+- **Kfir's answers (2026-09-28):** no quota ever; account mapping informal (don't name it); "account
+  plans" OK; on-site client visits yes. Logged in `career-context.md`.
+- **Planned changes from the master (draft):**
+  - Summary: 2nd sentence → "Owned about $2M ARR as a CSM, with renewal forecasts and account plans
+    tied to client goals, and as a PM worked with each client from onboarding through renewal and
+    contract expansion."
+  - Order: #4 expansion 1st (top signal: grow the portfolio), #21 renewals 2nd, #6 3rd, #7 4th,
+    #1 5th, #5 6th, #12 7th, #22 8th.
+  - #7 reworded: champions, IT teams, city managers and senior city leaders; on-site visits.
+  - Skills: row "Customer Success" → "Account Management"; Onboarding → Account Plans (Onboarding
+    moves to Training row, replacing Process Building); Roadmap Presentations → Client Champions;
+    Payments & Billing → Contract Compliance.
 
 ## Cover note
 None

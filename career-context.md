@@ -6,7 +6,8 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
 **Sources merged (newest wins unless marked CONFLICT):**
 `BL` = `cv/bullet-library.md` (2026-09-28) · `HO` = Drive *Kfir_Session_Handoff_v10* (2026-07-02) ·
 `SB` = Drive *Master_Story_Bank* (2026-07-16) · `STAR` = Drive *Screening_Prep_Full_STAR_Answers*
-(2026-07-06) · `CV` = tailored CVs in Drive (Sep 2026).
+(2026-07-06) · `CV` = tailored CVs in Drive (Sep 2026) · `PMEM` = the standalone Claude CV project's
+memory export (2026-09-28).
 
 ---
 
@@ -65,6 +66,9 @@ Single source of truth. Every CV line, cover note, and interview answer must tra
 - **Side projects** (separate Projects section, never folded into Bewith bullets) `HO`:
   - X/Twitter Bookmark Organizer Chrome extension, built with Claude Code
   - Job search tracking tool, built with Claude Code, Supabase, and Git
+  - Career agent: Claude Code setup with written rules, one facts file, reusable skills (vet a
+    posting, tailor a CV, interview prep), and a Python script that sweeps Greenhouse, Lever, and
+    Ashby boards for new postings (this repo). OK to name on CVs. (Kfir, 2026-09-28)
 - **Gap since Oct 2025:** studied French full-time for 6 months, Jan 2026 - Jul 2026 (now A2);
   built the side projects above; job search. (Kfir, 2026-09-28)
 - **Why I left Bewith:** laid off in a restructuring; the company made cuts and the role was part of
@@ -113,14 +117,20 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 - **AI features (#11):** ceiling is "prototyped," never "shipped" (`BL` raised it from "proposed" on
   2026-09-28). No post-prototype outcome; don't claim human-in-the-loop requirements.
 - **Pricing:** recommended only; never "set" or "owned." `BL`
+- **Business cases:** no dollar cost models. What's true: at sprint and quarterly planning, presented large features with their benefits, alternatives, and estimated engineering hours. "Short, high-level business cases" is OK as a label (Kfir, 2026-09-28, Akur8); never claim cost/ROI models, and never on the subscriptions bullet (#1). (Kfir, 2026-09-28)
 - **Monolith → microservices:** advised the CPO and CTO on product impact; they led. `BL`
 - **Renewal negotiations:** supported only, never led. `BL`
+- **Quota:** never carried a quota or formal revenue target (CSM or PM). Say "owned renewals and expansion," never "quota" or "hit target." (Kfir, 2026-09-28, Akur8)
 - **Engagement scoring:** internal dashboard Engineering built to Kfir's spec (login frequency,
   frontend/backend usage, events created per client). Not a BI tool. `BL` `HO`
 - **SQL:** some queries himself, some run by engineers (`BL`). `HO` said "read/analysis only; does
   NOT write SQL independently." → Newest (`BL`) wins unless you say otherwise.
 - **QBR / roadmap audience:** "client leadership," not "C-level," unless confirmed client-facing. `BL`
+  Confirmed audience (Kfir, 2026-09-28): **city managers and senior city leaders**; OK to name them. Still not "C-level."
+  Also **system managers** (`PMEM`, MindBridge). Not finance leaders: no CFO or audit-committee claims.
   (`HO` lists "delivered C-level roadmap presentations"; `BL` is stricter and newer.)
+  **Resolved (Kfir, 2026-09-28, Akur8):** C-level presentations were **internal only** (own CPO/CTO). Never
+  claim client executives: no "Executive Relationships" or "C-level stakeholders" for clients.
 - **SSO / OAuth2 / OIDC:** product requirements level only, not auth architecture. `HO`
 - **Mobile:** Flutter, cross-platform (iOS + Android), not native. Dedicated squad through the whole
   PM tenure. `HO`
@@ -128,13 +138,22 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 - **Multi-region (#16):** assigned clients to EU/US regions and configured subdomains; did not design
   the architecture. `BL`
 - **Vendors (#15):** no concrete negotiation outcome. `BL`
-- **Tools never to add:** Salesforce, Jira, Looker, Amplitude, Tableau, Miro, Mixpanel. `HO`
+- **Tools never to add:** Salesforce, Jira, Looker, Amplitude, Tableau, Miro, Mixpanel. `HO` Also Statsig,
+  Customer.io, Notion (never used). `PMEM`
+- **Management:** CS/Support had their own managers. Kfir's role was functional product leadership and
+  mentoring; never formal people management (no hiring, PTO, or reviews). Mentored junior CSMs only,
+  never PMs or designers. `PMEM`
+- **No margin, cost, or profitability work** at Bewith (revenue/ARR metrics only); P&L only at Peres. `PMEM`
+- **Revenue recognition:** small-scale exposure only; keep off the CV, discuss honestly in interviews. `PMEM`
+- **Subscriptions (#1) had no business case:** never claim one in that bullet. `PMEM`
+- **Scrum:** ran the ceremonies himself (sprint planning, grooming, retros, acceptance criteria); no
+  Scrum Master or PO certification. `PMEM`
 - No invented numbers; no "hours saved" or "% efficiency" without a source.
 
 ### Confirmed tool stack `HO`
 | Category | Tools |
 |---|---|
-| PM & Collaboration | ClickUp, Confluence, Linear, Figma, Figma Make |
+| PM & Collaboration | ClickUp, Confluence, Figma, Figma Make (Linear removed: personal beginner use only, never on a CV; Kfir 2026-09-28) |
 | Engineering / Technical | Postman, SQL, Webhooks, Chrome Extension Dev, Prompt Engineering, SSO/OAuth2/OIDC (requirements level) |
 | Customer & Support | Intercom (incl. Fin), HubSpot, Jam.dev |
 | Analytics | Google Analytics, SQL |
@@ -143,8 +162,10 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | Data / Automation | Airtable |
 | Design | AutoCAD (architecture background) |
 | Testing | A/B Testing (confirmed by Kfir 2026-09-28) |
+| Office | Excel, PowerPoint, Word (confirmed by Kfir 2026-09-28) |
 
-`CV` also uses Monday, Slack, Loveable. [TODO: confirm these are OK]
+Also confirmed: **Slack, Monday** (used regularly, `PMEM`). Loveable [TODO: confirm]. HTML/CSS: basic,
+via AI-assisted building; OK only when a JD asks. `PMEM`
 
 ---
 
@@ -179,6 +200,25 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | "What is PM to you?" | US launch: Sales promised any integration; API not ready → embeddable JS widget as a bridge | Launched on time, kept contracts |
 | How do you use AI? | Claude Code for PRDs / user stories / prototypes; Figma Make mockups; job-search app built solo | Specifics on 3 tools |
 | Implementation / white-label | Owned per-client pre-configuration: API settings, data mapping, integrations with city IT (CivicPlus, Granicus, CivicRec) | Templated the mapping |
+| Contract compliance | Checked each client's contract against actual use: seats, admins, usage, storage | Confirmed by Kfir 2026-09-28. Say "contract compliance" / "checked usage against the contract". **Also handled billing issues** (Kfir 2026-09-28, Akur8; overrides the earlier "not billing" rule). Still no invoicing ownership or revenue recognition |
+| Mentoring | Mentored junior CSMs at Bewith | Confirmed by Kfir 2026-09-28 (first appeared on the Fortra CV) |
+| Client champions | Worked with internal champions at each client to drive rollout and adoption | Confirmed by Kfir 2026-09-28; OK on CVs ("client champions") |
+| Scoping custom client requests | Wrote change requests and Statements of Work (SOWs) for custom client requests | Confirmed by Kfir 2026-09-28; details (how many, typical size) [TODO] |
+| Industry conferences | Attended industry conferences and events with Sales for Bewith | Confirmed by Kfir 2026-09-28 (food CPG CSR build). Which events [TODO]; say "attended with Sales," don't claim booth ownership or leads generated |
+| Account plans | Per-client account plans (goals, priorities, next steps); same thing as the CSM "success plans tied to client goals" | Confirmed by Kfir 2026-09-28 (Akur8); OK to say "account plans" on CVs |
+| Client relationships across the org | Knew and worked with buyers, champions, IT, and city leadership at each client, **informally**; never a written map | Kfir 2026-09-28 (Akur8). Say "relationships with champions, IT teams, and city leaders"; **never "account mapping" or "multi-threading"** |
+| On-site client visits | Met clients in person at their sites, beyond the industry conferences with Sales | Confirmed by Kfir 2026-09-28 (Akur8). Where / how often [TODO] |
+| App store releases | Owned App Store / Google Play submission and compliance for the mobile apps, including opening the developer accounts | `PMEM` |
+| Design ownership | Owned UX and wireframing end to end for the first 2 years as PM, before a designer joined; full Figma | `PMEM` |
+| GDPR | Coordinated GDPR compliance with third-party auditors | `PMEM` |
+| Distributed teams | Worked with Engineering and Design in other countries and time zones | `PMEM` (Monks) |
+| Client discovery | Ran structured requirements and discovery sessions with client teams | `PMEM` (Monks) |
+| Roadmap strategy | Set roadmap strategy with the CPO using competitive analysis | `PMEM` (Monks) |
+| Reusable CS assets | Created an onboarding playbook, QBR template, and success plan template that other CSMs used | `PMEM` (MindBridge) |
+| Change management | Helped client teams move off old processes onto the platform, including reluctant staff | `PMEM` (MindBridge) |
+| Pushback on leadership | Pushed back on internal C-level pressure to prioritize features over infrastructure readiness | `PMEM`. Internal leadership, not clients |
+| Bulk actions | Specced bulk action capabilities inside the CRM/API data model work (#2); fold in when a JD signals bulk actions | `PMEM` |
+| Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
 
 ### Story rules
 - Balance "we" and "me": every story needs an explicit "I decided / I noticed / I built" moment. `STAR`
@@ -318,6 +358,19 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-28 | Never frame Kfir as a salesperson ("I sold…"). In sales-style questions, say upfront he wasn't in a sales role, then give the commercial results (renewals, expansion, Sales support) | Kfir (Akur8) |
+| 2026-09-28 | Conflicts resolved: handled billing issues (billing OK now); C-level = internal only, never client executives; "short business cases" label OK; Linear removed | Kfir (Akur8) |
+| 2026-09-28 | Imported non-conflicting facts from the standalone CV project's memory (`PMEM`); conflicts sent to Kfir | Kfir (Akur8) |
+| 2026-09-28 | No quota ever; "account plans" OK; account mapping was informal (don't name it); on-site client visits confirmed | Kfir (Akur8) |
+| 2026-09-28 | New fact: attended industry conferences and events with Sales | Kfir (food CPG CSR) |
+| 2026-09-28 | Word confirmed; change requests confirmed alongside SOWs | Kfir (Insurity) |
+| 2026-09-28 | New facts: contract compliance (usage vs contract: seats, admins, usage, storage; not invoicing); mentored junior CSMs | Kfir (Insurity) |
+| 2026-09-28 | New facts: QBR audience = city managers and senior city leaders; worked with client champions | Kfir (Insurity) |
+| 2026-09-28 | New fact: wrote SOWs for custom client requests | Kfir (Insurity) |
+| 2026-09-28 | Skills: when a posting asks for a confirmed tool the CV lacks, **add** it to the row; don't swap out existing tools to make room (still one line per row) | Kfir (Insurity) |
+| 2026-09-28 | New facts: Excel + PowerPoint confirmed; reviewed client ticket-sales revenue and gave event/marketing recommendations (client insights, not billing or revenue recognition) | Kfir (Insurity) |
+| 2026-09-28 | Business cases refined: no dollar cost models, but did present benefits, alternatives, and engineering-hour estimates for large features at sprint/quarterly planning. Say that; don't write "wrote business cases" (the other project's BDC draft and the TELUS CV overclaimed) | Kfir (BDC review) |
+| 2026-09-28 | No banking/lending experience: frame fintech adjacency (payments, Stripe, refunds on public funds), never claim banking. No formal business cases/ROI models for leadership: don't claim them | Kfir (BDC) |
 | 2026-09-28 | Plain-language pass on every bullet; AI-sounding phrasing is out | `BL` |
 | 2026-09-28 | AI features ceiling raised from "proposed" to "prototyped" | `BL` |
 | 2026-09-28 | Engagement scoring: "Defined… that Engineering built" | `BL` |

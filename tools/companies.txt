@@ -92,3 +92,6 @@ gorgias
 
 # Not on Greenhouse / Lever / Ashby (checked 2026-09-28): check their career pages by hand or via
 # discovery search: botpress, goto, nesto, sherweb, fortra, coveo, dialogue, unity, shopify, clio, ada
+
+# Added 2026-09-28
+insurityllc

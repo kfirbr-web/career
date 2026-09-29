@@ -347,7 +347,7 @@ that moved forward.
 - After building: check page fit with a throwaway preview (scratchpad only, never saved or sent)
   compared against Jerry V2; flag a thin or overflowing page.
 
-**Summary:** uses the library's standard openers; includes metrics; not generic; third-person resume
+**Summary:** tailored in full to each JD, no edit cap (Kfir, 2026-09-29); the library's openers are a default; includes metrics; not generic; third-person resume
 voice; doesn't repeat bullet 1; short sentences; no JD mirroring.
 **Bullets:** first bullet hits the JD's top signal with a hard outcome. 5-8 PM bullets to fit one page.
 **CSM section:** locked 3 bullets + promoted line. **Peres Center:** locked 2 bullets.
@@ -364,6 +364,8 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-29 | Summary has no edit cap: tailor the whole summary to best fit each JD (facts, voice, and metric rules still apply) | Kfir (Vention MachineApps) |
+| 2026-09-29 | PM summaries: no "main client contact… QBRs" line (reads as account management; confusable with internal quarterly product reviews). QBRs only for client-facing roles | Kfir (Vention MachineApps) |
 | 2026-09-29 | Tailored CVs are delivered as Google Docs only; no PDFs (Kfir exports them) | Kfir |
 | 2026-09-29 | Robotics is not an auto-skip when the job is software PM work (configurable apps, roadmap, PRDs) on a robotics/automation platform; vet it as Stretch. Only robotics hardware / controls engineering roles auto-skip | Kfir (Vention MachineApps) |
 | 2026-09-29 | New facts: hands-on QA in staging before release (bugs logged in Jam.dev); wrote KB articles, user guides, FAQs, release notes, and recorded video tutorials | Kfir (Claio) |

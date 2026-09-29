@@ -5,7 +5,9 @@ Only after `vet-job.md` gave Apply or Stretch.
 ## Edit caps
 - Title line: swap to match the posting.
 - Skills: swap 3–4 terms (or pick the 6 skill lines for the track).
-- Summary: reword one line only where a true fact matches a posting term.
+- Summary: **no cap.** Tailor the whole summary to fit the JD best: rewrite any or all sentences
+  (Kfir, 2026-09-29). Still bound by: facts file only, voice rules, no metric that also appears in a
+  bullet, no overlap with bullet 1's story, no JD mirroring, "5 years", B2B2C.
 - Bullets: reorder by relevance; pick bullets from `cv/bullet-library.md` using its **Story
   Selection Guide** (lead / second / avoid for the role signal); reword only for JD keyword fit.
   Respect each bullet's tailoring notes (claim ceilings like "prototyped, never shipped").
@@ -18,7 +20,7 @@ Only after `vet-job.md` gave Apply or Stretch.
 - Plain-language check: would Kfir say this out loud to an interviewer? No filler, no jargon, no
   hedges, no trait-style lines.
 - **No em dashes** anywhere in resume text.
-- Use the standard summary openers from the library (PM vs CSM).
+- The library's standard summary openers are a default, not a requirement.
 
 ## Steps
 0. Run the **duplicate check** from `skills/vet-job.md` step 1 if it hasn't run this session. A

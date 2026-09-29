@@ -14,7 +14,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
 | 2026-09-29 | Vention | PM, Applications (MachineApps: palletizing, material handling, vision) | Stretch (was the skipped Robotics PM; Kfir overrode) | PM_Vention_MachineApps (draft) | Interested | Kfir approves draft v1, then build | `2026-09-29 Vention MachineApps/` |
-| 2026-09-29 | Claio.ai (Valsoft) | Junior Product Specialist (Montreal, Valsoft HQ; FR/EN required) | Stretch | PM_Claio (draft) | Interested | Kfir approves draft; send posting link | `2026-09-29 Claio/` |
+| 2026-09-29 | Claio.ai (Valsoft) | Junior Product Specialist (Montreal, Valsoft HQ; FR/EN required) | Stretch | PM_Claio | Interested | Kfir reviews CV and applies; send posting link | `2026-09-29 Claio/` |
 | 2026-09-29 | PIP Canada (Protective Industrial Products) | PM, First Aid and Footwear (Laval, QC) | Stretch (was Skip 2026-09-28; Kfir overrode) | PM_PIPCanada | Interested | Trim 2 Skills terms in the Doc, export PDF, apply; send posting link | `2026-09-29 PIP Canada/` |
 | 2026-09-29 | SafeContractor (Veriforce) | Customer Success Manager (hybrid; likely Quebec; FR/EN bilingual required) | Stretch | CSM_SafeContractor | Interested | Kfir reviews CV and applies (link in notes) | `2026-09-29 SafeContractor/` |
 | 2026-09-29 | Wawanesa Mutual Insurance | PM, Business Insurance (Montreal or North York, Hybrid) | Stretch | PM_Wawanesa | Interested | Kfir reviews CV and applies | `2026-09-29 Wawanesa/` |

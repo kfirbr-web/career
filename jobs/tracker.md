@@ -13,11 +13,11 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-29 | PIP Canada (Protective Industrial Products) | PM, First Aid and Footwear (Laval, QC) | Stretch (was Skip 2026-09-28; Kfir overrode) | PM_PIPCanada (draft) | Interested | Kfir approves CV draft; send posting link | `2026-09-29 PIP Canada/` |
 | 2026-09-29 | SafeContractor (Veriforce) | Customer Success Manager (hybrid; likely Quebec; FR/EN bilingual required) | Stretch | CSM_SafeContractor | Interested | Kfir reviews CV and applies (link in notes) | `2026-09-29 SafeContractor/` |
 | 2026-09-29 | Wawanesa Mutual Insurance | PM, Business Insurance (Montreal or North York, Hybrid) | Stretch | PM_Wawanesa | Interested | Kfir reviews CV and applies | `2026-09-29 Wawanesa/` |
 | 2026-09-28 | Akur8 | Account Manager (Montréal, hybrid; quota, OTE CA$170-190K) | Stretch | AM_Akur8 | Interested | Kfir reviews CV and applies | `2026-09-28 Akur8/` |
 | 2026-09-28 | Unnamed food & consumer products co. (via recruiting agency) | Customer Success Representative (Montreal) | Apply (down-level) | CSM_FoodCPG | Interested | Kfir applies; ask the agency for the client name | `2026-09-28 FoodCPG CSR/` |
-| 2026-09-28 | PIP Canada (Protective Industrial Products) | PM, First Aid and Footwear (Laval, QC) | Skip | — | Passed | — | — |
 | 2026-09-28 | Insurity | Senior CSM, Decisions Suite (Remote - Canada) | Stretch | CSM_Insurity | Interested | Kfir reviews CV and applies (Canada posting) | `2026-09-28 Insurity/` |
 | 2026-09-28 | BDC | PM, AI-Native Incubator | Stretch | PM_BDC | Interested | Kfir reviews CV + cover note, applies; send posting link | `2026-09-28 BDC/` |
 | 2026-09-28 | Monks | ? PM | Apply | PM_Monks | ? | ? | `2026-09-28 Monks/` |
@@ -61,7 +61,6 @@ Structure Studios, FutureFit (CS Ops).
 
 | Company | Role | Reason |
 |---|---|---|
-| PIP Canada | PM, First Aid and Footwear | Physical-goods category PM (sourcing, SKUs, inventory, Health Canada/FDA product compliance); no SaaS analog |
 | National Bank | Governance PO | Data/analytics domain gap |
 | CN Rail | Telecom PM | Hard telecom requirement |
 | CN Rail | Enterprise PM | 10-year minimum, railroad domain |

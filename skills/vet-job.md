@@ -23,7 +23,8 @@ Never ask about role priority or how serious the application is. Kfir applies wi
      verdict <verdict>." Ask: reuse that CV / rebuild from the current master / skip. Don't start
      until Kfir answers.
    - **Same company, different role:** say so in one line (date, role, outcome) and carry on.
-   - **Previously skipped:** show the skip reason and ask if anything changed.
+   - **Previously skipped:** show the skip reason and ask if anything changed. If Kfir says build
+     anyway, re-vet as Stretch and build the best version (his call; no second push-back).
 2. Open the posting live. Closed / reposted / aggregator-only → say so.
 3. Fill the facts (Unknown beats a guess): role, pay range, location/remote, reports to, what the
    company does, stage/funding, approx employees.

@@ -298,6 +298,9 @@ Pulled from ~40 builds in `HO` and Drive. Not ranked: all in scope.
   where my line is." Say **Portland**, not Cleveland (slipped in the Lightspeed mock). `Lightspeed debrief`
 - **Have you interviewed elsewhere?** "Yes, I'm in active conversations with a few companies. I want the
   right fit, not just the first offer." `Lightspeed prep`
+- **Why a junior / down-level role?** (Kfir, 2026-09-29, Claio) Three reasons, all his: demos, onboarding, and customer
+  feedback are the parts of product work he likes most and wants to do hands-on rather than manage; he wants to learn an
+  AI product from the inside; the role's path into product / CS roles is where he expects to grow. Use for down-level roles.
 - **Pay expectations:** see §6. [TODO]
 - **Relocation:** open within Canada / remote; not relocating to the US.
 
@@ -368,6 +371,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | 2026-09-29 | PM summaries: no "main client contact… QBRs" line (reads as account management; confusable with internal quarterly product reviews). QBRs only for client-facing roles | Kfir (Vention MachineApps) |
 | 2026-09-29 | Tailored CVs are delivered as Google Docs only; no PDFs (Kfir exports them) | Kfir |
 | 2026-09-29 | Robotics is not an auto-skip when the job is software PM work (configurable apps, roadmap, PRDs) on a robotics/automation platform; vet it as Stretch. Only robotics hardware / controls engineering roles auto-skip | Kfir (Vention MachineApps) |
+| 2026-09-29 | New ready answer: why a junior / down-level role (hands-on work, AI product, growth path) | Kfir (Claio) |
 | 2026-09-29 | New facts: hands-on QA in staging before release (bugs logged in Jam.dev); wrote KB articles, user guides, FAQs, release notes, and recorded video tutorials | Kfir (Claio) |
 | 2026-09-29 | A Skip is Kfir's call to override: flag an earlier Skip once; if he says build, re-vet as Stretch and build the best version (no second push-back) | Kfir (PIP Canada) |
 | 2026-09-29 | Flag a job that was already built before starting; wait for reuse / rebuild / skip | Kfir |

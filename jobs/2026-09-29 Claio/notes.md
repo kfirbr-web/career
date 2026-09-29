@@ -75,3 +75,4 @@ Saved in `cover-note.txt` (2026-09-29). Names the French gap plainly (A2, still 
 | 2026-09-29 | Built; two uploads ran to 2 pages; final drops Projects + small trims; one page verified on Drive PDF export |
 | 2026-09-29 | Posting link added (Valsoft Workable); couldn't open it from here |
 | 2026-09-29 | Cover note drafted (French gap named); form question answered honestly |
+| 2026-09-29 | Cover note: added why-junior paragraph (Kfir's reasons) |

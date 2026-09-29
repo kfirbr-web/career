@@ -14,7 +14,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
 | 2026-09-29 | PIP Canada (Protective Industrial Products) | PM, First Aid and Footwear (Laval, QC) | Stretch (was Skip 2026-09-28; Kfir overrode) | PM_PIPCanada (draft) | Interested | Kfir approves CV draft; send posting link | `2026-09-29 PIP Canada/` |
-| 2026-09-29 | SafeContractor (Veriforce) | Customer Success Manager (hybrid; likely Quebec; FR/EN bilingual required) | Stretch | CSM_SafeContractor (draft) | Interested | Kfir approves CV draft; send posting link | `2026-09-29 SafeContractor/` |
+| 2026-09-29 | SafeContractor (Veriforce) | Customer Success Manager (hybrid; likely Quebec; FR/EN bilingual required) | Stretch | CSM_SafeContractor | Interested | Kfir reviews CV and applies; send posting link | `2026-09-29 SafeContractor/` |
 | 2026-09-29 | Wawanesa Mutual Insurance | PM, Business Insurance (Montreal or North York, Hybrid) | Stretch | PM_Wawanesa | Interested | Kfir reviews CV and applies | `2026-09-29 Wawanesa/` |
 | 2026-09-28 | Akur8 | Account Manager (Montréal, hybrid; quota, OTE CA$170-190K) | Stretch | AM_Akur8 | Interested | Kfir reviews CV and applies | `2026-09-28 Akur8/` |
 | 2026-09-28 | Unnamed food & consumer products co. (via recruiting agency) | Customer Success Representative (Montreal) | Apply (down-level) | CSM_FoodCPG | Interested | Kfir applies; ask the agency for the client name | `2026-09-28 FoodCPG CSR/` |

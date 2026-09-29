@@ -15,8 +15,16 @@ Always first. Most postings should die here, before any CV work.
 Never ask about role priority or how serious the application is. Kfir applies widely. `HO`
 
 ## Steps
-1. Check `jobs/tracker.md` — already vetted? Say so and stop. If Kfir still asks to build a skipped one, re-vet it as
-   Stretch and build (his call; flag the gaps once).
+1. **Duplicate check (before anything else)** (Kfir, 2026-09-29). Before vetting or tailoring, look for a
+   previous build for the same job in: `jobs/tracker.md` (every table, incl. the handoff list and
+   Skipped), `jobs/` folders, `cv/moved-forward/`, and Drive CVs named `Kfir_Braunstein_*_<Company>`.
+   Match on company + role title (allow small title differences) or the same posting link / job ID.
+   - **Same job found:** stop and flag it first: "Already built on <date>: <CV name>, status <status>,
+     verdict <verdict>." Ask: reuse that CV / rebuild from the current master / skip. Don't start
+     until Kfir answers.
+   - **Same company, different role:** say so in one line (date, role, outcome) and carry on.
+   - **Previously skipped:** show the skip reason and ask if anything changed. If Kfir says build
+     anyway, re-vet as Stretch and build the best version (his call; no second push-back).
 2. Open the posting live. Closed / reposted / aggregator-only → say so.
 3. Fill the facts (Unknown beats a guess): role, pay range, location/remote, reports to, what the
    company does, stage/funding, approx employees.

@@ -45,8 +45,11 @@ bilingualism (Kfir is A2), and there's no health & safety or supplier-management
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`); closest prior build: Insurity
-- **Tailored copy:** pending approval
-- **Changes from the master (draft v1, 2026-09-29):**
+- **Tailored copy (final):** [Kfir_Braunstein_CSM_SafeContractor](https://docs.google.com/document/d/1ya4ddF-zJy4I3bOrE-PUxbffEtATY7MVTu6sYdann74/edit)
+  (Google Doc; source .docx in this folder, built from the Insurity build's Jerry V2 layout). One page,
+  full (Drive PDF export: last line 751pt of 792, same as Insurity). Not checked visually: no PDF
+  renderer in this container.
+- **Changes from the master (approved as drafted, 2026-09-29):**
   - Summary: second clause → "as a PM kept working with the same clients on renewals and
     expansion, and coordinated GDPR compliance with third-party auditors" (compliance signal).
   - Bullets reordered: #6, #21, #1 (cross-sell, up from 8th), #7 (QBRs + usage/revenue insights),
@@ -72,3 +75,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-29 | Vetted: Stretch (French required, Kfir A2). CSM draft v1 sent for approval |
+| 2026-09-29 | Kfir said build; built as drafted, uploaded to Drive, one page verified |

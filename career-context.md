@@ -359,6 +359,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-29 | Flag a job that was already built before starting; wait for reuse / rebuild / skip | Kfir |
 | 2026-09-29 | No insurance / P&C experience and no fraud work: never claim either | Kfir (Wawanesa) |
 | 2026-09-28 | Never frame Kfir as a salesperson ("I sold…"). In sales-style questions, say upfront he wasn't in a sales role, then give the commercial results (renewals, expansion, Sales support) | Kfir (Akur8) |
 | 2026-09-28 | Conflicts resolved: handled billing issues (billing OK now); C-level = internal only, never client executives; "short business cases" label OK; Linear removed | Kfir (Akur8) |

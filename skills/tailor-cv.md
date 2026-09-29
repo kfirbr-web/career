@@ -21,6 +21,8 @@ Only after `vet-job.md` gave Apply or Stretch.
 - Use the standard summary openers from the library (PM vs CSM).
 
 ## Steps
+0. Run the **duplicate check** from `skills/vet-job.md` step 1 if it hasn't run this session. A
+   previous build for the same job → flag it and wait for Kfir before drafting.
 1. Start from the right master (`cv/README.md`) for the track.
 2. **Re-derive from scratch before the first draft** `PMEM`: list every requirement line of the JD
    (including the responsibilities and the pay/team signals, e.g. quota, Sales department), then match

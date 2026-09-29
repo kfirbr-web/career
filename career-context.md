@@ -368,6 +368,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | Date | Rule | Source |
 |---|---|---|
 | 2026-09-29 | Summary has no edit cap: tailor the whole summary to best fit each JD (facts, voice, and metric rules still apply) | Kfir (Vention MachineApps) |
+| 2026-09-29 | Vention MachineApps PM summary: no "customer success roles" and no ~$2M ARR as CSM; CS appears only as "Promoted from Customer Success to the company's first PM in under a year". Applying to all PM summaries/master: pending Kfir | Kfir (Vention MachineApps) |
 | 2026-09-29 | PM summaries: no "main client contact… QBRs" line (reads as account management; confusable with internal quarterly product reviews). QBRs only for client-facing roles | Kfir (Vention MachineApps) |
 | 2026-09-29 | Tailored CVs are delivered as Google Docs only; no PDFs (Kfir exports them) | Kfir |
 | 2026-09-29 | Robotics is not an auto-skip when the job is software PM work (configurable apps, roadmap, PRDs) on a robotics/automation platform; vet it as Stretch. Only robotics hardware / controls engineering roles auto-skip | Kfir (Vention MachineApps) |

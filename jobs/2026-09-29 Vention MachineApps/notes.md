@@ -83,6 +83,7 @@ None yet. Worth one: can name the robotics gap and point to the configurable-app
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-09-29 | Kfir: why is customer success still in the summary? Summary sentences 1-2 → "Product Manager with 5 years at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents. Promoted from Customer Success to the company's first Product Manager in under a year, owning the platform from discovery to launch with Design and Engineering." Dropped "product and customer success roles" and the ~$2M ARR as CSM. Google Doc updated in place (same link); summary got shorter, so it still fits one page. The .docx in this folder still has the old summary. Whether this applies to every PM summary (master) is pending Kfir. |
 | 2026-09-29 | Kfir: QBRs don't belong in a PM summary. Last summary sentence → "Worked directly with users through requirements sessions and on-site visits, learning a new domain fast." (.docx updated, 1 page. Google Doc updated in place the same day via the Docs connector, same link; new sentence is 1 character shorter than the old one, so the page fit is unchanged) |
 | 2026-09-29 | Kfir said build. Built on the master/Jerry V2 layout with the page-fit cuts above; uploaded to Drive. |
 | 2026-09-29 | Flagged as a likely repost of the skipped Robotics PM. Kfir: "I don't find it too technical" → re-vetted as Stretch. Draft v1 shown for approval. |

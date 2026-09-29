@@ -369,6 +369,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 |---|---|---|
 | 2026-09-29 | Summary is rewritten for every JD: sentence 1 = the JD's top objective, plus a recruiter hook; opener never repeats the company line | Kfir |
 | 2026-09-29 | Summary has no edit cap: tailor the whole summary to best fit each JD (facts, voice, and metric rules still apply) | Kfir (Vention MachineApps) |
+| 2026-09-29 | Summaries: no self-claimed traits ("learning a new domain fast", "quick learner"); anyone can write them and the recruiter can't check them. Show the thing done instead (e.g. learned how each city ran → templated client setup). Also no "from X to Y" list openers and no "people who aren't X" contrasts: they read as AI-written. Flag trait lines even when Kfir wrote them | Kfir (Vention MachineApps) |
 | 2026-09-29 | Vention MachineApps PM summary: no "customer success roles" and no ~$2M ARR as CSM; no promotion story either (Kfir: it answers nothing in the JD; the CSM italic line already has it). Years stay honest as "5 years of experience in B2B2C SaaS" + "first and only PM". Applying to all PM summaries/master: pending Kfir | Kfir (Vention MachineApps) |
 | 2026-09-29 | PM summaries: no "main client contact… QBRs" line (reads as account management; confusable with internal quarterly product reviews). QBRs only for client-facing roles | Kfir (Vention MachineApps) |
 | 2026-09-29 | Tailored CVs are delivered as Google Docs only; no PDFs (Kfir exports them) | Kfir |

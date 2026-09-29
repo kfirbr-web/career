@@ -24,9 +24,9 @@ career/
 ├── cv/
 │   ├── README.md              <- which file is what; masters never edited per job
 │   ├── Kfir_Braunstein_PM_Jerry_v2.docx <- layout base for every build
-│   ├── Kfir_Braunstein_PM_Master.docx/.pdf <- PM MASTER: every PM build starts here
+│   ├── Kfir_Braunstein_PM_Master.docx <- PM MASTER: every PM build starts here
 │   ├── master-PM.md           <- master's text + reasoning + swap-in bench
-│   ├── Kfir_Braunstein_CSM_Master.docx/.pdf <- CSM MASTER: every CSM build starts here
+│   ├── Kfir_Braunstein_CSM_Master.docx <- CSM MASTER: every CSM build starts here
 │   ├── master-CSM.md          <- CSM master's text + reasoning + swap-in bench
 │   ├── moved-forward/         <- CVs that got to a screen/interview (reference)
 │   └── bullet-library.md      <- LOCKED canonical bullets + story selection guide. Select, don't invent
@@ -59,4 +59,5 @@ career/
   `cv/bullet-library.md` (with a Version Log entry: date, what, why) so the next job starts better.
 - Every posting vetted goes into `jobs/tracker.md`, including skips.
 - Tailored CVs are Google Docs in Drive named `Kfir_Braunstein_<Track>_<Company>`; link them from
-  the job's `notes.md`.
+  the job's `notes.md`. **Google Docs only: never create, send or commit a PDF.** Kfir exports PDFs
+  himself.

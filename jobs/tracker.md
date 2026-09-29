@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-29 | People Force (agency; client unnamed) | Senior PM, Data & Analytics (12-mo contract; hybrid Montreal 3 days/wk; likely the skipped LinkedIn 4469485077) | Stretch (was Skip earlier today; Kfir overrode) | PM_PeopleForce (draft v1) | Interested | Kfir approves draft v1; send posting link | `2026-09-29 PeopleForce DataAnalytics/` |
 | 2026-09-29 | Leyton | Business Transformation & Product Manager (location Unknown; bilingual JD, likely Montreal; FR preferred) | Stretch | PM_Leyton (draft v1) | Interested | Kfir approves draft v1; send posting link | `2026-09-29 Leyton/` |
 | 2026-09-29 | Sadie (Valsoft) | Product Owner (AI voice agent for restaurants/hotels; Montreal per listing) | Apply | PM_Sadie | Interested | Kfir applies (link in notes) | `2026-09-29 Sadie/` |
 | 2026-09-29 | Vention | PM, Applications (MachineApps: palletizing, material handling, vision) | Stretch (was the skipped Robotics PM; Kfir overrode) | PM_Vention_MachineApps | Interested | Kfir reviews CV and applies (link in notes) | `2026-09-29 Vention MachineApps/` |
@@ -65,7 +66,7 @@ Structure Studios, FutureFit (CS Ops).
 
 | Company | Role | Reason |
 |---|---|---|
-| Unknown (LinkedIn job 4469485077; likely a large enterprise, unconfirmed) | PM, Data & Analytics (enterprise third-party products) | 2026-09-29, Kfir: skip. Internal IT platform ownership; chargeback/TCO/cost allocation and Kafka/MongoDB/Redis Cloud/MQ/Power BI stack not in facts; 5+ yrs enterprise PM |
+| Unknown (LinkedIn job 4469485077; likely a large enterprise, unconfirmed) | PM, Data & Analytics (enterprise third-party products) | 2026-09-29, Kfir: skip. Internal IT platform ownership; chargeback/TCO/cost allocation and Kafka/MongoDB/Redis Cloud/MQ/Power BI stack not in facts; 5+ yrs enterprise PM. **Overridden 2026-09-29** (Kfir: build anyway); reposted via People Force, see Active |
 | National Bank | Governance PO | Data/analytics domain gap |
 | CN Rail | Telecom PM | Hard telecom requirement |
 | CN Rail | Enterprise PM | 10-year minimum, railroad domain |

@@ -2,7 +2,7 @@
 
 **Purpose:** This is the canonical, strongest version of every recurring bullet. Before drafting a new bullet for any story below, start from this version and only reword for JD keyword fit. Do not rewrite from scratch. If a session produces a genuinely stronger version, update this file (see "Version Log" at the bottom) rather than letting the improvement live in one resume and disappear.
 
-**Rules every bullet still passes:** no metric repeated in the same resume, no JD mirroring, connects to that JD's actual signal, and the plain-language check: would Kfir say this line out loud to an interviewer? No filler ("evaluating tradeoffs across scope and timeline," "scalable workflows"), no jargon ("discovery synthesis," "testable concept"), no hedges ("where possible"), no trait-style lines. No em dashes in any resume text.
+**Rules every bullet still passes:** no metric repeated across bullets (the summary may repeat up to 3 headline metrics), no JD mirroring, connects to that JD's actual signal, and the plain-language check: would Kfir say this line out loud to an interviewer? No filler ("evaluating tradeoffs across scope and timeline," "scalable workflows"), no jargon ("discovery synthesis," "testable concept"), no hedges ("where possible"), no trait-style lines. No em dashes in any resume text.
 
 **Standard summary openers** (default only; the summary is tailored in full per JD, Kfir 2026-09-29):
 - PM roles: "Product Manager with 5 years of experience in B2B2C SaaS, [one angle from the JD's top objective]." Master default angle: "owning products from discovery through launch and adoption."
@@ -281,6 +281,7 @@
 
 ## VERSION LOG
 
+- **2026-09-29:** Summaries may repeat up to 3 headline metrics from the bullets and should name the concrete systems built (Kfir, Leyton: preferred older summaries that did this). Bullets still never repeat a metric among themselves.
 - **2026-09-29:** Master PM summary reworked from the Lyft angle (requests from many clients → reusable platform features), without GovTech. Added a GovTech/platform summary variant. Dropped the Lyft original's repeated metrics and trait line ("managing ambiguity … with structured judgment").
 - **2026-09-29:** Summary openers shortened to "Product Manager with 5 years of experience in B2B2C SaaS, [angle]" (Kfir: old opener too long and repeated the company line). Master summaries updated.
 - **2026-09-29:** Summary openers are a default, not a requirement: every build tailors the whole summary to the JD (Kfir). PM master summary: "Stayed the main client contact… QBRs" → "Worked directly with users through requirements sessions, on-site visits, and roadmap reviews." (QBRs read as account management on PM CVs; keep for client-facing roles.)

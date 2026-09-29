@@ -45,7 +45,7 @@ French is preferred (Kfir is A2).
 - **Track / base:** PM master (`cv/master-PM.md`)
 - **Tailored copy:** pending approval of draft v1
 - **Draft v1 changes from the master:**
-  - Summary rewritten: requirements for Engineering; built internal ClickUp system; feature proposals to CPO/CTO.
+  - Summary v4: billing, data integration, process automation; backlog + Agile delivery to staging tests; $100K+ ARR, 18% QoQ, CS to 100+ accounts with no added headcount (repeats bullet metrics, allowed).
   - Bullets: #12 (N15) leads, #13, #1, new change-management/training bullet, new QA + post-launch bullet
     (form builder), #6, #2. Dropped: #5 onboarding (33%), #4 permissions, #3 mobile, #8 login.
   - Skills: rows rebuilt for BA / change / testing; Linear and Loveable out.
@@ -66,3 +66,4 @@ None
 | 2026-09-29 | Vetted: Stretch. Draft v1 sent for approval |
 | 2026-09-29 | Kfir: summary not tight enough. v2: 2 sentences (business teams ↔ Engineering; first and only PM pitching features to CPO/CTO). ClickUp line cut |
 | 2026-09-29 | Kfir preferred older summaries (concrete systems + stacked metrics). v4 drafted in that style; metric-repeat question open |
+| 2026-09-29 | Kfir chose (a): summary may repeat up to 3 bullet metrics. Summary v4 kept; full draft v2 sent |

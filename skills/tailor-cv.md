@@ -10,17 +10,17 @@ Only after `vet-job.md` gave Apply or Stretch.
   1. **Sentence 1 = the JD's top objective.** "Product Manager with 5 years of experience in B2B2C
      SaaS, [what this role most needs, in Kfir's words]."
   2. **A hook:** the one proof point this recruiter cares most about (a metric or a rare fit, e.g.
-     payments in a regulated space, CS-to-PM, first PM). It can't be a metric used in a bullet.
+     payments in a regulated space, CS-to-PM, first PM). It may repeat a bullet metric (Kfir, 2026-09-29).
   3. **One line on how he works** that matches the JD's second signal.
-  Keep it to 2-3 short sentences. Never repeat the company line (customer base, regions). Still bound by: facts file only, voice rules, no metric that also appears in a
-  bullet, no overlap with bullet 1's story, no JD mirroring, "5 years", B2B2C.
+  Keep it to 2-3 short sentences. Never repeat the company line (customer base, regions). Still bound by: facts file only, voice rules, summary metrics may repeat
+  bullet metrics (up to 3), name the concrete systems built (billing, integrations, access, automation), no overlap with bullet 1's story, no JD mirroring, "5 years", B2B2C.
 - Bullets: reorder by relevance; pick bullets from `cv/bullet-library.md` using its **Story
   Selection Guide** (lead / second / avoid for the role signal); reword only for JD keyword fit.
   Respect each bullet's tailoring notes (claim ceilings like "prototyped, never shipped").
 - **Never** rewrite the whole CV. **Never** change layout, fonts, or page count.
 
 ## Library rules every bullet must pass
-- No metric repeated in the same resume. Each metric belongs to its own story (e.g. 30+ renewals
+- No metric repeated across bullets (the summary may repeat up to 3 headline metrics). Each metric belongs to its own story (e.g. 30+ renewals
   stays with #2 CRM/API).
 - No JD mirroring. Connect to the JD's actual signal instead of echoing its phrasing.
 - Plain-language check: would Kfir say this out loud to an interviewer? No filler, no jargon, no

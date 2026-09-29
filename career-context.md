@@ -79,7 +79,7 @@ memory export (2026-09-28).
 
 ## 3. Verified numbers
 
-Locked in `BL`. Each metric belongs to **one story only** and appears **at most once per resume**. `HO` `BL`
+Locked in `BL`. Each metric belongs to **one story only** and appears **at most once in the bullets** of a resume. The summary may repeat up to 3 headline metrics from the bullets (Kfir, 2026-09-29, Leyton). `HO` `BL`
 
 | # | Claim | Owner story (BL #) | Notes |
 |---|---|---|---|
@@ -367,7 +367,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
-| 2026-09-29 | Summaries carry substance: name the concrete systems Kfir built (billing/payments, integrations, access, automation, data model) and end with 2-3 headline metrics. Generic "works between X and Y" lines are too thin. 2-3 tight sentences (replaces the 2-sentence/40-word rule logged earlier the same day). Whether summary metrics may repeat bullet metrics: pending Kfir | Kfir (Leyton, pointing at older summaries he preferred) |
+| 2026-09-29 | Summaries carry substance: name the concrete systems Kfir built (billing/payments, integrations, access, automation, data model) and end with 2-3 headline metrics. Generic "works between X and Y" lines are too thin. 2-3 tight sentences (replaces the 2-sentence/40-word rule logged earlier the same day). Summary metrics may repeat bullet metrics (Kfir chose this; bullets still never repeat a metric among themselves) | Kfir (Leyton, pointing at older summaries he preferred) |
 | 2026-09-29 | Summary is rewritten for every JD: sentence 1 = the JD's top objective, plus a recruiter hook; opener never repeats the company line | Kfir |
 | 2026-09-29 | Summary has no edit cap: tailor the whole summary to best fit each JD (facts, voice, and metric rules still apply) | Kfir (Vention MachineApps) |
 | 2026-09-29 | Summaries: no self-claimed traits ("learning a new domain fast", "quick learner"); anyone can write them and the recruiter can't check them. Show the thing done instead (e.g. learned how each city ran → templated client setup). Also no "from X to Y" list openers and no "people who aren't X" contrasts: they read as AI-written. Flag trait lines even when Kfir wrote them | Kfir (Vention MachineApps) |

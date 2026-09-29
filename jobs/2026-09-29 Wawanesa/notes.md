@@ -1,12 +1,14 @@
 # Wawanesa Mutual Insurance — Product Manager, Business Insurance
 
 ## Posting
-- **Link:** Unknown (JD pasted by Kfir). Not found live on jobs.wawanesa.com on 2026-09-29.
-- **Checked live on:** not confirmed
+- **Link:** https://jobs.wawanesa.com/job/North-York-Toronto%2C-ON-%28Hybr-Responsable-de-produit-assurance-des-entreprises-ON/606537517/
+  (French title: Responsable de produit, assurance des entreprises; req 606537517)
+- **Checked live on:** not confirmed (jobs.wawanesa.com blocked from this session, 2026-09-29)
 - **Source:** pasted
-- **Location / remote:** Unknown. The English text is a machine translation from French
-  ("ICR" = indicateurs clés de rendement = KPIs; "subscription" = souscription = underwriting),
-  so likely a Quebec office. French requirement Unknown; Kfir is A2.
+- **Location / remote:** North York - Toronto, ON (Hybrid), per the URL. Other locations Unknown.
+  Toronto-based = auto-skip rule (career-context §5) unless the page lists Montreal or remote.
+  Posting is in French ("ICR" = KPIs; "subscription" = souscription = underwriting); French
+  requirement Unknown; Kfir is A2.
 - **Pay range (if posted):** Unknown
 - **Reports to:** Unknown
 
@@ -70,4 +72,5 @@ None yet. Worth one here: it can name the insurance gap plainly (as BDC's did fo
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-09-29 | Link received: North York - Toronto (Hybrid). Likely auto-skip; waiting on Kfir to confirm other locations before building. |
 | 2026-09-29 | Vetted: Stretch. Kfir confirmed no fraud and no insurance experience. Draft CV text shown for approval. |

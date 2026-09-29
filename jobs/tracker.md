@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-29 | Leyton | Business Transformation & Product Manager (location Unknown; bilingual JD, likely Montreal; FR preferred) | Stretch | PM_Leyton (draft v1) | Interested | Kfir approves draft v1; send posting link | `2026-09-29 Leyton/` |
 | 2026-09-29 | Sadie (Valsoft) | Product Owner (AI voice agent for restaurants/hotels; Montreal per listing) | Apply | PM_Sadie | Interested | Kfir applies (link in notes) | `2026-09-29 Sadie/` |
 | 2026-09-29 | Vention | PM, Applications (MachineApps: palletizing, material handling, vision) | Stretch (was the skipped Robotics PM; Kfir overrode) | PM_Vention_MachineApps | Interested | Kfir reviews CV and applies (link in notes) | `2026-09-29 Vention MachineApps/` |
 | 2026-09-29 | Claio.ai (Valsoft) | Junior Product Specialist (Montreal, Valsoft HQ; FR/EN required) | Stretch | PM_Claio | Interested | Kfir reviews CV and applies (Workable link in notes) | `2026-09-29 Claio/` |

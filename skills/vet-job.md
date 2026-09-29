@@ -15,7 +15,8 @@ Always first. Most postings should die here, before any CV work.
 Never ask about role priority or how serious the application is. Kfir applies widely. `HO`
 
 ## Steps
-1. Check `jobs/tracker.md` — already vetted? Say so and stop.
+1. Check `jobs/tracker.md` — already vetted? Say so and stop. If Kfir still asks to build a skipped one, re-vet it as
+   Stretch and build (his call; flag the gaps once).
 2. Open the posting live. Closed / reposted / aggregator-only → say so.
 3. Fill the facts (Unknown beats a guess): role, pay range, location/remote, reports to, what the
    company does, stage/funding, approx employees.

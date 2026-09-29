@@ -16,8 +16,8 @@ Product Manager with 5 years of experience in product and customer success roles
 company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+
 residents. Started as a CSM owning about $2M ARR in client contracts, then was promoted to the
 company's first Product Manager, owning the platform from discovery to launch with Design and
-Engineering. Stayed the main client contact, running requirements sessions, roadmap reviews, and
-QBRs.
+Engineering. Worked directly with users through requirements sessions, on-site visits, and roadmap
+reviews.
 
 **EXPERIENCE**
 
@@ -92,7 +92,9 @@ English - Fluent | Hebrew - Native | French - A2
 (subscriptions, your "greatest achievement" story), then onboarding, then permissions (shows
 platform/systems depth), then metrics/data, 0-to-1 mobile, scrappy no-engineering fix, platform/data.
 
-**Summary:** uses the library's PM opener, and its metrics ($2M ARR, 12M+) don't repeat any bullet,
+**Summary:** a default starting point only; every build tailors the whole summary to the JD (Kfir,
+2026-09-29). QBRs left out of the PM default: they read as account management; add them back only for
+client-facing roles (implementation, solutions, CSM). Uses the library's PM opener, and its metrics ($2M ARR, 12M+) don't repeat any bullet,
 so no metric appears twice (the winners broke that rule; the current rules don't allow it).
 
 **Fixed from the winners because they break current rules:**

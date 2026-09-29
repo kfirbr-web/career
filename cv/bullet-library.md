@@ -4,7 +4,7 @@
 
 **Rules every bullet still passes:** no metric repeated in the same resume, no JD mirroring, connects to that JD's actual signal, and the plain-language check: would Kfir say this line out loud to an interviewer? No filler ("evaluating tradeoffs across scope and timeline," "scalable workflows"), no jargon ("discovery synthesis," "testable concept"), no hedges ("where possible"), no trait-style lines. No em dashes in any resume text.
 
-**Standard summary openers:**
+**Standard summary openers** (default only; the summary is tailored in full per JD, Kfir 2026-09-29):
 - PM roles: "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe…" (use "startup" instead of "company" only when the JD requires startup experience)
 - CSM roles: "Product Manager and former Customer Success Manager with 5 years of experience at a B2B2C SaaS company serving…"
 - Never "5 years across…" or other clipped phrasing.
@@ -277,6 +277,7 @@
 
 ## VERSION LOG
 
+- **2026-09-29:** Summary openers are a default, not a requirement: every build tailors the whole summary to the JD (Kfir). PM master summary: "Stayed the main client contact… QBRs" → "Worked directly with users through requirements sessions, on-site visits, and roadmap reviews." (QBRs read as account management on PM CVs; keep for client-facing roles.)
 - **2026-09-28 (CSM master):** New #12 variant with the N15 metric: "Built CS processes from scratch, including Intercom routing and escalation rules, HubSpot lifecycle workflows and renewal alerts, and a shared knowledge base, letting CS scale to 100+ accounts with no added headcount." Used in the CSM master.
 - **2026-09-28 (career repo):** 18% QoQ and 33% onboarding each came from two efforts. 18% can go on #6 (engagement scoring) or on a self-serve configuration bullet; 33% on #5 (onboarding) or #13 (integration mapping, which then drops "days to hours"). Still once per resume. 30+ renewals confirmed over 35% for #2 in interviews too. New confirmed metric: CS ops layer in HubSpot scaled CS to 100+ accounts with no added headcount (see #12).
 - **2026-09-28:** Plain-language pass on every bullet (#1, #2, #5, #6, #8, #10 reworded) after AI-sounding phrasing was flagged. Added stories #13–#23 from confirmed facts in the Sherweb, Cohere, Monarch, Vention, 1Password, Fortra, GC AI, and Karbon builds. #11 ceiling raised from "proposed" to "prototyped." #6 corrected to "Defined… that Engineering built." Added standard summary openers and CSM-role selection rows.

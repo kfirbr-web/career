@@ -51,7 +51,13 @@ too technical"). The job is software PM work on configurable apps; the robotics 
 
 ## CV
 - **Track / base:** PM / `Kfir_Braunstein_PM_Master.docx`
-- **Tailored copy:** not built yet (draft v1 waiting for Kfir)
+- **Tailored copy:** [Kfir_Braunstein_PM_Vention_MachineApps](https://docs.google.com/document/d/1Wlf3mySllvB6Eq7etLv1IBPqxS9uLfOW2usd-jN3_dw/edit)
+  (.docx in this folder; Doc PDF export checked: 1 page)
+- **Built version (changes from draft v1 to fit one page):** Chrome extension project line cut;
+  #1 shortened ("after studying a competitor's setup"; pricing clause moved to Skills as "Pricing Input");
+  the planning and Scrum bullets merged into one (Scrum + staging QA + quarterly planning), dropping
+  acceptance criteria (kept in Skills), Jam.dev logging, and the pushback-on-infrastructure clause;
+  Product Strategy row: Prioritization and KPIs out, Pricing Input in. Python stays in the project line only.
 - **Changes from master (draft v1):**
   - Summary: last sentence adds on-site visits to the client-contact line.
   - Bullets, in order: #1 with competitor sign-up + pricing angle; #9 event form; #5; #6 with
@@ -77,4 +83,6 @@ None yet. Worth one: can name the robotics gap and point to the configurable-app
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-09-29 | Kfir: QBRs don't belong in a PM summary. Last summary sentence → "Worked directly with users through requirements sessions and on-site visits, learning a new domain fast." (.docx updated, 1 page; Google Doc still has the old line, see chat: Docs connector not on) |
+| 2026-09-29 | Kfir said build. Built on the master/Jerry V2 layout with the page-fit cuts above; uploaded to Drive. |
 | 2026-09-29 | Flagged as a likely repost of the skipped Robotics PM. Kfir: "I don't find it too technical" → re-vetted as Stretch. Draft v1 shown for approval. |

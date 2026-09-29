@@ -14,7 +14,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
 | 2026-09-29 | Sadie (Valsoft) | Product Owner (AI voice agent for restaurants/hotels; Montreal per listing) | Apply | PM_Sadie | Interested | Kfir reviews CV and applies (Workable link in notes) | `2026-09-29 Sadie/` |
-| 2026-09-29 | Vention | PM, Applications (MachineApps: palletizing, material handling, vision) | Stretch (was the skipped Robotics PM; Kfir overrode) | PM_Vention_MachineApps (draft) | Interested | Kfir approves draft v1, then build | `2026-09-29 Vention MachineApps/` |
+| 2026-09-29 | Vention | PM, Applications (MachineApps: palletizing, material handling, vision) | Stretch (was the skipped Robotics PM; Kfir overrode) | PM_Vention_MachineApps | Interested | Kfir reviews CV and applies (link in notes) | `2026-09-29 Vention MachineApps/` |
 | 2026-09-29 | Claio.ai (Valsoft) | Junior Product Specialist (Montreal, Valsoft HQ; FR/EN required) | Stretch | PM_Claio (draft) | Interested | Kfir approves draft; send posting link | `2026-09-29 Claio/` |
 | 2026-09-29 | PIP Canada (Protective Industrial Products) | PM, First Aid and Footwear (Laval, QC) | Stretch (was Skip 2026-09-28; Kfir overrode) | PM_PIPCanada | Interested | Trim 2 Skills terms in the Doc, export PDF, apply; send posting link | `2026-09-29 PIP Canada/` |
 | 2026-09-29 | SafeContractor (Veriforce) | Customer Success Manager (hybrid; likely Quebec; FR/EN bilingual required) | Stretch | CSM_SafeContractor | Interested | Kfir reviews CV and applies (link in notes) | `2026-09-29 SafeContractor/` |

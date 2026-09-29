@@ -245,7 +245,8 @@ Pulled from ~40 builds in `HO` and Drive. Not ranked: all in scope.
   serious an application is.** `HO`
 
 ### Not interested / auto-skip (from `HO` skipped roles)
-- Hard domain requirements with no analog: telecom, railroad, robotics, on-premises hardware,
+- Hard domain requirements with no analog: telecom, railroad, robotics **hardware / controls engineering** (software
+  PM roles on robotics or automation platforms are not a skip: Stretch; Kfir, 2026-09-29, Vention), on-premises hardware,
   data engineering, design systems + localization + RLHF, Adobe Target/AEP/CDP specialist
 - Location blockers: must be Toronto-based; US-only postings; Quebec exclusion clauses
 - 10+ years minimum experience
@@ -359,6 +360,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-29 | Robotics is not an auto-skip when the job is software PM work (configurable apps, roadmap, PRDs) on a robotics/automation platform; vet it as Stretch. Only robotics hardware / controls engineering roles auto-skip | Kfir (Vention MachineApps) |
 | 2026-09-29 | A Skip is Kfir's call to override: flag an earlier Skip once; if he says build, re-vet as Stretch and build the best version (no second push-back) | Kfir (PIP Canada) |
 | 2026-09-29 | Flag a job that was already built before starting; wait for reuse / rebuild / skip | Kfir |
 | 2026-09-29 | No insurance / P&C experience and no fraud work: never claim either | Kfir (Wawanesa) |

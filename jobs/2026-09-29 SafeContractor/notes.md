@@ -1,10 +1,11 @@
 # SafeContractor (Veriforce) — Customer Success Manager
 
 ## Posting
-- **Link:** Unknown (JD pasted by Kfir; the exact posting wasn't found live. A Veriforce
-  Montreal "Customer Service Specialist" posting has the same English/French wording.)
-- **Checked live on:** 2026-09-29: not verified live (no link)
-- **Source:** pasted
+- **Link:** https://alcumus.pinpointhq.com/en/postings/2ffccf32-e61b-4750-94c4-17466b7aecc2
+  (Alcumus careers site on Pinpoint; Kfir found it via LinkedIn)
+- **Checked live on:** 2026-09-29: not verified. The container's network blocks pinpointhq.com, and
+  web search didn't index the posting. Kfir to confirm location and pay from the page.
+- **Source:** Pinpoint (Alcumus) via LinkedIn; JD pasted by Kfir
 - **Location / remote:** Hybrid (per posting); city Unknown. Likely Quebec: later interviews
   "in French or English", and Veriforce Canada has offices in Montréal and Shawinigan.
 - **Pay range (if posted):** Unknown
@@ -76,3 +77,4 @@ None
 |---|---|
 | 2026-09-29 | Vetted: Stretch (French required, Kfir A2). CSM draft v1 sent for approval |
 | 2026-09-29 | Kfir said build; built as drafted, uploaded to Drive, one page verified |
+| 2026-09-29 | Posting link added (Alcumus Pinpoint); couldn't open it from here |

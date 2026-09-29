@@ -50,6 +50,10 @@ his own Scrum ceremonies. Gaps are pluses only (voice/conversational, hospitalit
   - Summary sentence 3: client-contact line → sole PM running sprint planning, backlog grooming, acceptance criteria + requirements sessions and roadmap reviews.
   - Bullets: #1 (+ acceptance criteria), #4 (+ nested departments), new QA + staged-release bullet (QA fact + #16), #6, #3, #13, #2. Dropped: #5 onboarding, #8 login.
   - Skills: Agile & Delivery leads; new Quality & Release row; Analytics row folded into Tools; Linear and Loveable out.
+  - v2 (Kfir, 2026-09-29): summary rewritten in full (uncapped): CSM → first and only PM with Design and Engineering;
+    ran sprint planning and backlog grooming; wrote user stories and acceptance criteria from what clients and CS reported.
+    Bullet 1 back to library wording (no "acceptance criteria", to avoid overlap). .docx here updated, one page (749pt).
+    **Google Doc not yet updated**: Drive upload failed; Kfir to paste the two text changes into the Doc.
   - Build trim: Agile row dropped "Functional Requirements" (the row wrapped to 2 lines).
 
 ## Cover note
@@ -69,3 +73,4 @@ None
 |---|---|
 | 2026-09-29 | Vetted: Apply. Draft v1 sent for approval |
 | 2026-09-29 | Kfir approved; built PM_Sadie (Google Doc, one page) |
+| 2026-09-29 | Summary v2 approved; .docx updated; Doc edit pending (upload failed) |

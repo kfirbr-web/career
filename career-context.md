@@ -367,6 +367,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-29 | Summary is rewritten for every JD: sentence 1 = the JD's top objective, plus a recruiter hook; opener never repeats the company line | Kfir |
 | 2026-09-29 | Summary has no edit cap: tailor the whole summary to best fit each JD (facts, voice, and metric rules still apply) | Kfir (Vention MachineApps) |
 | 2026-09-29 | Vention MachineApps PM summary: no "customer success roles" and no ~$2M ARR as CSM; CS appears only as the promotion ("promoted from Customer Success to its first and only Product Manager"). Applying to all PM summaries/master: pending Kfir | Kfir (Vention MachineApps) |
 | 2026-09-29 | PM summaries: no "main client contact… QBRs" line (reads as account management; confusable with internal quarterly product reviews). QBRs only for client-facing roles | Kfir (Vention MachineApps) |

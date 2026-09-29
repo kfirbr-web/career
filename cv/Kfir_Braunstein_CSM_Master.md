@@ -2,7 +2,7 @@
 
 Montreal, QC, Canada  |  514-462-2234  |  kfirbr@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/kfirbraunstein/)
 
-Product Manager and former Customer Success Manager with 5 years of experience at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents. Owned about $2M ARR as a CSM, with renewal forecasts and success plans tied to client goals, and as a PM led the product side of onboarding, QBRs, and renewals.
+Product Manager and former Customer Success Manager with 5 years of experience in B2B2C SaaS. Owned about $2M ARR as a CSM, with renewal forecasts and success plans tied to client goals, and as a PM led the product side of onboarding, QBRs, and renewals.
 
 ## Experience
 

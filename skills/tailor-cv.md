@@ -5,8 +5,14 @@ Only after `vet-job.md` gave Apply or Stretch.
 ## Edit caps
 - Title line: swap to match the posting.
 - Skills: swap 3–4 terms (or pick the 6 skill lines for the track).
-- Summary: **no cap.** Tailor the whole summary to fit the JD best: rewrite any or all sentences
-  (Kfir, 2026-09-29). Still bound by: facts file only, voice rules, no metric that also appears in a
+- Summary: **no cap, and always rewritten for the JD** (Kfir, 2026-09-29). Never ship the master
+  summary unchanged. Build it for the recruiter's 6-second read:
+  1. **Sentence 1 = the JD's top objective.** "Product Manager with 5 years of experience in B2B2C
+     SaaS, [what this role most needs, in Kfir's words]."
+  2. **A hook:** the one proof point this recruiter cares most about (a metric or a rare fit, e.g.
+     payments in a regulated space, CS-to-PM, first PM). It can't be a metric used in a bullet.
+  3. **One line on how he works** that matches the JD's second signal.
+  Keep it to 2-3 short sentences. Never repeat the company line (customer base, regions). Still bound by: facts file only, voice rules, no metric that also appears in a
   bullet, no overlap with bullet 1's story, no JD mirroring, "5 years", B2B2C.
 - Bullets: reorder by relevance; pick bullets from `cv/bullet-library.md` using its **Story
   Selection Guide** (lead / second / avoid for the role signal); reword only for JD keyword fit.

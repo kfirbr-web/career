@@ -1,6 +1,6 @@
 # Master PM CV
 
-Status: **locked 2026-09-28.** Built into `Kfir_Braunstein_PM_Master.docx` / `.pdf` on the Jerry V2
+Status: **locked 2026-09-28.** Built into `Kfir_Braunstein_PM_Master.docx` on the Jerry V2
 layout (Calibri 10/16pt, 1cm margins, dates on the right tab stop). The text below matches the .docx;
 if they ever disagree, fix this file from the .docx.
 

@@ -1,6 +1,6 @@
 # Master CSM CV
 
-Status: **built 2026-09-28** → `cv/Kfir_Braunstein_CSM_Master.docx` (+ `.pdf`), on the Jerry V2
+Status: **built 2026-09-28** → `cv/Kfir_Braunstein_CSM_Master.docx`, on the Jerry V2
 layout. 1 page; 6 skills rows, one line each. **Untested:** built from the bullet library, not from
 CSM CVs that moved forward. Revisit once a CSM application gets a screen.
 

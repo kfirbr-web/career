@@ -49,11 +49,15 @@ vendors, member experience); the first requirement is 5+ years of PM work in ins
 ## CV
 - **Track / base:** PM / `Kfir_Braunstein_PM_Master.docx`
 - **Tailored copy:** not built yet (draft awaiting Kfir's approval)
-- **Changes from master (draft v1):**
-  - Summary: sentence 2 adds running sprint planning and releases (true: ran Scrum ceremonies).
-  - Bullets: #1 reworded to the cross-functional guardrails angle; #17 refunds added;
-    #4 compliance variant; #6 kept; #8 kept; #16 staged releases + GDPR auditors added;
-    #15 + #13 combined (vendors + mapping tool). Dropped: #5 onboarding 33%, #3 mobile, #2 CRM/API.
+- **Changes from master (draft v2, after a full re-check):**
+  - Summary: sentence 3 now makes Kfir the link between Engineering and Sales, CS, and Support
+    (the posting names the tech-to-business link twice); sentence 2 is the master's again.
+  - Bullets, in order: #1 reworded to the three-team guardrails angle (Sales / CS / Eng, a scope all
+    three agreed on); #17 refunds; #4 compliance variant; #6; #8; #2 with the migration clause
+    (roadmap and project plans, weighing the impact of a platform change, 30+ renewals);
+    #15 + #13 (vendors + mapping tool).
+    Dropped: #5 onboarding 33%, #3 mobile, #16 staged releases (v1 had it; v1 also tied the GDPR
+    auditors to region assignment, which isn't in the facts file). #2 hits 3 posting lines, #16 only 2.
   - Skills: Product Strategy row gets Vendor Management + GDPR Compliance (out: OKRs, Go-to-Market);
     Agile row gets User Stories + Release Management (out: PRDs, Acceptance Criteria);
     AI row Loveable → Claude Cowork; Tools row Linear out (removed in facts file), Confluence first, Excel in.
@@ -72,5 +76,6 @@ None yet. Worth one here: it can name the insurance gap plainly (as BDC's did fo
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-09-29 | Draft v2 after Kfir asked for a re-check: #16 → #2, summary line 3 = Eng-to-business link. |
 | 2026-09-29 | Link received: North York - Toronto (Hybrid). Likely auto-skip; waiting on Kfir to confirm other locations before building. |
 | 2026-09-29 | Vetted: Stretch. Kfir confirmed no fraud and no insurance experience. Draft CV text shown for approval. |

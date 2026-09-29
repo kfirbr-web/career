@@ -50,7 +50,10 @@ customer feedback, data); the physical-goods side does not.
 
 ## CV
 - **Track / base:** PM / `Kfir_Braunstein_PM_Master.docx`
-- **Tailored copy:** not built yet (waiting on Kfir's approval of draft v1)
+- **Tailored copy:** [Kfir_Braunstein_PM_PIPCanada](https://docs.google.com/document/d/1sm-T78ePCpcC51a-q94woHcFHLlg-AUETDL7zM8YoJw/edit)
+  (Google Doc = first upload; its PDF export ran 2 lines onto page 2 because two Skills rows wrapped.
+  Fix by hand in the Doc: drop "Stakeholder Management" and "Third-party Integrations". The .docx in
+  this folder already has that fix; its one-page fit is not verified.)
 - **Changes from master (draft v1):**
   - Summary: sentence 2 "owning the platform from discovery to launch" → "owning products from
     discovery through launch and post-launch iteration" (lifecycle).
@@ -77,4 +80,5 @@ None yet. Worth one: it can name the physical-goods and Health Canada gaps plain
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-09-29 | Kfir said build: built as drafted, uploaded to Drive. Skills rows need the 2-term trim in the Doc (see CV). |
 | 2026-09-29 | Kfir overrode the 2026-09-28 Skip: build the best version. Re-vetted as Stretch. Draft v1 shown for approval. |

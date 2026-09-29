@@ -61,6 +61,7 @@ Structure Studios, FutureFit (CS Ops).
 
 | Company | Role | Reason |
 |---|---|---|
+| Unknown (LinkedIn job 4469485077; likely a large enterprise, unconfirmed) | PM, Data & Analytics (enterprise third-party products) | 2026-09-29, Kfir: skip. Internal IT platform ownership; chargeback/TCO/cost allocation and Kafka/MongoDB/Redis Cloud/MQ/Power BI stack not in facts; 5+ yrs enterprise PM |
 | National Bank | Governance PO | Data/analytics domain gap |
 | CN Rail | Telecom PM | Hard telecom requirement |
 | CN Rail | Enterprise PM | 10-year minimum, railroad domain |

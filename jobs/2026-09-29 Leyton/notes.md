@@ -65,3 +65,4 @@ None
 |---|---|
 | 2026-09-29 | Vetted: Stretch. Draft v1 sent for approval |
 | 2026-09-29 | Kfir: summary not tight enough. v2: 2 sentences (business teams ↔ Engineering; first and only PM pitching features to CPO/CTO). ClickUp line cut |
+| 2026-09-29 | Kfir preferred older summaries (concrete systems + stacked metrics). v4 drafted in that style; metric-repeat question open |

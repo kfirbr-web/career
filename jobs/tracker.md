@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-29 | Wawanesa Mutual Insurance | PM, Business Insurance (location Unknown; likely Quebec) | Stretch | PM_Wawanesa (draft) | Interested | Kfir approves CV draft | `2026-09-29 Wawanesa/` |
 | 2026-09-28 | Akur8 | Account Manager (Montréal, hybrid; quota, OTE CA$170-190K) | Stretch | AM_Akur8 | Interested | Kfir reviews CV and applies | `2026-09-28 Akur8/` |
 | 2026-09-28 | Unnamed food & consumer products co. (via recruiting agency) | Customer Success Representative (Montreal) | Apply (down-level) | CSM_FoodCPG | Interested | Kfir applies; ask the agency for the client name | `2026-09-28 FoodCPG CSR/` |
 | 2026-09-28 | PIP Canada (Protective Industrial Products) | PM, First Aid and Footwear (Laval, QC) | Skip | — | Passed | — | — |

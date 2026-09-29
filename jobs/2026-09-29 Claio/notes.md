@@ -1,9 +1,9 @@
 # Claio.ai (Valsoft) — Junior Product Specialist
 
 ## Posting
-- **Link:** Unknown (JD pasted by Kfir). Search shows it listed for Montreal, QC; Valsoft hires on Workable.
-- **Checked live on:** 2026-09-29: couldn't find the original posting; only aggregator mentions. Kfir to send the link.
-- **Source:** Pasted
+- **Link:** https://apply.workable.com/valsoft-corp/j/C2DEEE9D2B/ (Valsoft on Workable; sent by Kfir)
+- **Checked live on:** 2026-09-29: not verified. The container's network blocks apply.workable.com. Kfir to confirm setup and pay from the page.
+- **Source:** Workable (Valsoft careers); JD pasted by Kfir
 - **Location / remote:** Valsoft HQ, Montreal (on-site stated; hybrid Unknown)
 - **Pay range (if posted):** Unknown
 - **Reports to:** Unknown
@@ -73,3 +73,4 @@ None
 | 2026-09-29 | Vetted: Stretch (French required, junior). New facts: hands-on QA; guides/FAQs/videos. Draft v1 sent for approval |
 | 2026-09-29 | Kfir asked to re-verify: v2 (champions/change mgmt, #11 AI, QBRs in summary, Projects). Approved: build |
 | 2026-09-29 | Built; two uploads ran to 2 pages; final drops Projects + small trims; one page verified on Drive PDF export |
+| 2026-09-29 | Posting link added (Valsoft Workable); couldn't open it from here |

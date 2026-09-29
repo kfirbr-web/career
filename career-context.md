@@ -367,6 +367,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-29 | Summaries must be tight: 2 sentences, about 40 words. Sentence 1 = JD top objective; sentence 2 = the hook. Cut any clause that is neither (e.g. a third "how he works" line, a side fact like the ClickUp system) | Kfir (Leyton) |
 | 2026-09-29 | Summary is rewritten for every JD: sentence 1 = the JD's top objective, plus a recruiter hook; opener never repeats the company line | Kfir |
 | 2026-09-29 | Summary has no edit cap: tailor the whole summary to best fit each JD (facts, voice, and metric rules still apply) | Kfir (Vention MachineApps) |
 | 2026-09-29 | Summaries: no self-claimed traits ("learning a new domain fast", "quick learner"); anyone can write them and the recruiter can't check them. Show the thing done instead (e.g. learned how each city ran → templated client setup). Also no "from X to Y" list openers and no "people who aren't X" contrasts: they read as AI-written. Flag trait lines even when Kfir wrote them | Kfir (Vention MachineApps) |

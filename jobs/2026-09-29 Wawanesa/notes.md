@@ -5,8 +5,7 @@
   (French title: Responsable de produit, assurance des entreprises; req 606537517)
 - **Checked live on:** not confirmed (jobs.wawanesa.com blocked from this session, 2026-09-29)
 - **Source:** pasted
-- **Location / remote:** North York - Toronto, ON (Hybrid), per the URL. Other locations Unknown.
-  Toronto-based = auto-skip rule (career-context §5) unless the page lists Montreal or remote.
+- **Location / remote:** North York - Toronto, ON (Hybrid) **and Montreal, QC (Hybrid)** (Kfir, 2026-09-29).
   Posting is in French ("ICR" = KPIs; "subscription" = souscription = underwriting); French
   requirement Unknown; Kfir is A2.
 - **Pay range (if posted):** Unknown
@@ -48,7 +47,8 @@ vendors, member experience); the first requirement is 5+ years of PM work in ins
 
 ## CV
 - **Track / base:** PM / `Kfir_Braunstein_PM_Master.docx`
-- **Tailored copy:** not built yet (draft awaiting Kfir's approval)
+- **Tailored copy:** [Kfir_Braunstein_PM_Wawanesa](https://docs.google.com/document/d/1L0rjFElpSz7vbE72L0D1aynSkG8rYk_ZmFxmzBKoqUg/edit)
+  (Google Doc; source .docx in this folder). One page in Google's PDF export (last line 737pt; Jerry V2 761pt).
 - **Changes from master (draft v2, after a full re-check):**
   - Summary: sentence 3 now makes Kfir the link between Engineering and Sales, CS, and Support
     (the posting names the tech-to-business link twice); sentence 2 is the master's again.
@@ -61,6 +61,9 @@ vendors, member experience); the first requirement is 5+ years of PM work in ins
   - Skills: Product Strategy row gets Vendor Management + GDPR Compliance (out: OKRs, Go-to-Market);
     Agile row gets User Stories + Release Management (out: PRDs, Acceptance Criteria);
     AI row Loveable → Claude Cowork; Tools row Linear out (removed in facts file), Confluence first, Excel in.
+  - Build trims for one page (v2 overflowed by one line): summary line 3 = "linked Engineering with
+    Sales and CS, running roadmap reviews and QBRs"; #4 dropped "end to end" and "for a multi-tenant
+    platform"; Product Strategy row dropped "Discovery" (row wrapped to 2 lines).
 
 ## Cover note
 None yet. Worth one here: it can name the insurance gap plainly (as BDC's did for banking).
@@ -76,6 +79,7 @@ None yet. Worth one here: it can name the insurance gap plainly (as BDC's did fo
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-09-29 | Montreal (Hybrid) also listed: Stretch stands. Kfir said build; built, uploaded to Drive, one page verified. |
 | 2026-09-29 | Draft v2 after Kfir asked for a re-check: #16 → #2, summary line 3 = Eng-to-business link. |
 | 2026-09-29 | Link received: North York - Toronto (Hybrid). Likely auto-skip; waiting on Kfir to confirm other locations before building. |
 | 2026-09-29 | Vetted: Stretch. Kfir confirmed no fraud and no insurance experience. Draft CV text shown for approval. |

@@ -7,6 +7,9 @@
 **Standard summary openers** (default only; the summary is tailored in full per JD, Kfir 2026-09-29):
 - PM roles: "Product Manager with 5 years of experience in B2B2C SaaS, [one angle from the JD's top objective]." Master default angle: "owning products from discovery through launch and adoption."
 - CSM roles: "Product Manager and former Customer Success Manager with 5 years of experience in B2B2C SaaS[, one angle]."
+- **Summary variants** (starting points; still rewritten per JD):
+  - **Master / general PM:** "Product Manager with 5 years of experience in B2B2C SaaS, turning requests from many different clients into reusable platform features. Started as a CSM owning about $2M ARR in client contracts, then became the company's first Product Manager, working with Engineering, Design, and Sales from discovery to launch."
+  - **GovTech / platform / configurable systems:** "Product Manager with 5 years of experience in B2B2C GovTech SaaS, turning requests from many different municipalities into reusable platform features. Started as a CSM owning about $2M ARR in client contracts, then became the company's first Product Manager, working with Engineering, Design, and Sales on public-sector and enterprise deals." (Cleaned-up version of the Lyft summary: no metrics that repeat a bullet, no trait lines.)
 - **Never repeat the company line** in the summary (customer base, regions, "serving 100+ municipalities…"): the Bewith.io line right below already says it. Shape copied from the CVs that moved forward (Lightspeed, Lyft, GoTo, Jerry V2).
 - Never "5 years across…" or other clipped phrasing.
 
@@ -278,6 +281,7 @@
 
 ## VERSION LOG
 
+- **2026-09-29:** Master PM summary reworked from the Lyft angle (requests from many clients → reusable platform features), without GovTech. Added a GovTech/platform summary variant. Dropped the Lyft original's repeated metrics and trait line ("managing ambiguity … with structured judgment").
 - **2026-09-29:** Summary openers shortened to "Product Manager with 5 years of experience in B2B2C SaaS, [angle]" (Kfir: old opener too long and repeated the company line). Master summaries updated.
 - **2026-09-29:** Summary openers are a default, not a requirement: every build tailors the whole summary to the JD (Kfir). PM master summary: "Stayed the main client contact… QBRs" → "Worked directly with users through requirements sessions, on-site visits, and roadmap reviews." (QBRs read as account management on PM CVs; keep for client-facing roles.)
 - **2026-09-28 (CSM master):** New #12 variant with the N15 metric: "Built CS processes from scratch, including Intercom routing and escalation rules, HubSpot lifecycle workflows and renewal alerts, and a shared knowledge base, letting CS scale to 100+ accounts with no added headcount." Used in the CSM master.

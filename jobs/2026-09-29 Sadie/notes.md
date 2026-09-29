@@ -1,8 +1,8 @@
 # Sadie (Valsoft) — Product Owner
 
 ## Posting
-- **Link:** https://apply.workable.com/valsoft-corp/j/7FF1CAFFFB/ (found by search; Workable is blocked from this environment, so not opened)
-- **Checked live on:** 2026-09-29: listed in search results; couldn't open it to confirm it's open. Kfir to confirm.
+- **Link:** https://apply.workable.com/valsoft-corp/j/7535616C6C/ (sent by Kfir). The search hit 7FF1CAFFFB is a different Valsoft "Product Owner" listing (unconfirmed which product).
+- **Checked live on:** 2026-09-29: not verified; the container's network blocks apply.workable.com.
 - **Source:** Pasted (JD) + Workable (Valsoft)
 - **Location / remote:** Montreal per search listing; workplace type Unknown
 - **Pay range (if posted):** Unknown
@@ -53,7 +53,7 @@ his own Scrum ceremonies. Gaps are pluses only (voice/conversational, hospitalit
   - v2 (Kfir, 2026-09-29): summary rewritten in full (uncapped): CSM → first and only PM with Design and Engineering;
     ran sprint planning and backlog grooming; wrote user stories and acceptance criteria from what clients and CS reported.
     Bullet 1 back to library wording (no "acceptance criteria", to avoid overlap). .docx here updated, one page (749pt).
-    **Google Doc not yet updated**: Drive upload failed; Kfir to paste the two text changes into the Doc.
+    Google Doc updated (verified by reading it back).
   - Build trim: Agile row dropped "Functional Requirements" (the row wrapped to 2 lines).
 
 ## Cover note
@@ -73,4 +73,5 @@ None
 |---|---|
 | 2026-09-29 | Vetted: Apply. Draft v1 sent for approval |
 | 2026-09-29 | Kfir approved; built PM_Sadie (Google Doc, one page) |
-| 2026-09-29 | Summary v2 approved; .docx updated; Doc edit pending (upload failed) |
+| 2026-09-29 | Summary v2 approved; .docx and Google Doc updated |
+| 2026-09-29 | Posting link from Kfir added |

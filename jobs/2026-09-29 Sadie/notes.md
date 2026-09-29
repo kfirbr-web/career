@@ -43,11 +43,14 @@ his own Scrum ceremonies. Gaps are pluses only (voice/conversational, hospitalit
 
 ## CV
 - **Track / base:** PM master (`cv/master-PM.md`)
-- **Tailored copy:** pending approval
-- **Changes from the master (draft v1):**
+- **Tailored copy:** [Kfir_Braunstein_PM_Sadie](https://docs.google.com/document/d/1CrDwqNBKOypl_bXWi0ur1LFOxtj5wCLwvAehe9BQgx8/edit)
+  (Google Doc; source .docx in this folder, built on the Wawanesa build of the Jerry V2 layout). One page in Google's
+  PDF export (last line 749pt; Jerry V2 761pt); every Skills row one line.
+- **Changes from the master (draft v1, approved as is; the two open questions weren't answered, so the safe wording stayed):**
   - Summary sentence 3: client-contact line → sole PM running sprint planning, backlog grooming, acceptance criteria + requirements sessions and roadmap reviews.
   - Bullets: #1 (+ acceptance criteria), #4 (+ nested departments), new QA + staged-release bullet (QA fact + #16), #6, #3, #13, #2. Dropped: #5 onboarding, #8 login.
   - Skills: Agile & Delivery leads; new Quality & Release row; Analytics row folded into Tools; Linear and Loveable out.
+  - Build trim: Agile row dropped "Functional Requirements" (the row wrapped to 2 lines).
 
 ## Cover note
 None
@@ -65,3 +68,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-29 | Vetted: Apply. Draft v1 sent for approval |
+| 2026-09-29 | Kfir approved; built PM_Sadie (Google Doc, one page) |

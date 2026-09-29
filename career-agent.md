@@ -36,3 +36,5 @@ and runs interview prep. Drafts only — Kfir approves and sends everything.
 10. **Flag repeat submissions before starting.** If a pasted job was already built (same company +
    role, or same link), say so with the date, CV and status, and wait for Kfir: reuse / rebuild / skip.
    See `skills/vet-job.md` step 1.
+11. **Google Docs only.** A tailored CV is delivered as a Google Doc in Drive. Never create, send,
+   upload or commit a PDF; Kfir exports it himself.

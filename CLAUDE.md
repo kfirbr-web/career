@@ -59,4 +59,5 @@ career/
   `cv/bullet-library.md` (with a Version Log entry: date, what, why) so the next job starts better.
 - Every posting vetted goes into `jobs/tracker.md`, including skips.
 - Tailored CVs are Google Docs in Drive named `Kfir_Braunstein_<Track>_<Company>`; link them from
-  the job's `notes.md`.
+  the job's `notes.md`. **Google Docs only: never create, send or commit a PDF.** Kfir exports PDFs
+  himself.

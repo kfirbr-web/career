@@ -343,7 +343,9 @@ that moved forward.
 - Skills block: exactly 6 rows, one line each. CS roles lead with Customer Success & Ops; PM roles
   lead with AI & Builder Tools or Product Strategy depending on the JD.
 - Projects section (side projects) only when it fits the role.
-- After building: rasterize the PDF and compare it visually against Jerry V2; flag a thin-looking page.
+- **Output is a Google Doc only.** Never create or hand over a PDF; Kfir exports it himself.
+- After building: check page fit with a throwaway preview (scratchpad only, never saved or sent)
+  compared against Jerry V2; flag a thin or overflowing page.
 
 **Summary:** uses the library's standard openers; includes metrics; not generic; third-person resume
 voice; doesn't repeat bullet 1; short sentences; no JD mirroring.
@@ -362,6 +364,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-29 | Tailored CVs are delivered as Google Docs only; no PDFs (Kfir exports them) | Kfir |
 | 2026-09-29 | Robotics is not an auto-skip when the job is software PM work (configurable apps, roadmap, PRDs) on a robotics/automation platform; vet it as Stretch. Only robotics hardware / controls engineering roles auto-skip | Kfir (Vention MachineApps) |
 | 2026-09-29 | New facts: hands-on QA in staging before release (bugs logged in Jam.dev); wrote KB articles, user guides, FAQs, release notes, and recorded video tutorials | Kfir (Claio) |
 | 2026-09-29 | A Skip is Kfir's call to override: flag an earlier Skip once; if he says build, re-vet as Stretch and build the best version (no second push-back) | Kfir (PIP Canada) |

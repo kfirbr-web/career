@@ -41,7 +41,11 @@ Only after `vet-job.md` gave Apply or Stretch.
    Keep a record of what changed from the master in the job's `notes.md`.
 4. Wait for Kfir's approval. Apply only approved changes.
 5. Build from **Jerry V2** as `Kfir_Braunstein_<Track>_<Company>` (layout rules: `career-context.md`
-   §9). Rasterize the PDF and compare it visually with Jerry V2; flag a thin page before presenting.
+   §9). **Deliverable = a Google Doc in Drive, nothing else** (Kfir, 2026-09-29): upload the built
+   `.docx` to Drive converted to a Google Doc with that name, and give Kfir the link. **Never create,
+   send, upload or commit a PDF**; Kfir exports the PDF himself. For the page-fit check, render a
+   throwaway preview in the scratchpad only, compare it visually with Jerry V2, flag a thin or
+   overflowing page, then delete it.
 6. Record the changes + Drive link in the job's `notes.md`; set tracker "CV used".
 7. If any change is a general improvement, propose updating the master and
    `cv/bullet-library.md` (add a Version Log line: date, what changed, why).

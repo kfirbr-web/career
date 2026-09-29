@@ -73,3 +73,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-29 | Flagged as the earlier skipped D&A PM; Kfir: build anyway. Vetted Stretch. Draft v1 sent for approval |
+| 2026-09-29 | Same role came in via TMC; Kfir: reuse. Draft rebuilt from this change list (v1 text was never saved); see `2026-09-29 TMC DataAnalytics/` |

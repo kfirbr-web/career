@@ -219,6 +219,8 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Change management | Helped client teams move off old processes onto the platform, including reluctant staff | `PMEM` (MindBridge) |
 | Pushback on leadership | Pushed back on internal C-level pressure to prioritize features over infrastructure readiness | `PMEM`. Internal leadership, not clients |
 | Bulk actions | Specced bulk action capabilities inside the CRM/API data model work (#2); fold in when a JD signals bulk actions | `PMEM` |
+| QA before release | Tested new features hands-on in staging before release and logged bugs for Engineering (Jam.dev) | Confirmed by Kfir 2026-09-29 (Claio). OK to say "QA testing" / "tested in staging" |
+| Customer content | Wrote knowledge base articles, user guides, FAQs, and release notes, and recorded short video tutorials for clients | Confirmed by Kfir 2026-09-29 (Claio). OK on CVs |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -359,6 +361,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-29 | New facts: hands-on QA in staging before release (bugs logged in Jam.dev); wrote KB articles, user guides, FAQs, release notes, and recorded video tutorials | Kfir (Claio) |
 | 2026-09-29 | A Skip is Kfir's call to override: flag an earlier Skip once; if he says build, re-vet as Stretch and build the best version (no second push-back) | Kfir (PIP Canada) |
 | 2026-09-29 | Flag a job that was already built before starting; wait for reuse / rebuild / skip | Kfir |
 | 2026-09-29 | No insurance / P&C experience and no fraud work: never claim either | Kfir (Wawanesa) |

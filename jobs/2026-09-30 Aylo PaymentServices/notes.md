@@ -37,13 +37,15 @@
 
 ## CV
 - **Track / base:** PM master (`cv/master-PM.md`)
-- **Tailored copy:** [Kfir_Braunstein_PM_Aylo](https://docs.google.com/document/d/1rZpeSODFZgr17nmu-jSEU60OFFoAUMLsDUPpRY1HNg8/edit)
+- **Tailored copy:** [Kfir_Braunstein_PM_Aylo](https://docs.google.com/document/d/1iuLzbhSOOA7AUprPZ0i_kShj4lMheqy49gvZhJXY4-A/edit)
   (Google Doc; source .docx in this folder, built on the Sadie build of the Jerry V2 layout). One page in Google's PDF export.
 - **Changes from the master (draft v1):**
   - Summary: rewritten for payments + integrations + Scrum delivery.
   - Bullets: #1, #14 Stripe investigation (new in), #17 refunds (new in), QA + staged release (Sadie wording), #13 integration tool (new in), liaison + API docs (#7 without QBRs + #23), #6, #2. Dropped: #5 onboarding, #4 permissions, #3 mobile, #8 login.
   - v2 (Kfir, 2026-09-30): new Stripe Connect payouts bullet (2nd); #2 CRM/API dropped for space; summary names payouts; Agile added to the Agile row.
-  - Skills: Agile & Delivery leads; new Payments row; Quality & Release row; Analytics & Reporting; AI row and Product Strategy row out (Prioritization, Roadmapping folded into Agile; Claude Code into Tools); Linear, Loveable out.
+  - v3 (Kfir, 2026-09-30, from his other CV project's review): summary replaced with Kfir's text (product + CS roles opener, company line, 12M+ residents; PO sentence; payment products on Stripe). Bullets: payouts (+ internal finance-team reporting requirements), #14, #1, #17, new PO bullet, QA (+ test cases, UAT), #13, technical contact (+ feature requests into scoped requirements). #6 (18%) cut for page fit (2 pages with it). Skills: Agile row = Product Owner, Scrum, Sprint Goals, User Stories, Use Cases, Acceptance Criteria, Business Cases (Agile / Sprint Planning dropped to keep one line; both in the PO bullet or label); Quality row + Test Cases, UAT (Documentation dropped for length); SSO/OAuth2 out; degree line em dash fixed. Old Docs (v2, 2-page v3) moved to Drive trash.
+  - Kfir's review of v2 (logged as rules): summary overstated the 5 years; no PO bullet or "Product Owner" on the page; confirmed facts missing; SSO/OAuth2 irrelevant.
+  - Skills (v1/v2): Agile & Delivery leads; new Payments row; Quality & Release row; Analytics & Reporting; AI row and Product Strategy row out (Prioritization, Roadmapping folded into Agile; Claude Code into Tools); Linear, Loveable out.
 
 ## Cover note
 None
@@ -60,3 +62,4 @@ None
 | 2026-09-30 | Vetted: Apply. Draft v1 sent for approval |
 | 2026-09-30 | Kfir confirmed Stripe Connect payouts + ceremonies; draft v2 sent |
 | 2026-09-30 | Kfir approved v2; built PM_Aylo (Google Doc, one page) |
+| 2026-09-30 | v3 from Kfir's review built (one page); #6 cut for fit |

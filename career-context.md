@@ -40,7 +40,7 @@ memory export (2026-09-28).
 - Short, declarative sentences; one idea per clause; no run-ons. `HO`
 - "Prototyping independently" reads junior; say "reduced engineering dependency" or "validated ideas
   fast." `HO`
-- **No em dashes** anywhere in resume text (only allowed in the B.Arch degree line). `HO` `BL`
+- **No em dashes** anywhere in resume text, including the degree line ("B.Arch. - Bachelor of Architecture"; Kfir 2026-09-30). `HO` `BL`
 
 ### Banned words / openers
 - leveraged, spearheaded, passionate, results-driven `Jerry note` [TODO: confirm you want these]
@@ -220,6 +220,9 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Change management | Helped client teams move off old processes onto the platform, including reluctant staff | `PMEM` (MindBridge) |
 | Pushback on leadership | Pushed back on internal C-level pressure to prioritize features over infrastructure readiness | `PMEM`. Internal leadership, not clients |
 | Bulk actions | Specced bulk action capabilities inside the CRM/API data model work (#2); fold in when a JD signals bulk actions | `PMEM` |
+| Product Owner | Acted as Product Owner for Engineering and Design teams across time zones: set sprint goals from leadership's priorities, ran sprint planning, backlog grooming, and retros; wrote user stories, use cases, and acceptance criteria | Confirmed by Kfir 2026-09-30 (Aylo). "Product Owner" OK in bullets, summary and Skills (still no PO certification) |
+| Test cases and UAT | Wrote test cases and ran UAT with clients before release | Confirmed by Kfir 2026-09-30 (Aylo) |
+| Finance-team reporting | Gathered payment reporting requirements from Bewith's own finance team | Confirmed by Kfir 2026-09-30 (Aylo); pairs with the payouts story |
 | Payments end to end / payouts | Owned the payment solution end to end with client finance teams, with client payouts via Stripe Connect | Confirmed by Kfir 2026-09-30 (Aylo). Details (how many clients, volume, payout schedule) [TODO]; no banking claims |
 | Accessibility QA | Owned accessibility QA based on results from an external accessibility reviewer, and collected accessibility feedback from clients | Confirmed by Kfir 2026-09-30 (Level Access). Say "accessibility QA" / "external accessibility reviewer"; don't name a standard (WCAG, ADA, AODA, 508) or claim remediation outcomes until confirmed |
 | QA before release | Tested new features hands-on in staging before release and logged bugs for Engineering (Jam.dev) | Confirmed by Kfir 2026-09-29 (Claio). OK to say "QA testing" / "tested in staging" |
@@ -371,6 +374,11 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | Date | Rule | Source |
 |---|---|---|
 | 2026-09-30 | Don't overuse "sole PM" / "first PM": don't add them to summaries to cover a JD signal (e.g. multi-squad); they're not worth flagging | Kfir (Level Access) |
+| 2026-09-30 | Aylo summary (Kfir's preferred): "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents." + a PO sentence. Summary claims must fit the whole 5 years: never "5 years of experience in <one domain>" (e.g. payments) when it was one part of the PM role. Kfir's pick overrides the no-company-line rule when he chooses this opener | Kfir (Aylo) |
+| 2026-09-30 | When the JD title is Product Owner, put "Product Owner" on the page (a PO bullet + Skills) for ATS; don't leave Scrum/sprint-goal/story duties to one summary clause | Kfir (Aylo) |
+| 2026-09-30 | Every fact Kfir confirms for a JD must land on the page (bullet or Skills) in the next draft | Kfir (Aylo) |
+| 2026-09-30 | Skills: drop terms irrelevant to the JD, especially ceiling-limited ones (SSO/OAuth2 is requirements level only). "Business Cases" OK as a Skills term (still no cost/ROI models); "Use Cases", "Test Cases", "UAT", "Sprint Goals", "Product Owner" OK | Kfir (Aylo) |
+| 2026-09-30 | No em dash in the degree line either: "B.Arch. - Bachelor of Architecture" | Kfir (Aylo) |
 | 2026-09-30 | New facts: payment solution end to end with client finance teams; client payouts via Stripe Connect; took part in planning and all R&D ceremonies; Agile/Scrum OK in Skills | Kfir (Aylo) |
 | 2026-09-30 | New fact: owned accessibility QA from an external reviewer's findings and collected client accessibility feedback. No named standard. No data science team at Bewith: never claim data science partnership | Kfir (Level Access) |
 | 2026-09-29 | Summary recipe: JD's 2-3 core areas → 2-3 named systems built → 2-3 headline metrics (may repeat bullets) → optional delivery line; 3-4 lines | Kfir |

@@ -92,6 +92,8 @@
 
 > Served as the main technical contact between municipal IT teams and Engineering, and ran QBRs and roadmap presentations for client leadership.
 
+**PO / integrations variant (no QBRs):** "Served as the main technical contact between municipal IT teams and Engineering, owning API documentation for client developers and turning client feature requests into scoped requirements."
+
 **Tailoring notes:** Say "client leadership," not "C-level," unless it is confirmed the C-level presentations were client-facing.
 
 ---
@@ -242,9 +244,27 @@
 **No metric** (client count / volume [TODO])
 **Use for:** payments, payouts, fintech, finance-facing roles
 
-> Owned the payment solution end to end, working with each client's finance team to set up how their revenue was collected and paid out to them through Stripe Connect.
+> Owned the payment solution end to end, working with each client's finance team to set up how their revenue was collected and paid out to them through Stripe Connect, and gathering payment reporting requirements from our own finance team.
 
 **Tailoring notes:** Confirmed by Kfir 2026-09-30 (Aylo). Payments adjacency only: never claim banking. Pairs well with #14 (Stripe sync) and #17 (refunds).
+
+---
+
+### 25. Product Owner (NEW)
+**No metric**
+**Use for:** Product Owner titles, Scrum-heavy roles (put "Product Owner" on the page for ATS)
+
+> Acted as Product Owner for Engineering and Design teams across time zones, setting sprint goals from leadership's priorities and running sprint planning, backlog grooming, and retros.
+
+---
+
+### 26. QA, Test Cases and UAT (NEW)
+**No metric**
+**Use for:** PO / QA-adjacent roles, release quality
+
+> Wrote test cases and tested new features hands-on in staging, logging bugs for Engineering in Jam.dev and running UAT with clients before shipping in stages through EU and US production.
+
+**Tailoring notes:** Combines the QA fact with #16 staged releases; don't use both in one CV.
 
 ---
 
@@ -276,7 +296,8 @@
 |---|---|---|---|
 | 0-to-1 / new product | Subscriptions (#1) | Mobile app (#3) | Access/permissions (#4) |
 | Platform / API / technical | CRM/API data model (#2) | Access/permissions (#4) | Onboarding (#5) |
-| Payments / payouts | Subscriptions (#1) | Payouts (#24) + Stripe sync (#14) + Refunds (#17) | Onboarding (#5) |
+| Payments / payouts | Payouts (#24) | Stripe sync (#14) + Subscriptions (#1) + Refunds (#17) | Onboarding (#5) |
+| Product Owner | PO (#25) + QA/UAT (#26) | Technical contact PO variant (#7) | — |
 | Data / fintech / aggregation | CRM/API data model (#2) | Stripe sync (#14) + Integration tool (#13) | Launch coordination (#19) |
 | Infrastructure / deployment | Subscriptions (#1) or Access compliance (#4) | Multi-region releases (#16) | — |
 | GTM / growth / activation | Onboarding (#5) | Engagement scoring (#6) | CRM/API (#2) |
@@ -293,6 +314,7 @@
 
 ## VERSION LOG
 
+- **2026-09-30 (Aylo v3, Kfir):** #24 + internal finance-team reporting requirements; new #25 Product Owner and #26 QA/test cases/UAT; #7 PO/integrations variant without QBRs; Payments row now leads with #24; new Product Owner row.
 - **2026-09-30:** Added #24 payment solution and client payouts on Stripe Connect (Kfir confirmed, Aylo build) and a Payments / payouts row in the selection guide.
 - **2026-09-30:** CSM master summary rewritten to the summary recipe (areas → systems → headline metrics). Kept the $2M ARR and 30+ accounts facts in separate clauses (not confirmed to be the same book).
 - **2026-09-29:** Summary recipe: sentence 1 names the JD's 2-3 core areas, sentence 2 names 2-3 systems built, end on 2-3 headline metrics (may repeat bullets), optional delivery sentence. Master and GovTech variants rewritten to it. Came from comparing Kfir's stronger summaries against the rule-built ones.

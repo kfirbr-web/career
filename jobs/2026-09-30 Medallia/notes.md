@@ -35,7 +35,7 @@
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`), engagement / delivery angle
-- **Tailored copy:** not built yet (draft v1 in `draft-v1.txt`)
+- **Tailored copy:** [Kfir_Braunstein_CSM_Medallia](https://docs.google.com/document/d/1NQCjWrqXOCBeFUFP3N5UzcSdZi4l5477ukTHxmgtcq4/edit) (Google Doc, built from the CSM master .docx on the Jerry V2 layout; draft v1 approved as is, text in `draft-v1.txt`, source .docx in this folder). One page in Google's PDF export (throwaway check, deleted); layout not checked visually (no renderer here)
 - **Kfir's answers (2026-09-30):** Location Canada / remote Canada. Yes: surveys in product; directed the account team; success stories to Sales. No: NPS/CSAT; certifications. EBR wording: "business reviews". All logged in `career-context.md`
 - **Draft v1 (changes from the CSM master):** summary rewritten (client delivery, account health, renewals; $2M ARR as CSM; first PM turning client feedback into the roadmap; 12M+ residents; on-site visits + change management). New launches / account team bullet leads. #6 kept (18%). #21 + business reviews + success stories to Sales. #1 reframed as client feedback → product ($100K+). #5 lifecycle (33%). New surveys + results reports + ticket-sales insights bullet. #2 added (30+ renewals, multi-quarter delivery). Templates with Head of CS + #12 renewal alerts (N15). Dropped #4, #7, #22. Skills: Engagement Management / Customer Success / Value & Reviews / Data & Feedback / CRM & CS Tools / AI Tools. fit_check: 29/29
 
@@ -46,3 +46,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-30 | JD pasted; no prior build. Only live copy found: McLean, VA; Kfir confirmed Canada / remote. Vetted: Apply. Fact batch answered; draft v1 |
+| 2026-09-30 | Kfir approved draft v1 ("build"). Google Doc built, one page |

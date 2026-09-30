@@ -367,6 +367,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-29 | Summary recipe: JD's 2-3 core areas → 2-3 named systems built → 2-3 headline metrics (may repeat bullets) → optional delivery line; 3-4 lines | Kfir |
 | 2026-09-29 | Summaries carry substance: name the concrete systems Kfir built (billing/payments, integrations, access, automation, data model) and end with 2-3 headline metrics. Generic "works between X and Y" lines are too thin. 2-3 tight sentences (replaces the 2-sentence/40-word rule logged earlier the same day). Summary metrics may repeat bullet metrics (Kfir chose this; bullets still never repeat a metric among themselves) | Kfir (Leyton, pointing at older summaries he preferred) |
 | 2026-09-29 | Summary is rewritten for every JD: sentence 1 = the JD's top objective, plus a recruiter hook; opener never repeats the company line | Kfir |
 | 2026-09-29 | Summary has no edit cap: tailor the whole summary to best fit each JD (facts, voice, and metric rules still apply) | Kfir (Vention MachineApps) |

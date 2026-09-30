@@ -6,14 +6,22 @@ Only after `vet-job.md` gave Apply or Stretch.
 - Title line: swap to match the posting.
 - Skills: swap 3–4 terms (or pick the 6 skill lines for the track).
 - Summary: **no cap, and always rewritten for the JD** (Kfir, 2026-09-29). Never ship the master
-  summary unchanged. Build it for the recruiter's 6-second read:
-  1. **Sentence 1 = the JD's top objective.** "Product Manager with 5 years of experience in B2B2C
-     SaaS, [what this role most needs, in Kfir's words]."
-  2. **A hook:** the one proof point this recruiter cares most about (a metric or a rare fit, e.g.
-     payments in a regulated space, CS-to-PM, first PM). It may repeat a bullet metric (Kfir, 2026-09-29).
-  3. **One line on how he works** that matches the JD's second signal.
-  Keep it to 2-3 short sentences. Never repeat the company line (customer base, regions). Still bound by: facts file only, voice rules, summary metrics may repeat
-  bullet metrics (up to 3), name the concrete systems built (billing, integrations, access, automation), no overlap with bullet 1's story, no JD mirroring, "5 years", B2B2C.
+  summary unchanged. It's dense with proof, not a clean tagline. Recipe:
+  1. **Sentence 1 = the JD's 2-3 core areas where Kfir has proof:** "Product Manager with 5 years of
+     experience in [area, area, and area] in B2B2C SaaS." (e.g. platform systems, payments,
+     integrations / billing and data integration / onboarding and lifecycle). Not a generic verb
+     phrase like "owning products from discovery to launch".
+  2. **Sentence 2 = 2-3 real systems he built that match those areas**, named as nouns a recruiter
+     or ATS searches for (API data models, subscription and payment workflows, roles and permissions
+     model, integration mapping tool, onboarding automation, engagement scoring…), from the library only.
+  3. **End on 2-3 headline metrics picked for this JD.** The summary may repeat bullet metrics as a
+     recap; the no-repeat rule applies between bullets. Retired metrics (35% retention) never.
+  4. **Optional sentence 3: how he delivers**, matching the JD's second signal in concrete terms
+     (e.g. "Ran Agile delivery end to end, from sprint planning to acceptance criteria"; CS-to-PM /
+     first PM when client-facing work matters).
+  5. **Guardrails:** "5 years", B2B2C, 3-4 lines max, facts file only, no filler or trait lines,
+     no jargon ("well-governed backlog"), never repeat the company line (customer base, regions),
+     no JD mirroring, no overlap with bullet 1's framing.
 - Bullets: reorder by relevance; pick bullets from `cv/bullet-library.md` using its **Story
   Selection Guide** (lead / second / avoid for the role signal); reword only for JD keyword fit.
   Respect each bullet's tailoring notes (claim ceilings like "prototyped, never shipped").

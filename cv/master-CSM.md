@@ -11,8 +11,7 @@ Every tailored CSM CV starts from this file.
 **Kfir Braunstein**
 Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
 
-Product Manager and former Customer Success Manager with 5 years of experience in B2B2C SaaS. Owned about $2M ARR as a CSM, with renewal forecasts and success plans tied to client
-goals, and as a PM led the product side of onboarding, QBRs, and renewals.
+Product Manager and former Customer Success Manager with 5 years of experience in onboarding, renewals, and account expansion in B2B2C SaaS. Built an engagement scoring system, event-triggered onboarding workflows, and a HubSpot CS ops layer, cutting onboarding time by 33%. As a CSM, owned about $2M ARR with 100% retention across 30+ accounts.
 
 **Bewith.io** | B2B2C SaaS platform serving 100+ municipalities and organizations across North America and Europe
 **Product Manager** [TAB] Nov 2021 - Oct 2025

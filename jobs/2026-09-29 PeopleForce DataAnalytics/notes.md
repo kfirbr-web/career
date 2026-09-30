@@ -52,13 +52,13 @@ showback, cost allocation and enterprise catalog work don't.
 
 ## CV
 - **Track / base:** PM master (`cv/master-PM.md`)
-- **Tailored copy:** pending approval of draft v1 (`Kfir_Braunstein_PM_PeopleForce`)
+- **Tailored copy:** [Kfir_Braunstein_PM_PeopleForce](https://docs.google.com/document/d/1VQRmpPFm7YzvgOT3Gjubsct0M2uNEmembCv0h7arLHk/edit)
 - **Draft v1 changes from the master:**
   - Summary rewritten: sole PM owning roadmap, vendors, support processes, contract use; infrastructure pushback.
   - Bullets: #2 (with migration clause) leads, #4 + contract compliance, #12 (N15), #15 + #13, #1 (pricing
-    variant), #6, #7 (roadmap updates to city leaders + release notes). Dropped: #5 onboarding (33%),
+    variant), #6. #7 (contact / roadmap updates) cut for page fit. Dropped: #5 onboarding (33%),
     #3 mobile, #8 login.
-  - Skills: rows rebuilt for vendors/contracts and operations/support; Linear and Loveable out; AI row out.
+  - Skills: rows rebuilt for vendors/contracts and operations/support; Linear and Loveable out; AI row out; "Staged Releases" cut so every row fits on one line.
 
 ## Cover note
 None
@@ -74,3 +74,4 @@ None
 |---|---|
 | 2026-09-29 | Flagged as the earlier skipped D&A PM; Kfir: build anyway. Vetted Stretch. Draft v1 sent for approval |
 | 2026-09-29 | Same role came in via TMC; Kfir: reuse. Draft rebuilt from this change list (v1 text was never saved); see `2026-09-29 TMC DataAnalytics/` |
+| 2026-09-30 | Kfir said build. Built from the master (Jerry V2 layout), uploaded as a Google Doc. Page fit: one line over → cut #7 bullet; Ops row wrapped → cut Staged Releases. One page verified |

@@ -2,7 +2,7 @@
 
 Montreal, QC, Canada  |  514-462-2234  |  kfirbr@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/kfirbraunstein/)
 
-Product Manager with 5 years of experience in B2B2C SaaS, turning requests from many different clients into reusable platform features. Started as a CSM owning about $2M ARR in client contracts, then became the company's first Product Manager, working with Engineering, Design, and Sales from discovery to launch.
+Product Manager with 5 years of experience in platform systems, payments, and integrations in B2B2C SaaS. Built API data models, subscription and payment workflows, and a roles and permissions model, driving $100K+ in incremental ARR, 100%+ contract expansion, and 18% QoQ usage growth.
 
 ## Experience
 

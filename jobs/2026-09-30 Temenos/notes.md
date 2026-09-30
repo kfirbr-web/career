@@ -35,7 +35,7 @@
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`), ops angle. Name: `Kfir_Braunstein_Ops_Temenos`
-- **Tailored copy:** not built yet (draft v1 in `draft-v1.txt`, waiting on Kfir)
+- **Tailored copy:** [Kfir_Braunstein_Ops_Temenos](https://docs.google.com/document/d/1gf3cGtzYO7etXF1n__9XMXoF-SW99o23YdvCFy1RIo0/edit) (Google Doc, built from the CSM master .docx on the Jerry V2 layout; draft v1 approved as is, text in `draft-v1.txt`, source .docx in this folder). One page in Google's PDF export (throwaway check, deleted); layout not checked visually (no renderer here). Title line kept as "Product Manager" (Kfir didn't pick the ops title)
 - **Kfir's answers (2026-09-30):** Yes: led critical incidents; client comms in incidents; root-cause reviews; set up monitoring; readiness checklist; data migration; hypercare; risk/action log; defined escalation paths; release/deployment; client IT escalations. No: dress rehearsal beyond UAT; support SLAs / coverage; cloud / infra. All logged in `career-context.md`
 - **Draft v1 (changes from the CSM master):** summary rewritten (go-lives, account operations, escalation; incident/RCA process, escalation paths, readiness checklists; ~$2M ARR as CSM). New bullets: launches + readiness + data migration + integration mapping tool carrying 33%; incidents + client comms + RCA; monitoring + integration troubleshooting; account-team work (Support, CS, Eng; Medallia fact) + risk/action log + hypercare; release process (schedule, go/no-go, staged EU/US). #12 reworded around escalation paths (N15). #7 as client IT escalations + QBRs for city managers. Playbook/templates + peer training. Dropped #6, #21, #5, #4, #22, #1. Skills: Service Operations / Delivery / Customer Success / Technical / Tools / AI Tools. fit_check: 27/29
 
@@ -46,3 +46,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-30 | JD pasted; not found live. Vetted: Stretch (long shot; likely US location). Fact batch asked and logged; draft v1 shown |
+| 2026-09-30 | Kfir approved draft v1 ("build"). Google Doc built, one page |

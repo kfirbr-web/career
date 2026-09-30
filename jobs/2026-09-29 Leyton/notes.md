@@ -43,12 +43,17 @@ French is preferred (Kfir is A2).
 
 ## CV
 - **Track / base:** PM master (`cv/master-PM.md`)
-- **Tailored copy:** pending approval of draft v1
+- **Tailored copy:** [Kfir_Braunstein_PM_Leyton](https://docs.google.com/document/d/1nOcnrq3T0akMvVdlf0wvtdcjOzLCx4_W9svXIry7kWs/edit)
+  (Google Doc; source .docx in this folder, built on the Sadie build of the Jerry V2 layout). One page in Google's PDF
+  export (last line 737pt; Jerry V2 761pt); every Skills row one line.
 - **Draft v1 changes from the master:**
   - Summary v4: billing, data integration, process automation; backlog + Agile delivery to staging tests; $100K+ ARR, 18% QoQ, CS to 100+ accounts with no added headcount (repeats bullet metrics, allowed).
   - Bullets: #12 (N15) leads, #13, #1, new change-management/training bullet, new QA + post-launch bullet
     (form builder), #6, #2. Dropped: #5 onboarding (33%), #4 permissions, #3 mobile, #8 login.
   - Skills: rows rebuilt for BA / change / testing; Linear and Loveable out.
+  - Build trim: Product & Delivery dropped Prioritization, Acceptance Criteria, Scrum; Change & Adoption dropped
+    Knowledge Base (both rows wrapped to 2 lines).
+  - Form builder question unanswered; Kfir said build, so the approved v2 wording stayed.
 
 ## Cover note
 None
@@ -67,3 +72,4 @@ None
 | 2026-09-29 | Kfir: summary not tight enough. v2: 2 sentences (business teams ↔ Engineering; first and only PM pitching features to CPO/CTO). ClickUp line cut |
 | 2026-09-29 | Kfir preferred older summaries (concrete systems + stacked metrics). v4 drafted in that style; metric-repeat question open |
 | 2026-09-29 | Kfir chose (a): summary may repeat up to 3 bullet metrics. Summary v4 kept; full draft v2 sent |
+| 2026-09-30 | Kfir said build. Built PM_Leyton (Google Doc, one page, verified by reading it back) |

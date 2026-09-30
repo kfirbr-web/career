@@ -95,3 +95,18 @@ gorgias
 
 # Added 2026-09-28
 insurityllc
+
+# Added 2026-09-30 (discovery search + past vets; all resolve on Greenhouse/Lever/Ashby)
+coveoen
+capintel
+caseware
+tremendous
+levelaccess
+zestyai
+top-hat
+achievers
+docebo
+thanx
+perplexity
+datadog
+elastic

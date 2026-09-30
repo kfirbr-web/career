@@ -48,7 +48,12 @@ work only; no people management).
 
 ## CV
 - **Track / base:** PM master (`cv/master-PM.md`), title "Product and Operations Manager" (Kfir confirmed 2026-09-30)
-- **Tailored copy:** not built yet (draft v1 awaiting Kfir)
+- **Tailored copy:** [Kfir_Braunstein_ProductOps_Meroka](https://docs.google.com/document/d/1_WqtMsQ6iBa9kz1HiVewDeM0ukbYZec7pfRouFZ_hTM/edit)
+  (Google Doc; source .docx in this folder, built on the BDC build of the Jerry V2 layout). One page in Google's PDF export
+  (last line 750pt; Jerry V2 761pt); every Skills row one line.
+- **Build trims for page fit** (v1 ran 2 pages): summary shortened ("HubSpot", "event-based", "internal" cut); Head of CS
+  bullet cut to one line ("success plan" templates dropped); career agent line shortened; Chrome extension + job tracker
+  Projects line dropped.
 - **Draft v1 changes from the master:**
   - Title line: Product and Operations Manager.
   - Summary: rewritten for ops (processes and tools client and CS teams work in; onboarding, payments, CS ops layer;
@@ -72,4 +77,5 @@ Draft v1 in `cover-note.txt`.
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-09-30 | Kfir said build. Built ProductOps_Meroka (Google Doc, one page after build trims) |
 | 2026-09-30 | Vetted: Stretch. Kfir: no team at Peres; built world = degree only; title Product and Operations Manager; cover note yes. Draft v1 + cover note sent for approval |

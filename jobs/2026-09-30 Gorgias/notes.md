@@ -35,7 +35,7 @@
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`), implementation angle
-- **Tailored copy:** not built yet (draft v1 in `draft-v1.txt`, waiting on Kfir)
+- **Tailored copy:** [Kfir_Braunstein_CSM_Gorgias](https://docs.google.com/document/d/19kGh-Aje2sVnOla2CUhn30Hisb-hBOO9lfHK939ZXeM/edit) (Google Doc, built from the CSM master .docx on the Jerry V2 layout; draft v1 approved as is, text in `draft-v1.txt`). One page in Google's PDF export (throwaway check, deleted); layout not checked visually (no renderer here)
 - **Kfir's answers (2026-09-30):** Toronto: build anyway. Yes: troubleshot client integrations (Postman, logs, webhooks) before escalating; documented each client's configuration; trained Support/CS peers; set up Fin content sources + handoff rules; tracked activation per client; 10+ concurrent launches. No: owned Sales→CS handover; Shopify / ecommerce; Fin metric. All logged in `career-context.md`
 - **Draft v1 (changes from the CSM master):** summary rewritten (onboarding, implementation, adoption; 12M+ residents; ~$2M ARR as CSM; main client contact launch → renewal; Claude daily). #5 leads with activation tracking (33%). New launches bullet (10+ at once, launch plans, data mapping, CivicPlus / Granicus). #13 + troubleshooting (days → hours). New discovery + champions + change management + trainings bullet (replaces #22). #6 kept (18%). Reports + QBRs + ticket-sales insights (replaces #7). #12 + Fin handoff rules + N15. New docs + playbook/templates + peer training bullet. Dropped #21, #4, #1. Skills: Implementation / Customer Success / Integrations / Enablement / Helpdesk & CS Tools / AI Tools. fit_check: 29/29
 
@@ -46,3 +46,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-30 | JD pasted; found live on Ashby (Toronto). Vetted: Stretch. Location + fact questions sent before draft 1 |
+| 2026-09-30 | Kfir approved draft v1 ("build"). Google Doc built, one page |

@@ -42,7 +42,8 @@ representation conflict.
 - Approved as is by Kfir (2026-09-30). Build trims to fit one page (first export ran to 2 pages): #2 dropped
   "making client data more reliable and"; #15 + #13 dropped "end to end" and "a manual spreadsheet process" →
   "manual spreadsheets"; Vendors & Contracts row dropped "Change Requests".
-- The same text can also serve People Force (one Doc per agency name).
+- People Force got its own Doc in a parallel session (`Kfir_Braunstein_PM_PeopleForce`, linked in its notes). It
+  drops #7 and "Staged Releases" for page fit, so the two versions differ slightly; send each agency its own Doc.
 
 ## Cover note
 None

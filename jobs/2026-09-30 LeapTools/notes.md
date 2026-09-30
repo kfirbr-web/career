@@ -49,7 +49,7 @@
 - **Track / base:** PM / `cv/Kfir_Braunstein_PM_Master.docx`
 - **Tailored copy:** not built yet. Draft 1 in `draft-v1.txt` (fit_check 28/29), waiting on Kfir's approval
 - **Changes from the master (draft 1):**
-  - Summary: consumer-facing mobile and web products, 12M+ residents; apps, sign-up / event flows, membership payments; user tests + A/B tests; architect with SketchUp and Rhino
+  - Summary (v1 fixed: no "4 of them as PM"): building consumer-facing mobile and web products, 12M+ residents; apps, sign-up / event flows, membership payments; user tests + A/B tests; architect with SketchUp and Rhino
   - Bullets: mobile apps #3 leads (store release, camera scanner); new UX-ownership + resident research bullet; new app metrics / push / store reviews bullet; #8 and #9 with their A/B tests; #1 with memberships and passes; #11 + #10 AI prototyping; delivery bullet (#25 / #26 facts). Out: #2 CRM/API, #4 permissions, #5 onboarding, #6 engagement scoring
   - Skills: Product & UX, Experimentation & Data, Mobile rows lead; SketchUp, Rhino, AutoCAD, Gemini added; Linear, Loveable, HubSpot, Intercom, Stripe, SSO/OAuth2 removed
 

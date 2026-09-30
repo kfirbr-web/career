@@ -81,7 +81,7 @@ memory export (2026-09-28).
 
 ## 3. Verified numbers
 
-Locked in `BL`. Each metric belongs to **one story only** and appears **at most once in the bullets** of a resume. The summary may repeat up to 3 headline metrics from the bullets (Kfir, 2026-09-29, Leyton). `HO` `BL`
+Locked in `BL`. Each metric belongs to **one story only** and appears **at most once in the bullets** of a resume. The summary does **not** repeat bullet metrics by default; a repeat is allowed only when it clearly helps the CV, and the draft must flag it (Kfir, 2026-09-30, Babylist). Summary-only metrics (12M+ residents, ~$2M ARR as CSM) are the normal way to carry numbers in the summary. `HO` `BL`
 
 | # | Claim | Owner story (BL #) | Notes |
 |---|---|---|---|
@@ -238,13 +238,14 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | SMS and WhatsApp messaging | Bewith sent SMS and WhatsApp messages to users; Kfir owned it (ties to the Meta relationship, #15) | Confirmed by Kfir 2026-09-30 (nymble); **owned** confirmed 2026-09-30 (Babylist): "owned" OK |
 | Health and wellness clients | Some Bewith clients or programs were health, fitness, or wellness related (e.g. recreation centers) | Confirmed by Kfir 2026-09-30 (nymble). Adjacency only: never claim health tech, clinical, or patient experience |
 | Travel | Fine with occasional travel for client meetings and events | Kfir 2026-09-30 (nymble) |
-| A/B tests | A/B tested the step-by-step event creation form (#9) against the original one-page form; outcome is #9's: time to first event from tens of minutes to a few minutes, fewer related tickets | Confirmed by Kfir 2026-09-30 (Babylist). No % lift beyond that |
+| A/B tests | A/B tested the step-by-step event creation form (#9) against the original, and the login config/copy fix (#8) | Confirmed by Kfir 2026-09-30 (Babylist). Outcomes are the stories' own metrics; no separate % lift |
 | Resident sign-up funnel | Same story as the login fix (#8): residents' sign-up/login drop-off, 40% → 85%. Keep it one story | Confirmed by Kfir 2026-09-30 (Babylist) |
 | Resident-side numbers | Kfir had numbers for the resident app/site while at Bewith but doesn't have them now | Kfir 2026-09-30 (Babylist). Use none; only 12M+ residents engaged (N13) |
+| Memberships and passes | Residents used the subscription and multi-entry payment product (#1) to buy memberships and passes | Confirmed by Kfir 2026-09-30 (Babylist) |
 | Transaction fee | Specced and designed the payment process and how Bewith's transaction fee was added on top of Stripe's fee | Confirmed by Kfir 2026-09-30 (Babylist). Fee mechanics, not the rate: pricing ceiling still applies (recommended, never set). Revenue from it unknown |
 | Donations / contributions | A separate donation feature that worked like GoFundMe (residents give to an organization's or cause's campaign) | Confirmed by Kfir 2026-09-30 (Babylist). Volume / clients using it unknown |
 | Resident re-engagement | Tools built for client admins to bring residents back (reminders, recurring or seasonal events, notifications) | Confirmed by Kfir 2026-09-30 (Babylist): admin-facing tools, not a consumer growth program. No result metric |
-| Leadership reporting | Monthly internal reporting of product results to leadership; QBRs for clients externally | Confirmed by Kfir 2026-09-30 (Babylist) |
+| Leadership reporting | Monthly internal update to leadership on what shipped, what didn't work, and what changed next; QBRs for clients externally | Confirmed by Kfir 2026-09-30 (Babylist) |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -374,7 +375,7 @@ that moved forward.
 - After building: check page fit with a throwaway preview (scratchpad only, never saved or sent)
   compared against Jerry V2; flag a thin or overflowing page.
 
-**Summary vs bullets:** Summary and bullets split the work (Kfir, 2026-09-30): the summary states strong end results only (what was built and the outcome, up to 3 headline metrics, may repeat bullets); the bullets tell the story behind each result as X-Y-Z (what he did, how, what it produced). A repeat must add something: never restate a bullet's mechanism or wording in the summary, and never open the summary with the same story as bullet 1.
+**Summary vs bullets:** Summary and bullets split the work (Kfir, 2026-09-30): the summary states strong end results only (what was built and the outcome; metrics not already in the bullets, repeats only when they clearly help and flagged (Kfir, 2026-09-30, Babylist)); the bullets tell the story behind each result as X-Y-Z (what he did, how, what it produced). A repeat must add something: never restate a bullet's mechanism or wording in the summary, and never open the summary with the same story as bullet 1.
 **Summary:** tailored in full to each JD, no edit cap (Kfir, 2026-09-29); the library's openers are a default; includes metrics; not generic; third-person resume
 voice; doesn't repeat bullet 1; short sentences; no JD mirroring.
 **Bullets:** first bullet hits the JD's top signal with a hard outcome. 5-8 PM bullets to fit one page (9 overflowed; Aylo 2026-09-30).
@@ -392,6 +393,8 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | Summary metrics: no repeats between summary and bullets by default (repeats waste the top of the page and recruiters notice). A repeat is allowed only when it clearly helps the CV, flagged in the draft. Replaces the "up to 3 repeats" rule | Kfir (Babylist) |
+| 2026-09-30 | New facts: subscription/multi-entry product let residents buy memberships and passes; the login fix (#8) was A/B tested too; monthly leadership update covered what shipped, what didn't work, and what changed next. Kfir chose "first PM ... owned the roadmap as the sole PM" and the 12M+ company-line opener for a roadmap-ownership JD (his call over the Level Access / Vention summary rules) | Kfir (Babylist) |
 | 2026-09-30 | New facts: A/B tests with a result; resident sign-up funnel work; resident-side numbers exist; Bewith took a transaction fee on resident payments; donations/contributions in the payment product; resident re-engagement features; owned (not only specced) SMS/WhatsApp; regular results reporting to CPO/CEO. Details: A/B test = event form (#9); sign-up funnel = login fix (#8); fee = designed how it sat on top of Stripe's; donations = GoFundMe-style feature; re-engagement = admin tools; leadership = monthly internal + client QBRs; no resident numbers available | Kfir (Babylist) |
 | 2026-09-30 | New facts: concurrent client launches with launch plans (timeline, milestones, check-ins); client outcome reports; European clients; presented at industry events; SMS/WhatsApp user messaging; health/wellness-related clients (adjacency only); OK to travel. Not confirmed: building pitch decks, pricing materials, or packaging offerings (only advised Sales): never claim them | Kfir (nymble) |
 | 2026-09-30 | Cover notes follow Kfir's model (`skills/cover-note.md`): header, an opening point from experience, react to the JD's specific points, proof, optional personal angle, close, sign-off; ~250-350 words. Not the old 3-4 sentence format. Phone on notes is 514-462-2234 | Kfir (Meroka) |

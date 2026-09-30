@@ -35,8 +35,21 @@
 
 ## CV
 - **Track / base:** PM (`Kfir_Braunstein_PM_Master.docx`)
-- **Tailored copy:** <pending approval>
-- **Changes (before → after):** pending
+- **Tailored copy:** [Kfir_Braunstein_PM_Babylist](https://docs.google.com/document/d/16VVPPatTPK2fCiHQGKN_vWUMj9hA_PfBAY0u2gC2c3Q/edit)
+  (Google Doc; source .docx in this folder, built on the Aylo build of the Jerry V2 layout). One page in Google's PDF export.
+- **Final text:** `draft-final.txt`. Draft 1 (`draft-v1.txt`) was replaced by the merge Kfir chose.
+- **Changes from the master:**
+  - Summary (Kfir's pick, from the parallel project): Aylo opener with 12M+ residents; first PM + owned the roadmap as sole PM;
+    monthly leadership update (what shipped, what didn't work, what changed next); Claude Code daily. No bullet metrics repeated.
+  - Bullets (parallel project's 8, with Kfir's swap): #1 with residents' memberships and passes + pricing recommendations;
+    #24 payments + GoFundMe-style donation feature + transaction fee on top of Stripe's; #9 event form A/B tested; #8 login fix
+    A/B tested; #6 engagement scoring; #5 onboarding; QA + Stripe SQL (#26/#14); re-engagement admin tools + SMS/WhatsApp
+    (replaced #17 refunds). Mobile apps (#3) and CRM/API (#2) out.
+  - Skills: Product & Growth row leads (Monetization, A/B Testing, Funnel Analysis, Success Metrics, Retention); Payments row
+    (Transaction Fees, Donations, Payouts); AI & Builder Tools row; Linear and Loveable removed.
+  - Fit: `fit_check.py` said 29/29 but the first Doc overflowed ~2 lines to page 2. Bullet 1 (255 chars) wrapped to 3 lines
+    because bullets are indented (~124 chars/line, not 128). Trimmed bullet 1 and dropped "with progress feedback" from #9
+    in place (same link); one page.
 
 ## Cover note
 None
@@ -52,4 +65,5 @@ None
 |---|---|
 | 2026-09-30 | Vetted (Stretch); listing live on Greenhouse; gap questions sent to Kfir before draft 1 |
 | 2026-09-30 | Kfir: yes to A/B tests with a result, resident sign-up funnel, resident-side numbers, transaction fee, donations/contributions, resident re-engagement, owned SMS/WhatsApp, regular leadership updates. Logged in career-context; asked for the specifics |
+| 2026-09-30 | Kfir chose the parallel project's merged summary + bullets, with the refunds → re-engagement swap; confirmed memberships/passes, login A/B test, monthly update content; new summary-metric rule. Doc built, one page |
 | 2026-09-30 | Kfir gave details (A/B = event form; funnel = login fix; fee on top of Stripe; GoFundMe-style donations; admin re-engagement tools; monthly leadership reports). Reviewed the parallel project draft; draft 1 (merged) shown, fit_check 29/29 |

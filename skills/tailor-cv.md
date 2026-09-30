@@ -16,9 +16,10 @@ Only after `vet-job.md` gave Apply or Stretch.
      model, integration mapping tool, onboarding automation, engagement scoring…), from the library only.
   3. **End on 2-3 headline metrics picked for this JD, stated as end results.** The summary is
      "what it achieved"; the bullets tell the X-Y-Z story of how (what he did, how, what it produced).
-     The summary may repeat bullet metrics, but a repeat must add something: never restate a bullet's
-     mechanism or wording, and never open with the same story as bullet 1 (Kfir, 2026-09-30). The
-     no-repeat rule applies between bullets. Retired metrics (35% retention) never.
+     **No repeats by default** (Kfir, 2026-09-30, Babylist): prefer metrics the bullets don't carry
+     (12M+ residents, ~$2M ARR as CSM) or none. A repeat only when it clearly helps the CV, flagged in
+     the draft, and it must add something: never restate a bullet's mechanism or wording, and never
+     open with the same story as bullet 1. No repeats between bullets, ever. Retired metrics (35% retention) never.
   4. **Optional sentence 3: how he delivers**, matching the JD's second signal in concrete terms
      (e.g. "Ran Agile delivery end to end, from sprint planning to acceptance criteria"; CS-to-PM /
      first PM when client-facing work matters).
@@ -31,7 +32,7 @@ Only after `vet-job.md` gave Apply or Stretch.
 - **Never** rewrite the whole CV. **Never** change layout, fonts, or page count.
 
 ## Library rules every bullet must pass
-- No metric repeated across bullets (the summary may repeat up to 3 headline metrics). Each metric belongs to its own story (e.g. 30+ renewals
+- No metric repeated across bullets; the summary doesn't repeat bullet metrics unless it clearly helps (flag it). Each metric belongs to its own story (e.g. 30+ renewals
   stays with #2 CRM/API).
 - No JD mirroring. Connect to the JD's actual signal instead of echoing its phrasing.
 - Plain-language check: would Kfir say this out loud to an interviewer? No filler, no jargon, no

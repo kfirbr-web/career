@@ -14,6 +14,8 @@ Calibrated 2026-09-30 on 15 one-page builds (Jerry V2 layout, Calibri 10pt, 1cm 
   ~128 characters per wrapped line; one-page builds ran 26-30 "content lines"
   (summary + bullets + project items). Meroka v1 estimated 30 with a Projects section
   and overflowed by ~4 lines; its one-page version estimated 26.
+  Babylist (2026-09-30) estimated 29 and overflowed ~2 lines: bullets are indented, so a bullet
+  just under 256 chars (2.0 x 128) wraps to 3 lines. Keep each bullet under ~245 chars.
 """
 import math
 import sys

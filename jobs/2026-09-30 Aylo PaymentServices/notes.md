@@ -1,8 +1,8 @@
 # Aylo — Product Owner, Payment Services (payouts / remittance)
 
 ## Posting
-- **Link:** https://job-boards.greenhouse.io/aylo/jobs/8737531002
-- **Checked live on:** 2026-09-30: open on Greenhouse
+- **Link:** https://www.linkedin.com/jobs/view/4464635660/ (sent by Kfir, live per Kfir). Also on Greenhouse: https://job-boards.greenhouse.io/aylo/jobs/8737531002
+- **Checked live on:** 2026-09-30: open (Greenhouse checked; LinkedIn confirmed by Kfir)
 - **Source:** Pasted (JD) + Greenhouse
 - **Location / remote:** Montréal, QC; hybrid (JD: "a select number of positions require full-time in office attendance"; which applies here is Unknown)
 - **Pay range (if posted):** Unknown (not posted)

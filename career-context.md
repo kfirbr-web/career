@@ -238,13 +238,13 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | SMS and WhatsApp messaging | Bewith sent SMS and WhatsApp messages to users; Kfir owned it (ties to the Meta relationship, #15) | Confirmed by Kfir 2026-09-30 (nymble); **owned** confirmed 2026-09-30 (Babylist): "owned" OK |
 | Health and wellness clients | Some Bewith clients or programs were health, fitness, or wellness related (e.g. recreation centers) | Confirmed by Kfir 2026-09-30 (nymble). Adjacency only: never claim health tech, clinical, or patient experience |
 | Travel | Fine with occasional travel for client meetings and events | Kfir 2026-09-30 (nymble) |
-| A/B tests | Ran A/B tests at Bewith with a measured result | Confirmed by Kfir 2026-09-30 (Babylist). Which test and what it moved [TODO]; no numbers until given |
-| Resident sign-up funnel | Worked on getting residents (end consumers) to sign up, register, and buy tickets, not only client admins | Confirmed by Kfir 2026-09-30 (Babylist) |
-| Resident-side numbers | Has real numbers for the resident-facing app/site (downloads, registrations, tickets sold) | Confirmed by Kfir 2026-09-30 (Babylist). The numbers themselves [TODO]; until given, only 12M+ residents engaged (N13) |
-| Transaction fee | Bewith earned a platform/transaction fee on resident payments, and Kfir worked on it | Confirmed by Kfir 2026-09-30 (Babylist). Fee size / revenue [TODO]; pricing ceiling still applies (recommended, never set) |
-| Donations / contributions | The payment product let residents donate or contribute money to an organization or cause, not only buy tickets | Confirmed by Kfir 2026-09-30 (Babylist) |
-| Resident re-engagement | Built features that brought residents back: reminders, recurring or seasonal events, notifications | Confirmed by Kfir 2026-09-30 (Babylist). Which ones and any result [TODO] |
-| Leadership reporting | Reported product results (wins, misses, learnings) to the CPO/CEO on a set cadence | Confirmed by Kfir 2026-09-30 (Babylist). Cadence [TODO] |
+| A/B tests | A/B tested the step-by-step event creation form (#9) against the original one-page form; outcome is #9's: time to first event from tens of minutes to a few minutes, fewer related tickets | Confirmed by Kfir 2026-09-30 (Babylist). No % lift beyond that |
+| Resident sign-up funnel | Same story as the login fix (#8): residents' sign-up/login drop-off, 40% → 85%. Keep it one story | Confirmed by Kfir 2026-09-30 (Babylist) |
+| Resident-side numbers | Kfir had numbers for the resident app/site while at Bewith but doesn't have them now | Kfir 2026-09-30 (Babylist). Use none; only 12M+ residents engaged (N13) |
+| Transaction fee | Specced and designed the payment process and how Bewith's transaction fee was added on top of Stripe's fee | Confirmed by Kfir 2026-09-30 (Babylist). Fee mechanics, not the rate: pricing ceiling still applies (recommended, never set). Revenue from it unknown |
+| Donations / contributions | A separate donation feature that worked like GoFundMe (residents give to an organization's or cause's campaign) | Confirmed by Kfir 2026-09-30 (Babylist). Volume / clients using it unknown |
+| Resident re-engagement | Tools built for client admins to bring residents back (reminders, recurring or seasonal events, notifications) | Confirmed by Kfir 2026-09-30 (Babylist): admin-facing tools, not a consumer growth program. No result metric |
+| Leadership reporting | Monthly internal reporting of product results to leadership; QBRs for clients externally | Confirmed by Kfir 2026-09-30 (Babylist) |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -392,7 +392,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
-| 2026-09-30 | New facts: A/B tests with a result; resident sign-up funnel work; resident-side numbers exist; Bewith took a transaction fee on resident payments; donations/contributions in the payment product; resident re-engagement features; owned (not only specced) SMS/WhatsApp; regular results reporting to CPO/CEO. Specific numbers still [TODO]: write none until given | Kfir (Babylist) |
+| 2026-09-30 | New facts: A/B tests with a result; resident sign-up funnel work; resident-side numbers exist; Bewith took a transaction fee on resident payments; donations/contributions in the payment product; resident re-engagement features; owned (not only specced) SMS/WhatsApp; regular results reporting to CPO/CEO. Details: A/B test = event form (#9); sign-up funnel = login fix (#8); fee = designed how it sat on top of Stripe's; donations = GoFundMe-style feature; re-engagement = admin tools; leadership = monthly internal + client QBRs; no resident numbers available | Kfir (Babylist) |
 | 2026-09-30 | New facts: concurrent client launches with launch plans (timeline, milestones, check-ins); client outcome reports; European clients; presented at industry events; SMS/WhatsApp user messaging; health/wellness-related clients (adjacency only); OK to travel. Not confirmed: building pitch decks, pricing materials, or packaging offerings (only advised Sales): never claim them | Kfir (nymble) |
 | 2026-09-30 | Cover notes follow Kfir's model (`skills/cover-note.md`): header, an opening point from experience, react to the JD's specific points, proof, optional personal angle, close, sign-off; ~250-350 words. Not the old 3-4 sentence format. Phone on notes is 514-462-2234 | Kfir (Meroka) |
 | 2026-09-30 | Estimate page fit from the draft before building: run `tools/fit_check.py` on the full draft (29 content lines, 26 with Projects; ~128 chars/line) and trim in the draft. No trial-and-error builds; the PDF export is one final check | Kfir (Meroka) |

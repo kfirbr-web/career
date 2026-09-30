@@ -52,3 +52,4 @@ None
 |---|---|
 | 2026-09-30 | Vetted (Stretch); listing live on Greenhouse; gap questions sent to Kfir before draft 1 |
 | 2026-09-30 | Kfir: yes to A/B tests with a result, resident sign-up funnel, resident-side numbers, transaction fee, donations/contributions, resident re-engagement, owned SMS/WhatsApp, regular leadership updates. Logged in career-context; asked for the specifics |
+| 2026-09-30 | Kfir gave details (A/B = event form; funnel = login fix; fee on top of Stripe; GoFundMe-style donations; admin re-engagement tools; monthly leadership reports). Reviewed the parallel project draft; draft 1 (merged) shown, fit_check 29/29 |

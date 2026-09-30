@@ -1,0 +1,22 @@
+Kfir Braunstein
+Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
+
+Product Manager with 5 years of experience in B2B2C SaaS, building new revenue products and growing their use among the residents our clients served. Built the company's first mobile apps, a GoFundMe-style donation feature, and a subscription and payment product, adding $55K+ in new revenue and $100K+ in incremental ARR. Lifted resident login conversion from 40% to 85% with no engineering work. Reported wins, misses, and learnings to leadership every month, and uses Claude Code to prototype and draft specs.
+
+EXPERIENCE
+- Led a new subscription and multi-entry payment product from discovery to launch, turning client and Sales requests into requirements, recommending pricing models to leadership, and shipping with Engineering to generate $100K+ in incremental ARR.
+- Specced and designed the payment flows for a GoFundMe-style donation feature, including how our transaction fee was added on top of Stripe's fees, and owned client payouts through Stripe Connect with each client's finance team.
+- Redesigned a long one-page event creation form into a step-by-step flow with progress feedback and A/B tested it against the original, cutting time to first event from tens of minutes to a few minutes and reducing related support tickets.
+- Found where residents dropped off at sign-up and login through funnel analysis and shipped a configuration and copy fix with no engineering work, lifting conversion from 40% to 85% and cutting related support tickets by 90%.
+- Launched the company's first mobile apps, a resident ticketing app and a staff scanner app, through a phased rollout with post-launch tracking, generating $55K+ in new revenue.
+- Defined an internal engagement scoring system that Engineering built, then combined its usage data with CS syncs and support tickets to set success metrics and roadmap priorities, driving 18% QoQ usage growth.
+- Built tools client admins used to bring residents back, such as reminders, recurring and seasonal events, and notifications, and owned SMS and WhatsApp messaging to residents.
+- Wrote test cases and tested features hands-on in staging, and traced Stripe webhook and reconciliation failures with SQL, defining each fix with Engineering.
+
+SKILLS
+Product & Growth: Roadmapping, 0-to-1, Monetization, A/B Testing, Funnel Analysis, Success Metrics, Retention
+Payments: Stripe, Stripe Connect, Payouts, Transaction Fees, Donations, Subscriptions, Reconciliation
+Analytics & Data: SQL, Google Analytics, Behavioral Analytics, Engagement Scoring, KPI Definition
+Delivery: Agile, Scrum, Sprint Planning, PRDs, Acceptance Criteria, QA Testing, Test Cases, UAT
+AI & Builder Tools: Claude Code, Claude Cowork, ChatGPT, Figma Make, Prompt Engineering, AI Prototyping
+Tools: Figma, ClickUp, Confluence, HubSpot, Intercom, Jam.dev, Postman, Excel

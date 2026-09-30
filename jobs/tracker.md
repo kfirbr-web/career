@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-30 | 1Password | Digital Customer Success Campaign Manager (Remote US/Canada; CAD $88-123K; Ashby, published 2026-09-30) | Apply | Likely same role as the 2026-09-24 build (Kfir_Braunstein_1Password) | Sweep lead | Kfir: reuse the 09-24 CV / rebuild / skip (posting may be a repost) | — |
 | 2026-09-30 | Meroka | Operations Builder (Hybrid, Montreal; FR/EN fluency required) | Stretch | PM_Meroka (draft) | Interested | Kfir approves draft v1 + cover note; confirm posting is live and send link | `2026-09-30 Meroka/` |
 | 2026-09-30 | ZestyAI | Senior Client Success Manager, Insurance Solutions (Remote Canada & USA) | Stretch | CSM_ZestyAI | Interested | Kfir reviews the Doc, exports PDF, applies (Greenhouse link in notes) | `2026-09-30 ZestyAI/` |
 | 2026-09-30 | Level Access | Senior Product Manager (Canada - Remote; CAD $105-176K + KPI incentive) | Stretch | PM_LevelAccess | Interested | Kfir reviews the Doc, exports PDF, applies (link in notes) | `2026-09-30 LevelAccess/` |

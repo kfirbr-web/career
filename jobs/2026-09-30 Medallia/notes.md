@@ -1,8 +1,8 @@
 # Medallia — Engagement Manager
 
 ## Posting
-- **Link:** Unknown (pasted). Medallia's Workday board is blocked from this container; the only live copy found was a ZipRecruiter listing in McLean, VA: https://www.ziprecruiter.com/c/Medallia/Job/Client-Services,-Engagement-Manager/-in-Mclean,VA?jid=3a452169333f0191
-- **Checked live on:** 2026-09-30: not confirmed for the Canada listing
+- **Link:** https://globalcareers-medallia.icims.com/jobs/6504/client-services%2c-engagement-manager (iCIMS job 6504, "Client Services, Engagement Manager"; from Kfir). Also listed on ZipRecruiter for McLean, VA
+- **Checked live on:** 2026-09-30: not checked (iCIMS is blocked by this container's network); Kfir sent the link
 - **Source:** pasted
 - **Location / remote:** Canada / remote Canada (Kfir, 2026-09-30)
 - **Pay range (if posted):** Unknown
@@ -47,3 +47,4 @@ None
 |---|---|
 | 2026-09-30 | JD pasted; no prior build. Only live copy found: McLean, VA; Kfir confirmed Canada / remote. Vetted: Apply. Fact batch answered; draft v1 |
 | 2026-09-30 | Kfir approved draft v1 ("build"). Google Doc built, one page |
+| 2026-09-30 | Kfir sent the iCIMS posting link (job 6504) |

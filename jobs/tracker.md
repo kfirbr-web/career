@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-30 | Temenos | Regional Operations Lead, Regions Bank account (location Unknown, likely US; pay Unknown; posting not found live) | Stretch | Ops_Temenos (draft v1) | Interested | Kfir reviews draft v1; send posting link; confirm Canada / remote is possible before applying | `2026-09-30 Temenos/` |
 | 2026-09-30 | Medallia | Engagement Manager (Canada / remote Canada per Kfir; only live copy found was McLean, VA; pay Unknown) | Apply | CSM_Medallia | Interested | Kfir reviews the Doc, exports PDF, applies (send the posting link: not found live for Canada) | `2026-09-30 Medallia/` |
 | 2026-09-30 | Gorgias | AI Deployment Manager, Commercial (Toronto listed, remote not stated; CA$123-136K + equity; Ashby) | Stretch | CSM_Gorgias | Interested | Kfir reviews the Doc, exports PDF, applies (Ashby link in notes); ask the recruiter early if Montreal / remote works | `2026-09-30 Gorgias/` |
 | 2026-09-30 | Babylist (Babylist Money) | Senior Product Manager, Money: Early Investor (Canada, remote-first; CAD $179.8-224.7K + 15% bonus; Greenhouse 6177608004) | Stretch | PM_Babylist | Interested | Kfir reviews the Doc, exports PDF, applies (Greenhouse link in notes) | `2026-09-30 Babylist Money/` |

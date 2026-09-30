@@ -56,7 +56,7 @@
   - Skills: Product & UX, Experimentation & Data, Mobile rows lead; SketchUp, Rhino, AutoCAD, Gemini added; Linear, Loveable, HubSpot, Intercom, Stripe, SSO/OAuth2 removed
 
 ## Cover note
-None
+None. Application-question answers: `application-answers.md`
 
 ## Log
 | Date | What happened |

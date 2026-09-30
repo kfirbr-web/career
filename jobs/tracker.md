@@ -13,7 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
-| 2026-09-30 | ZestyAI | Senior Client Success Manager, Insurance Solutions (Remote Canada & USA) | Stretch | CSM_ZestyAI (draft) | Interested | Kfir approves the CV draft; then build the Doc (link in notes) | `2026-09-30 ZestyAI/` |
+| 2026-09-30 | ZestyAI | Senior Client Success Manager, Insurance Solutions (Remote Canada & USA) | Stretch | CSM_ZestyAI | Interested | Kfir reviews the Doc, exports PDF, applies (Greenhouse link in notes) | `2026-09-30 ZestyAI/` |
 | 2026-09-30 | Level Access | Senior Product Manager (Canada - Remote; CAD $105-176K + KPI incentive) | Stretch | PM_LevelAccess | Interested | Kfir reviews the Doc, exports PDF, applies (link in notes) | `2026-09-30 LevelAccess/` |
 | 2026-09-30 | Aylo | Product Owner, Payment Services (payouts/remittance; Montréal, hybrid) | Apply | PM_Aylo | Interested | Kfir reviews the Doc, exports PDF, applies (LinkedIn link in notes) | `2026-09-30 Aylo PaymentServices/` |
 | 2026-09-29 | TMC (consultancy; client unnamed) | PM, Data & Analytics (same role as People Force below; location Unknown) | Stretch (reuse of People Force) | PM_TMC | Interested | Kfir reviews the Doc, exports PDF, applies; ask both agencies for the client name before applying twice; send posting link | `2026-09-29 TMC DataAnalytics/` |

@@ -35,7 +35,7 @@
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`)
-- **Tailored copy:** not built yet (draft sent for approval 2026-09-30)
+- **Tailored copy:** [Kfir_Braunstein_CSM_ZestyAI](https://docs.google.com/document/d/1MYtutSdw8mnKH1ogEcocKWRdh2bvFhLTNZjOcmM44KY/edit) (Google Doc, built from the CSM master .docx on the Jerry V2 layout; draft v1 approved as is). One page in Google's PDF export (throwaway check, deleted); layout not checked visually (no renderer here)
 - **Kfir's answers (2026-09-30):** worked with the Head of CS on CS team projects: yes. Client-side analysts: no. Marketing on case studies / customer stories / webinars: yes. Both yeses logged in `career-context.md` and on the page.
 - **Changes from the master (draft v1):**
   - Summary rewritten as end results: onboarding, adoption, renewals; onboarding automation, roles and permissions model, HubSpot CS ops layer; 33%, 100%+, ~$2M ARR as CSM. Doesn't open with engagement scoring (bullet 1).
@@ -60,3 +60,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-30 | LinkedIn blocked here; Kfir pasted the JD. Found live on Greenhouse. Vetted: Stretch. CV draft sent for approval |
+| 2026-09-30 | Kfir approved draft v1; Google Doc built, one page |

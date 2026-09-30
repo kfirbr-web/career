@@ -14,8 +14,11 @@ Only after `vet-job.md` gave Apply or Stretch.
   2. **Sentence 2 = 2-3 real systems he built that match those areas**, named as nouns a recruiter
      or ATS searches for (API data models, subscription and payment workflows, roles and permissions
      model, integration mapping tool, onboarding automation, engagement scoring…), from the library only.
-  3. **End on 2-3 headline metrics picked for this JD.** The summary may repeat bullet metrics as a
-     recap; the no-repeat rule applies between bullets. Retired metrics (35% retention) never.
+  3. **End on 2-3 headline metrics picked for this JD, stated as end results.** The summary is
+     "what it achieved"; the bullets tell the X-Y-Z story of how (what he did, how, what it produced).
+     The summary may repeat bullet metrics, but a repeat must add something: never restate a bullet's
+     mechanism or wording, and never open with the same story as bullet 1 (Kfir, 2026-09-30). The
+     no-repeat rule applies between bullets. Retired metrics (35% retention) never.
   4. **Optional sentence 3: how he delivers**, matching the JD's second signal in concrete terms
      (e.g. "Ran Agile delivery end to end, from sprint planning to acceptance criteria"; CS-to-PM /
      first PM when client-facing work matters).
@@ -48,6 +51,13 @@ Only after `vet-job.md` gave Apply or Stretch.
    support and #2's 30+ renewals over #12 and #22). Never carry framing over from a prior JD. Map the
    8–12 key terms too (or mark "no match — don't fake it"). This must shape the **first** draft;
    if "is this the best version?" surfaces a better bullet, the step ran out of order.
+2b. **Page-level checks before showing the draft** (Kfir, 2026-09-30, Aylo):
+   - The JD's job title (e.g. "Product Owner") appears on the page, in a bullet and in Skills.
+   - Every JD must-have maps to a bullet or a Skills term; every fact Kfir confirmed for this JD is on the page.
+   - The summary's claims hold for all 5 years (CSM + PM), not just one part of the PM role.
+   - Skills: drop terms the JD doesn't need, especially ceiling-limited ones (SSO/OAuth2).
+   - Length budget: summary 3-4 lines + at most 8 PM bullets; 9 bullets overflowed. Each Skills row
+     at most ~115 characters including the label (longer rows wrap to 2 lines).
 3. Show **only the "after"**: the full text draft (summary + all bullets + CSM section + skills) in
    chat, for one approval round, then one build. No before → after list. (Kfir, 2026-09-28)
    Before presenting, **run the self-check** against every rule in `career-context.md` and the
@@ -56,7 +66,12 @@ Only after `vet-job.md` gave Apply or Stretch.
    bullets could merge; every JD ATS keyword is in bullets or Skills; Figma is in the tools row.
    Keep a record of what changed from the master in the job's `notes.md`.
 4. Wait for Kfir's approval. Apply only approved changes.
-5. Build from **Jerry V2** as `Kfir_Braunstein_<Track>_<Company>` (layout rules: `career-context.md`
+5. **Build mechanics that work here** (2026-09-30): build the .docx by editing the latest job .docx
+   of the same layout (e.g. the Sadie build) in the scratchpad; LibreOffice can't open files in this
+   container, so check page fit by exporting the uploaded Doc as PDF through Drive and counting pages
+   (throwaway, scratchpad only). Drive can't replace a Doc's content: upload the new version, confirm
+   one page, then trash the old Doc and update the link in `notes.md`.
+   Build from **Jerry V2** as `Kfir_Braunstein_<Track>_<Company>` (layout rules: `career-context.md`
    §9). **Deliverable = a Google Doc in Drive, nothing else** (Kfir, 2026-09-29): upload the built
    `.docx` to Drive converted to a Google Doc with that name, and give Kfir the link. **Never create,
    send, upload or commit a PDF**; Kfir exports the PDF himself. For the page-fit check, render a

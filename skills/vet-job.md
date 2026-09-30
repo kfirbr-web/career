@@ -9,7 +9,11 @@ Always first. Most postings should die here, before any CV work.
 4. **Positioning:** where to lead, how to frame gaps, which story serves this role
    (the library's Story Selection Guide).
 5. **ATS keyword coverage:** which JD terms Kfir's background covers and which it doesn't.
-6. **Clarifying questions:** ask them as buttons/multiple choice before drafting anything. Never
+6. **Clarifying questions:** go through **every** JD responsibility and must-have that has no
+   confirmed fact in `career-context.md` and ask about each one in a single yes/no batch (e.g. "test
+   cases? UAT? internal finance-team requirements? use cases?"). Unasked gaps are the main reason a
+   draft misses (Kfir, 2026-09-30, Aylo: 4 true facts never reached the page). Log every yes as a fact
+   before drafting. Ask them as buttons/multiple choice before drafting anything. Never
    assume experience; ask.
 
 Never ask about role priority or how serious the application is. Kfir applies widely. `HO`

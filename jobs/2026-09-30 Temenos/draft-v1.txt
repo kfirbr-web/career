@@ -7,7 +7,7 @@ EXPERIENCE
 - Ran 10+ client launches at a time from kickoff to go-live, owning each launch plan, readiness checklist, and data migration, and built an integration mapping tool that cut onboarding time by 33% (9 to 6 days).
 - Led the response to critical platform and integration incidents, pulling Engineering, Support, and CS together and keeping affected clients updated, then ran root-cause reviews and tracked each follow-up fix to closure.
 - Set up monitoring and alerts so issues surfaced before clients reported them, and troubleshot client integration issues in Postman, logs, and webhooks before escalating to Engineering.
-- Ran a hypercare period after each go-live, with extra check-ins and faster fixes, and kept a shared log of risks, actions, dependencies, and decisions for launches and large accounts.
+- Assigned and tracked work across Support, CS, and Engineering on client projects in a shared log of risks, actions, dependencies, and decisions, and ran a hypercare period after each go-live.
 - Defined escalation paths for CS and Support, who decides and when an issue goes up, and built them into Intercom routing and HubSpot workflows, letting CS scale to 100+ accounts with no added headcount.
 - Ran the release process with Engineering, from the release schedule and go/no-go to staged EU and US production deployments.
 - Served as the main contact for municipal IT teams on integration and access escalations, and ran QBRs and roadmap presentations for city managers and senior city leaders.

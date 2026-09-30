@@ -1,0 +1,22 @@
+Kfir Braunstein
+Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
+
+Product Manager and former Customer Success Manager with 5 years of experience in client delivery, account health, and renewals in B2B2C SaaS. Owned about $2M ARR in client contracts as a CSM, then became the company's first Product Manager, turning client feedback into the roadmap for a platform engaging 12M+ residents. Met clients on site and helped their teams, including reluctant staff, move off old processes and onto the platform.
+
+EXPERIENCE
+- Ran 10+ client launches at once from kickoff to go-live, owning each launch plan (timeline, milestones, check-ins), assigning and tracking the work across Support, CS, and Engineering, and working with client champions on rollout.
+- Defined an internal engagement scoring system that Engineering built, tracking usage across every client, and combined it with CS syncs and support tickets to see which clients were adopting the product, driving 18% QoQ usage growth.
+- Led renewal and at-risk account conversations and ran business reviews for city managers and senior city leaders, using each client's usage data to show their ROI, and gave Sales success stories for renewals and expansion.
+- Turned repeated client and Sales requests into a new subscription and multi-entry payment product, taking it from discovery through launch with Engineering and growing revenue from existing and new clients by $100K+ in incremental ARR.
+- Reduced client onboarding time by 33% (9 to 6 days) by finding where clients got stuck through interviews and behavioral data, then setting up event-triggered emails, in-app messages, and internal handoffs to reach first value faster.
+- Owned the platform's resident feedback and post-event surveys, and wrote results reports reviewing each client's ticket sales and usage, recommending changes to their future events and marketing.
+- Planned and delivered multi-quarter changes to the CRM and API data model with Engineering and Design, deciding what to cut or delay to hit dates, making client data more reliable and supporting 30+ contract renewals.
+- Worked with the Head of CS to build the onboarding playbook and QBR and success plan templates, and set up HubSpot lifecycle workflows and renewal alerts, letting CS scale to 100+ accounts with no added headcount.
+
+SKILLS
+Engagement Management: Client Delivery, Launch Plans, Project Plans, Stakeholder Management, Change Management
+Customer Success: Account Health, Adoption, Onboarding, Renewals, Expansion, Churn Prevention, Account Plans
+Value & Reviews: Business Reviews, QBRs, ROI & Value Stories, Client Reporting, Voice of the Customer
+Data & Feedback: Health Scoring, Usage Analytics, Surveys & Feedback, SQL, Google Analytics, Excel
+CRM & CS Tools: HubSpot, Intercom, ClickUp, Confluence, Jam.dev, Stripe, Figma, PowerPoint
+AI Tools: Claude, Claude Cowork, Claude Code, ChatGPT, AI-assisted Workflows

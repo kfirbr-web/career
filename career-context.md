@@ -152,6 +152,8 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
   part in the planning ceremonies and all R&D ceremonies (Kfir, 2026-09-30, Aylo); no Scrum Master or PO
   certification. `PMEM` Agile and Scrum OK in Skills.
 - **Insurance and fraud:** no insurance / P&C experience and no fraud work at Bewith. Frame adjacency only (regulated decisions, public funds, compliance); never claim either. (Kfir, 2026-09-29, Wawanesa)
+- **NPS / CSAT:** never tracked or reported client NPS or CSAT scores; never claim it. No PMP or other certification; no advanced degree. (Kfir, 2026-09-30, Medallia)
+- **Business reviews:** "business reviews" OK as the ATS match for Executive Business Reviews; the audience is still city managers and senior city leaders, never "executive". (Kfir, 2026-09-30, Medallia)
 - No invented numbers; no "hours saved" or "% efficiency" without a source.
 
 ### Confirmed tool stack `HO`
@@ -251,6 +253,9 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Training peers | Trained Support and CS colleagues on new features and client setups (beyond mentoring junior CSMs) | Confirmed by Kfir 2026-09-30 (Gorgias) |
 | Intercom Fin setup | Set up Fin's content sources and its human handoff rules himself | Confirmed by Kfir 2026-09-30 (Gorgias). No Fin metric (resolution / deflection): never claim one. Still a supporting signal, not core work |
 | Activation tracking | Tracked activation / time to value for each client during onboarding | Confirmed by Kfir 2026-09-30 (Gorgias). Pairs with #5 onboarding (33%) |
+| Resident feedback and surveys | Bewith's platform had resident feedback and post-event surveys; Kfir owned or specced them as the platform's PM | Confirmed by Kfir 2026-09-30 (Medallia). Say "owned the platform's resident feedback and post-event surveys". Not NPS/CSAT tracking (see below); no survey-result metric |
+| Directing the account team | On client projects, assigned and tracked work across Support, CS, and Engineering | Confirmed by Kfir 2026-09-30 (Medallia). Still no formal people management |
+| Success stories to Sales | Gave Sales and leadership client usage data and success stories for renewals and expansion (beyond the Marketing case studies) | Confirmed by Kfir 2026-09-30 (Medallia). Negotiations still supported only |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -398,6 +403,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | New facts: owned the platform's resident feedback / post-event surveys; assigned and tracked work across Support, CS, and Engineering on client projects; gave Sales usage data and success stories for renewals and expansion. Not true: tracked NPS/CSAT; PMP / advanced degree. "Business reviews" OK for EBRs, never "executive" | Kfir (Medallia) |
 | 2026-09-30 | New facts: troubleshot client integrations directly (Postman, logs, webhooks) before escalating; documented each client's configuration; trained Support/CS peers; set up Intercom Fin content sources and handoff rules; tracked activation / time to value per client; 10+ concurrent client launches. Not true: owned the Sales→CS handover; Shopify / ecommerce hands-on; a Fin resolution metric. Never claim them | Kfir (Gorgias) |
 | 2026-09-30 | Summary metrics: no repeats between summary and bullets by default (repeats waste the top of the page and recruiters notice). A repeat is allowed only when it clearly helps the CV, flagged in the draft. Replaces the "up to 3 repeats" rule | Kfir (Babylist) |
 | 2026-09-30 | New facts: subscription/multi-entry product let residents buy memberships and passes; the login fix (#8) was A/B tested too; monthly leadership update covered what shipped, what didn't work, and what changed next. Kfir chose "first PM ... owned the roadmap as the sole PM" and the 12M+ company-line opener for a roadmap-ownership JD (his call over the Level Access / Vention summary rules) | Kfir (Babylist) |

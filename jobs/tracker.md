@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-30 | Babylist (Babylist Money) | Senior Product Manager, Money: Early Investor (Canada, remote-first; CAD $179.8-224.7K + 15% bonus; Greenhouse 6177608004) | Stretch | PM_Babylist (pending) | Interested | Kfir answers gap questions; then draft 1 | `2026-09-30 Babylist Money/` |
 | 2026-09-30 | nymble (metabolic health; SMS/WhatsApp behavioural support) | Partner Success Manager (location Unknown; occasional travel) | Apply | CSM_nymble | Interested | Kfir reviews the Doc, exports PDF, applies; send posting link (not found live) | `2026-09-30 nymble/` |
 | 2026-09-30 | Meroka | Operations Builder (Hybrid, Montreal; FR/EN fluency required) | Stretch | ProductOps_Meroka | Interested | Kfir reviews the Doc + cover note, exports PDF, applies; confirm posting is live and send link | `2026-09-30 Meroka/` |
 | 2026-09-30 | 1Password | Digital Customer Success Campaign Manager (Remote US/Canada; CAD $88-123K; Ashby, published 2026-09-30) | Apply | Likely same role as the 2026-09-24 build (Kfir_Braunstein_1Password) | Sweep lead | Kfir: reuse the 09-24 CV / rebuild / skip (posting may be a repost) | — |

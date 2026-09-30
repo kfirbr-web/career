@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-30 | Leap Tools (Roomvo) | Product Manager, Consumer Apps (Canada - Remote; pay not in the pasted text, aggregators show CAD 90-140K for a Leap Tools PM role; not confirmed live) | Apply | PM (not built yet) | Interested | Kfir answers gap questions → draft CV; send posting link | `2026-09-30 LeapTools/` |
 | 2026-09-30 | Temenos | Regional Operations Lead, Regions Bank account (location Unknown, likely US; pay Unknown; posting not found live) | Stretch | Ops_Temenos | Interested | Kfir reviews the Doc, exports PDF, applies; send posting link; confirm Canada / remote is possible before applying | `2026-09-30 Temenos/` |
 | 2026-09-30 | Medallia | Engagement Manager (Canada / remote Canada per Kfir; only live copy found was McLean, VA; pay Unknown) | Apply | CSM_Medallia | Interested | Kfir reviews the Doc, exports PDF, applies (send the posting link: not found live for Canada) | `2026-09-30 Medallia/` |
 | 2026-09-30 | Gorgias | AI Deployment Manager, Commercial (Toronto listed, remote not stated; CA$123-136K + equity; Ashby) | Stretch | CSM_Gorgias | Interested | Kfir reviews the Doc, exports PDF, applies (Ashby link in notes); ask the recruiter early if Montreal / remote works | `2026-09-30 Gorgias/` |

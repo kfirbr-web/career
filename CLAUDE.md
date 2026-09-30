@@ -38,7 +38,8 @@ career/
 │   └── YYYY-MM-DD Company/    <- one folder per job: notes.md (+ cover-note.txt if written)
 ├── tools/
 │   ├── search_jobs.py         <- 24h sweep of Greenhouse / Lever / Ashby boards
-│   └── companies.txt          <- board slugs to sweep (add new companies here)
+│   ├── companies.txt          <- board slugs to sweep (add new companies here)
+│   └── fit_check.py           <- one-page fit estimate from the draft text (run before building)
 └── .claude/commands/career.md <- /career slash command: loads the three files above
 ```
 

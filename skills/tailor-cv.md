@@ -58,6 +58,12 @@ Only after `vet-job.md` gave Apply or Stretch.
    - Skills: drop terms the JD doesn't need, especially ceiling-limited ones (SSO/OAuth2).
    - Length budget: summary 3-4 lines + at most 8 PM bullets; 9 bullets overflowed. Each Skills row
      at most ~115 characters including the label (longer rows wrap to 2 lines).
+   - **Fit estimate before showing the draft (and before any build)** (Kfir, 2026-09-30, Meroka): save the
+     full draft text in the scratchpad and run `python3 tools/fit_check.py <draft>`. Budget: 29 content
+     lines (summary + bullets + project items, ~128 chars per line), 26 with a Projects section. Over
+     budget → trim in the draft first and show the trimmed draft. Never find overflow by building and
+     re-exporting (trial and error cost 7+ minutes on Meroka). The Drive PDF export is a single final
+     confirmation, not the way to find the fit.
 3. Show **only the "after"**: the full text draft (summary + all bullets + CSM section + skills) in
    chat, for one approval round, then one build. No before → after list. (Kfir, 2026-09-28)
    Before presenting, **run the self-check** against every rule in `career-context.md` and the

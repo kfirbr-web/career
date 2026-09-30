@@ -10,6 +10,7 @@
 - **Summary variants** (starting points; still rewritten per JD):
   - **Master / general PM:** "Product Manager with 5 years of experience in platform systems, payments, and integrations in B2B2C SaaS. Built API data models, subscription and payment workflows, and a roles and permissions model, driving $100K+ in incremental ARR, 100%+ contract expansion, and 18% QoQ usage growth."
   - **GovTech / platform / configurable systems:** "Product Manager with 5 years of experience in B2B2C GovTech SaaS, turning requests from many different municipalities into reusable platform features. Built a roles and permissions model for complex municipal org structures and led multi-quarter API data model changes, driving 100%+ contract expansion and 30+ contract renewals."
+  - **CSM master:** "Product Manager and former Customer Success Manager with 5 years of experience in onboarding, renewals, and account expansion in B2B2C SaaS. Built an engagement scoring system, event-triggered onboarding workflows, and a HubSpot CS ops layer, cutting onboarding time by 33%. As a CSM, owned about $2M ARR with 100% retention across 30+ accounts."
 - **Never repeat the company line** in the summary (customer base, regions, "serving 100+ municipalities…"): the Bewith.io line right below already says it. Shape copied from the CVs that moved forward (Lightspeed, Lyft, GoTo, Jerry V2).
 - Never "5 years across…" or other clipped phrasing.
 
@@ -281,6 +282,7 @@
 
 ## VERSION LOG
 
+- **2026-09-30:** CSM master summary rewritten to the summary recipe (areas → systems → headline metrics). Kept the $2M ARR and 30+ accounts facts in separate clauses (not confirmed to be the same book).
 - **2026-09-29:** Summary recipe: sentence 1 names the JD's 2-3 core areas, sentence 2 names 2-3 systems built, end on 2-3 headline metrics (may repeat bullets), optional delivery sentence. Master and GovTech variants rewritten to it. Came from comparing Kfir's stronger summaries against the rule-built ones.
 - **2026-09-29:** Summaries may repeat up to 3 headline metrics from the bullets and should name the concrete systems built (Kfir, Leyton: preferred older summaries that did this). Bullets still never repeat a metric among themselves.
 - **2026-09-29:** Master PM summary reworked from the Lyft angle (requests from many clients → reusable platform features), without GovTech. Added a GovTech/platform summary variant. Dropped the Lyft original's repeated metrics and trait line ("managing ambiguity … with structured judgment").

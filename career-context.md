@@ -397,7 +397,7 @@ that moved forward.
   compared against Jerry V2; flag a thin or overflowing page.
 
 **Summary vs bullets:** Summary and bullets split the work (Kfir, 2026-09-30): the summary states strong end results only (what was built and the outcome; metrics not already in the bullets, repeats only when they clearly help and flagged (Kfir, 2026-09-30, Babylist)); the bullets tell the story behind each result as X-Y-Z (what he did, how, what it produced). A repeat must add something: never restate a bullet's mechanism or wording in the summary, and never open the summary with the same story as bullet 1.
-**Summary:** tailored in full to each JD, no edit cap (Kfir, 2026-09-29); the library's openers are a default; includes metrics; not generic; third-person resume
+**Summary:** start from the master summary and adjust lightly for the JD (Kfir, 2026-09-30, Leap Tools; replaces the 2026-09-29 full-rewrite rule); includes metrics; not generic; third-person resume
 voice; doesn't repeat bullet 1; short sentences; no JD mirroring.
 **Bullets:** first bullet hits the JD's top signal with a hard outcome. 5-8 PM bullets to fit one page (9 overflowed; Aylo 2026-09-30).
 **CSM section:** locked 3 bullets + promoted line. **Peres Center:** locked 2 bullets.
@@ -414,6 +414,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | Summary: start from the master summary (`cv/master-PM.md` / `cv/master-CSM.md`) and adjust lightly for the JD (swap an area, a system, a metric). Full rewrites read like a list or lose the senior tone. Replaces "no cap, always rewritten in full" | Kfir (Leap Tools) |
 | 2026-09-30 | Summary: never split the years ("5 years ..., 4 of them as PM"); reads unprofessional. Keep "5 years of experience in B2B2C SaaS" and carry the angle with a verb phrase ("building consumer-facing mobile and web products") | Kfir (Leap Tools) |
 | 2026-09-30 | New facts: designed mobile app UI in Figma; camera-based ticket/QR scanner app; push notifications; acted on app store reviews; resident interviews and usability tests; defined mobile app success metrics; other A/B tests; 3D/render tools in the degree; image AI (Figma, Gemini) personal use only. Not true: interior design work in the degree; AR/image features at Bewith; Firebase. Never claim them | Kfir (Leap Tools) |
 | 2026-09-30 | New facts: led critical incidents (Eng/Support/CS) with client updates; root-cause reviews tracked to closure; set up monitoring/alerts; go-live readiness checklists; client data migration at launch; hypercare after go-live; risk/action/dependency/decision log; defined escalation paths; release process (schedule, go/no-go, deployment steps); client IT escalations. Not true: a full go-live dress rehearsal beyond UAT; support SLAs or coverage hours; hosting / infrastructure work. Never claim them | Kfir (Temenos) |

@@ -5,8 +5,8 @@ Only after `vet-job.md` gave Apply or Stretch.
 ## Edit caps
 - Title line: swap to match the posting.
 - Skills: swap 3–4 terms (or pick the 6 skill lines for the track).
-- Summary: **no cap, and always rewritten for the JD** (Kfir, 2026-09-29). Never ship the master
-  summary unchanged. It's dense with proof, not a clean tagline. Recipe:
+- Summary: **start from the master summary and adjust lightly** (Kfir, 2026-09-30, Leap Tools: full
+  rewrites read like a shopping list). Swap an area, a system, or a metric to fit the JD; never ship it unchanged. It's dense with proof, not a clean tagline. Recipe:
   1. **Sentence 1 = the JD's 2-3 core areas where Kfir has proof:** "Product Manager with 5 years of
      experience in [area, area, and area] in B2B2C SaaS." (e.g. platform systems, payments,
      integrations / billing and data integration / onboarding and lifecycle). Not a generic verb

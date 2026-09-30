@@ -1,7 +1,7 @@
 Kfir Braunstein
 Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
 
-Product Manager with 5 years of experience in B2B2C SaaS, building consumer-facing mobile and web products engaging 12M+ residents. Built resident ticketing and scanner apps for iOS and Android, sign-up and event creation flows, and membership payments, deciding what shipped from user tests and A/B tests. Trained as an architect, with 3D modeling in SketchUp and Rhino.
+Product Manager with 5 years of experience in mobile apps, payments, and platform systems in B2B2C SaaS. Built the company's first iOS and Android apps, subscription and payment workflows, and a roles and permissions model, driving 100%+ contract expansion and 18% QoQ usage growth.
 
 EXPERIENCE
 - Launched the company's first mobile apps from concept to App Store and Google Play release: a resident ticketing app and a staff app that scanned tickets and QR codes with the phone camera, generating $55K+ in new revenue.

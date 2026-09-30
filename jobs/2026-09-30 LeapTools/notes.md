@@ -47,8 +47,10 @@
 
 ## CV
 - **Track / base:** PM / `cv/Kfir_Braunstein_PM_Master.docx`
-- **Tailored copy:** not built yet. Draft 1 in `draft-v1.txt` (fit_check 28/29), waiting on Kfir's approval
-- **Changes from the master (draft 1):**
+- **Tailored copy:** [Kfir_Braunstein_PM_LeapTools](https://docs.google.com/document/d/1JrtLyj6TYyaCoq0KGRRB-ZLudr9t3oiG9QBkTPN1FfY/edit)
+  (Google Doc; source .docx in this folder, built on the Babylist build of the Jerry V2 layout). One page in Google's PDF export.
+- **Final text:** `draft-final.txt` (fit_check 28/29)
+- **Changes from the master:**
   - Summary: master summary, lightly adjusted (Kfir): "integrations" → "mobile apps" (first area); "API data models" → "the company's first iOS and Android apps"; $100K+ dropped (already in the subscriptions bullet)
   - Bullets: mobile apps #3 leads (store release, camera scanner); new UX-ownership + resident research bullet; new app metrics / push / store reviews bullet; #8 and #9 with their A/B tests; #1 with memberships and passes; #11 + #10 AI prototyping; delivery bullet (#25 / #26 facts). Out: #2 CRM/API, #4 permissions, #5 onboarding, #6 engagement scoring
   - Skills: Product & UX, Experimentation & Data, Mobile rows lead; SketchUp, Rhino, AutoCAD, Gemini added; Linear, Loveable, HubSpot, Intercom, Stripe, SSO/OAuth2 removed
@@ -61,3 +63,4 @@ None
 |---|---|
 | 2026-09-30 | Vetted: Apply. Gap questions sent to Kfir before drafting |
 | 2026-09-30 | Kfir: yes to app UI in Figma, camera scanner, push notifications, store reviews, resident interviews, app metrics, other A/B tests (only #8/#9 on the CV), SketchUp + Rhino, image AI personal use. Draft 1 shown |
+| 2026-09-30 | Summary: Kfir rejected two full rewrites ("shopping list"); master summary lightly adjusted instead. Kfir approved; Doc built, one page |

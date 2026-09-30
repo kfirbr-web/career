@@ -26,6 +26,8 @@ memory export (2026-09-28).
 - **Bewith.io:** always **B2B2C** (never B2B); descriptor always "North America and Europe" (never
   include Israel) `HO`
 - **CV length:** 1 page `HO`
+- **Personal (cover notes only, when the domain fits):** long-trail, high-altitude hiker who trains daily;
+  started as an amateur athlete and never stopped (Kfir's own cover note, 2026-09-30). Health / fitness roles.
 
 ### Voice rules
 - Plain facts, no adjectives. Say what was done and what changed. `BL`

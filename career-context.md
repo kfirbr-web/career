@@ -368,6 +368,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | Don't overuse "sole PM" / "first PM": don't add them to summaries to cover a JD signal (e.g. multi-squad); they're not worth flagging | Kfir (Level Access) |
 | 2026-09-30 | New fact: owned accessibility QA from an external reviewer's findings and collected client accessibility feedback. No named standard. No data science team at Bewith: never claim data science partnership | Kfir (Level Access) |
 | 2026-09-29 | Summary recipe: JD's 2-3 core areas → 2-3 named systems built → 2-3 headline metrics (may repeat bullets) → optional delivery line; 3-4 lines | Kfir |
 | 2026-09-29 | Summaries carry substance: name the concrete systems Kfir built (billing/payments, integrations, access, automation, data model) and end with 2-3 headline metrics. Generic "works between X and Y" lines are too thin. 2-3 tight sentences (replaces the 2-sentence/40-word rule logged earlier the same day). Summary metrics may repeat bullet metrics (Kfir chose this; bullets still never repeat a metric among themselves) | Kfir (Leyton, pointing at older summaries he preferred) |

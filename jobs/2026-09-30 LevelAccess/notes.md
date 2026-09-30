@@ -35,9 +35,12 @@
 
 ## CV
 - **Track / base:** PM / `cv/Kfir_Braunstein_PM_Master.docx`
-- **Tailored copy:** pending approval
+- **Tailored copy:** [Kfir_Braunstein_PM_LevelAccess](https://docs.google.com/document/d/161ll318I0u-R4o4ThgtieStXVB1WLT1EmC6Qz7UMQUE/edit)
+  (Google Doc; source .docx in this folder, built on the TMC build of the Jerry V2 layout). One page in Google's PDF
+  export (last line 748pt; Jerry V2 761pt); every Skills row one line.
 - **Changes from the master:**
-  - Summary: rewritten (platform strategy, AI prototyping, product metrics; sole PM across main team + mobile squad)
+  - Summary (Kfir's final): platform strategy, AI prototyping, product metrics; "Designed" API data models, subscription and
+    payment product, engagement scoring; $100K+ ARR, 30+ renewals, 18% QoQ. Delivery / sole-PM sentence cut by Kfir.
   - Bullets: #2 CRM/API moved to lead (with microservices advisory clause); AI bullet added (#10 + #11 merged); accessibility QA + staging QA bullet added (new fact); mobile reworded for the dedicated squad; permissions (#4) and login fix (#8) dropped for space
   - Skills: AI & Builder Tools row leads; added Claude Cowork, AI Prototyping, QA Testing, Accessibility QA, Success Metrics; removed Linear (removed from the stack 2026-09-28) and Loveable (unconfirmed)
 
@@ -54,3 +57,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-30 | Vetted: Stretch. Kfir confirmed accessibility QA fact; no data science team. Draft shown for approval |
+| 2026-09-30 | Kfir edited the summary (Built → Designed, sole-PM sentence out) and approved the rest. Google Doc built, one page |

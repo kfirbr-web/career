@@ -231,6 +231,13 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Accessibility QA | Owned accessibility QA based on results from an external accessibility reviewer, and collected accessibility feedback from clients | Confirmed by Kfir 2026-09-30 (Level Access). Say "accessibility QA" / "external accessibility reviewer"; don't name a standard (WCAG, ADA, AODA, 508) or claim remediation outcomes until confirmed |
 | QA before release | Tested new features hands-on in staging before release and logged bugs for Engineering (Jam.dev) | Confirmed by Kfir 2026-09-29 (Claio). OK to say "QA testing" / "tested in staging" |
 | Customer content | Wrote knowledge base articles, user guides, FAQs, and release notes, and recorded short video tutorials for clients | Confirmed by Kfir 2026-09-29 (Claio). OK on CVs |
+| Client launch delivery | Ran client launches from kickoff to go-live, several at the same time, owning each launch plan: timeline, milestones, check-ins | Confirmed by Kfir 2026-09-30 (nymble). How many at once [TODO] |
+| Client outcome reports | Wrote results / usage reports for clients, beyond QBRs and the activity dashboard | Confirmed by Kfir 2026-09-30 (nymble) |
+| European clients | Worked directly with European clients across time zones (not only North America) | Confirmed by Kfir 2026-09-30 (nymble) |
+| Presented at industry events | Presented or ran the booth at industry events, beyond attending with Sales | Confirmed by Kfir 2026-09-30 (nymble). Which events [TODO]; still no leads-generated claims |
+| SMS and WhatsApp messaging | Bewith sent SMS and WhatsApp messages to users; Kfir owned or specced it (ties to the Meta relationship, #15) | Confirmed by Kfir 2026-09-30 (nymble). Say "specced" until Kfir confirms he owned it |
+| Health and wellness clients | Some Bewith clients or programs were health, fitness, or wellness related (e.g. recreation centers) | Confirmed by Kfir 2026-09-30 (nymble). Adjacency only: never claim health tech, clinical, or patient experience |
+| Travel | Fine with occasional travel for client meetings and events | Kfir 2026-09-30 (nymble) |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -378,6 +385,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | New facts: concurrent client launches with launch plans (timeline, milestones, check-ins); client outcome reports; European clients; presented at industry events; SMS/WhatsApp user messaging; health/wellness-related clients (adjacency only); OK to travel. Not confirmed: building pitch decks, pricing materials, or packaging offerings (only advised Sales): never claim them | Kfir (nymble) |
 | 2026-09-30 | Cover notes follow Kfir's model (`skills/cover-note.md`): header, an opening point from experience, react to the JD's specific points, proof, optional personal angle, close, sign-off; ~250-350 words. Not the old 3-4 sentence format. Phone on notes is 514-462-2234 | Kfir (Meroka) |
 | 2026-09-30 | Estimate page fit from the draft before building: run `tools/fit_check.py` on the full draft (29 content lines, 26 with Projects; ~128 chars/line) and trim in the draft. No trial-and-error builds; the PDF export is one final check | Kfir (Meroka) |
 | 2026-09-30 | New facts: worked with the Head of CS on CS team projects (playbook, templates, processes); worked with Marketing on customer stories, case studies, and webinars. No analyst-type client contacts: never claim client analysts | Kfir (ZestyAI) |

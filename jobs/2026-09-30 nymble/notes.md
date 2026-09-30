@@ -36,9 +36,10 @@
 
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`)
-- **Tailored copy:** (pending approval)
+- **Tailored copy:** [Kfir_Braunstein_CSM_nymble](https://docs.google.com/document/d/10t9RAbav4rD1Qbd3qkXd_MjIgHcA2b0u_fNeFHgXXZo/edit) (Google Doc, built from the CSM master .docx on the Jerry V2 layout). One page in Google's PDF export (throwaway check, deleted); layout not checked visually (no renderer here)
 - **Kfir's answers (2026-09-30):** yes: several launches at once, launch plans with milestones, client outcome reports, European clients, presented at industry events, SMS/WhatsApp messaging, health/wellness-related clients, OK to travel. Only "advised Sales": no pitch decks, pricing materials, or packaging. All logged in `career-context.md`.
 - **Draft v1 (changes from the CSM master):** summary rewritten (onboarding, implementation, account growth; playbook, CS ops layer, scoring; 33%, ~$2M ARR, 100% retention). New lead bullet: concurrent client launches with launch plans + per-client configuration and city-system integrations, carrying 33% (so #5 dropped). #12 reworded around the Head of CS playbook + templates. #6 reframed to at-risk clients. New outcome reports + QBRs bullet (NA and Europe, ticket-sales insights). #7 PO/integrations variant (requirements, API docs). #20 messaging with SMS/WhatsApp. #18 + Marketing case studies + events. Dropped #21, #22, #1. Skills: Partner Success / Program Delivery / Product & Technical / Sales & Marketing / Tools / AI rows. fit_check: 29/29.
+- **Summary (approved v2, hybrid of Kfir's version):** "Product Manager and former Customer Success Manager with 5 years at a B2B2C SaaS company engaging 12M+ residents. As a CSM, owned about $2M ARR with 100% retention; as PM, stayed close to clients through launches, business reviews, and renewals, cutting onboarding time by 33%. Uses Claude Code and Claude Cowork daily to automate meeting summaries, email drafts, and follow-ups." "Company", not "startup" (startup not confirmed). SMS/WhatsApp bullet stays "Specced".
 
 ## Cover note
 None yet (domain fit for the personal hiking/training line if Kfir wants one)
@@ -47,3 +48,4 @@ None yet (domain fit for the personal hiking/training line if Kfir wants one)
 | Date | What happened |
 |---|---|
 | 2026-09-30 | JD pasted. Not found live. Vetted: Apply (CSM track). Fact questions sent before draft 1 |
+| 2026-09-30 | Kfir proposed a summary; hybrid version approved ("good build"). Google Doc built, one page |

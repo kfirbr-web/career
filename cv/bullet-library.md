@@ -314,6 +314,7 @@
 
 ## VERSION LOG
 
+- **2026-09-30:** Summary = strong end results (may repeat up to 3 bullet metrics); bullets = the X-Y-Z story behind each result. A repeated metric must not repeat the bullet's mechanism or wording (Kfir).
 - **2026-09-30 (Aylo v3, Kfir):** #24 + internal finance-team reporting requirements; new #25 Product Owner and #26 QA/test cases/UAT; #7 PO/integrations variant without QBRs; Payments row now leads with #24; new Product Owner row.
 - **2026-09-30:** Added #24 payment solution and client payouts on Stripe Connect (Kfir confirmed, Aylo build) and a Payments / payouts row in the selection guide.
 - **2026-09-30:** CSM master summary rewritten to the summary recipe (areas → systems → headline metrics). Kept the $2M ARR and 30+ accounts facts in separate clauses (not confirmed to be the same book).

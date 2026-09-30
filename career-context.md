@@ -356,6 +356,7 @@ that moved forward.
 - After building: check page fit with a throwaway preview (scratchpad only, never saved or sent)
   compared against Jerry V2; flag a thin or overflowing page.
 
+**Summary vs bullets:** Summary and bullets split the work (Kfir, 2026-09-30): the summary states strong end results only (what was built and the outcome, up to 3 headline metrics, may repeat bullets); the bullets tell the story behind each result as X-Y-Z (what he did, how, what it produced). A repeat must add something: never restate a bullet's mechanism or wording in the summary, and never open the summary with the same story as bullet 1.
 **Summary:** tailored in full to each JD, no edit cap (Kfir, 2026-09-29); the library's openers are a default; includes metrics; not generic; third-person resume
 voice; doesn't repeat bullet 1; short sentences; no JD mirroring.
 **Bullets:** first bullet hits the JD's top signal with a hard outcome. 5-8 PM bullets to fit one page (9 overflowed; Aylo 2026-09-30).
@@ -374,6 +375,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | Date | Rule | Source |
 |---|---|---|
 | 2026-09-30 | Don't overuse "sole PM" / "first PM": don't add them to summaries to cover a JD signal (e.g. multi-squad); they're not worth flagging | Kfir (Level Access) |
+| 2026-09-30 | Summary and bullets split the work: the summary states strong end results only (what was built and the outcome, up to 3 headline metrics, may repeat bullets); the bullets tell the story behind each result as X-Y-Z (what he did, how, what it produced). A repeat must add something: never restate a bullet's mechanism or wording in the summary, and never open the summary with the same story as bullet 1. Resolves the metric-repeat question: repeats stay allowed | Kfir (Aylo) |
 | 2026-09-30 | Process: ask every unmatched JD duty as one yes/no batch before draft 1; JD title on the page; must-haves all mapped; summary true for all 5 years; max 8 PM bullets; Skills rows ≤ ~115 chars (see `skills/tailor-cv.md` 2b, `skills/vet-job.md` step 6) | Kfir (Aylo) |
 | 2026-09-30 | Aylo summary (Kfir's preferred): "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents." + a PO sentence. Summary claims must fit the whole 5 years: never "5 years of experience in <one domain>" (e.g. payments) when it was one part of the PM role. Kfir's pick overrides the no-company-line rule when he chooses this opener | Kfir (Aylo) |
 | 2026-09-30 | When the JD title is Product Owner, put "Product Owner" on the page (a PO bullet + Skills) for ATS; don't leave Scrum/sprint-goal/story duties to one summary clause | Kfir (Aylo) |

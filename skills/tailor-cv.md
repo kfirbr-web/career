@@ -14,8 +14,11 @@ Only after `vet-job.md` gave Apply or Stretch.
   2. **Sentence 2 = 2-3 real systems he built that match those areas**, named as nouns a recruiter
      or ATS searches for (API data models, subscription and payment workflows, roles and permissions
      model, integration mapping tool, onboarding automation, engagement scoring…), from the library only.
-  3. **End on 2-3 headline metrics picked for this JD.** The summary may repeat bullet metrics as a
-     recap; the no-repeat rule applies between bullets. Retired metrics (35% retention) never.
+  3. **End on 2-3 headline metrics picked for this JD, stated as end results.** The summary is
+     "what it achieved"; the bullets tell the X-Y-Z story of how (what he did, how, what it produced).
+     The summary may repeat bullet metrics, but a repeat must add something: never restate a bullet's
+     mechanism or wording, and never open with the same story as bullet 1 (Kfir, 2026-09-30). The
+     no-repeat rule applies between bullets. Retired metrics (35% retention) never.
   4. **Optional sentence 3: how he delivers**, matching the JD's second signal in concrete terms
      (e.g. "Ran Agile delivery end to end, from sprint planning to acceptance criteria"; CS-to-PM /
      first PM when client-facing work matters).

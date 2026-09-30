@@ -1,0 +1,9 @@
+I'm applying for the Operations Builder role at Meroka.
+
+At Bewith.io I built client operations from scratch. As the company's first Product Manager I set up the CS operations layer in HubSpot and Intercom that let CS scale to 100+ accounts with no added headcount, and cut onboarding time by 33% (9 to 6 days) by finding where clients got stuck and automating those steps.
+
+Most of that work started with the people using it. I met city staff at their sites and in discovery sessions, learned how each city ran its programs, then built the process with CS and the tool with Engineering. When one tool didn't get used, I fixed it until it did.
+
+I studied architecture before product, and I now build my own tools with Claude Code, including the job-search agent I use every day.
+
+My French is at A2 after six months of full-time study this year, and I'm continuing.

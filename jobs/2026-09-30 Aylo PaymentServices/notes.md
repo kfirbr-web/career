@@ -37,7 +37,8 @@
 
 ## CV
 - **Track / base:** PM master (`cv/master-PM.md`)
-- **Tailored copy:** pending approval
+- **Tailored copy:** [Kfir_Braunstein_PM_Aylo](https://docs.google.com/document/d/1rZpeSODFZgr17nmu-jSEU60OFFoAUMLsDUPpRY1HNg8/edit)
+  (Google Doc; source .docx in this folder, built on the Sadie build of the Jerry V2 layout). One page in Google's PDF export.
 - **Changes from the master (draft v1):**
   - Summary: rewritten for payments + integrations + Scrum delivery.
   - Bullets: #1, #14 Stripe investigation (new in), #17 refunds (new in), QA + staged release (Sadie wording), #13 integration tool (new in), liaison + API docs (#7 without QBRs + #23), #6, #2. Dropped: #5 onboarding, #4 permissions, #3 mobile, #8 login.
@@ -58,3 +59,4 @@ None
 |---|---|
 | 2026-09-30 | Vetted: Apply. Draft v1 sent for approval |
 | 2026-09-30 | Kfir confirmed Stripe Connect payouts + ceremonies; draft v2 sent |
+| 2026-09-30 | Kfir approved v2; built PM_Aylo (Google Doc, one page) |

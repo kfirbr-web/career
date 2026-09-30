@@ -231,7 +231,7 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Accessibility QA | Owned accessibility QA based on results from an external accessibility reviewer, and collected accessibility feedback from clients | Confirmed by Kfir 2026-09-30 (Level Access). Say "accessibility QA" / "external accessibility reviewer"; don't name a standard (WCAG, ADA, AODA, 508) or claim remediation outcomes until confirmed |
 | QA before release | Tested new features hands-on in staging before release and logged bugs for Engineering (Jam.dev) | Confirmed by Kfir 2026-09-29 (Claio). OK to say "QA testing" / "tested in staging" |
 | Customer content | Wrote knowledge base articles, user guides, FAQs, and release notes, and recorded short video tutorials for clients | Confirmed by Kfir 2026-09-29 (Claio). OK on CVs |
-| Client launch delivery | Ran client launches from kickoff to go-live, several at the same time, owning each launch plan: timeline, milestones, check-ins | Confirmed by Kfir 2026-09-30 (nymble). How many at once [TODO] |
+| Client launch delivery | Ran client launches from kickoff to go-live, several at the same time, owning each launch plan: timeline, milestones, check-ins | Confirmed by Kfir 2026-09-30 (nymble). **10+ at once** (Kfir 2026-09-30, Gorgias) |
 | Client outcome reports | Wrote results / usage reports for clients, beyond QBRs and the activity dashboard | Confirmed by Kfir 2026-09-30 (nymble) |
 | European clients | Worked directly with European clients across time zones (not only North America) | Confirmed by Kfir 2026-09-30 (nymble) |
 | Presented at industry events | Presented or ran the booth at industry events, beyond attending with Sales | Confirmed by Kfir 2026-09-30 (nymble). Which events [TODO]; still no leads-generated claims |
@@ -246,6 +246,11 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Donations / contributions | A separate donation feature that worked like GoFundMe (residents give to an organization's or cause's campaign) | Confirmed by Kfir 2026-09-30 (Babylist). Volume / clients using it unknown |
 | Resident re-engagement | Tools built for client admins to bring residents back (reminders, recurring or seasonal events, notifications) | Confirmed by Kfir 2026-09-30 (Babylist): admin-facing tools, not a consumer growth program. No result metric |
 | Leadership reporting | Monthly internal update to leadership on what shipped, what didn't work, and what changed next; QBRs for clients externally | Confirmed by Kfir 2026-09-30 (Babylist) |
+| Integration troubleshooting | Troubleshot client integration issues directly (Postman, logs, webhooks) before escalating to Engineering | Confirmed by Kfir 2026-09-30 (Gorgias) |
+| Client configuration docs | Documented each client's configuration and setup for the team | Confirmed by Kfir 2026-09-30 (Gorgias) |
+| Training peers | Trained Support and CS colleagues on new features and client setups (beyond mentoring junior CSMs) | Confirmed by Kfir 2026-09-30 (Gorgias) |
+| Intercom Fin setup | Set up Fin's content sources and its human handoff rules himself | Confirmed by Kfir 2026-09-30 (Gorgias). No Fin metric (resolution / deflection): never claim one. Still a supporting signal, not core work |
+| Activation tracking | Tracked activation / time to value for each client during onboarding | Confirmed by Kfir 2026-09-30 (Gorgias). Pairs with #5 onboarding (33%) |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -393,6 +398,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | New facts: troubleshot client integrations directly (Postman, logs, webhooks) before escalating; documented each client's configuration; trained Support/CS peers; set up Intercom Fin content sources and handoff rules; tracked activation / time to value per client; 10+ concurrent client launches. Not true: owned the Sales→CS handover; Shopify / ecommerce hands-on; a Fin resolution metric. Never claim them | Kfir (Gorgias) |
 | 2026-09-30 | Summary metrics: no repeats between summary and bullets by default (repeats waste the top of the page and recruiters notice). A repeat is allowed only when it clearly helps the CV, flagged in the draft. Replaces the "up to 3 repeats" rule | Kfir (Babylist) |
 | 2026-09-30 | New facts: subscription/multi-entry product let residents buy memberships and passes; the login fix (#8) was A/B tested too; monthly leadership update covered what shipped, what didn't work, and what changed next. Kfir chose "first PM ... owned the roadmap as the sole PM" and the 12M+ company-line opener for a roadmap-ownership JD (his call over the Level Access / Vention summary rules) | Kfir (Babylist) |
 | 2026-09-30 | New facts: A/B tests with a result; resident sign-up funnel work; resident-side numbers exist; Bewith took a transaction fee on resident payments; donations/contributions in the payment product; resident re-engagement features; owned (not only specced) SMS/WhatsApp; regular results reporting to CPO/CEO. Details: A/B test = event form (#9); sign-up funnel = login fix (#8); fee = designed how it sat on top of Stripe's; donations = GoFundMe-style feature; re-engagement = admin tools; leadership = monthly internal + client QBRs; no resident numbers available | Kfir (Babylist) |

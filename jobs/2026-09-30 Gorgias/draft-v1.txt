@@ -1,0 +1,22 @@
+Kfir Braunstein
+Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
+
+Product Manager and former Customer Success Manager with 5 years of experience in client onboarding, implementation, and adoption at a B2B2C SaaS company engaging 12M+ residents. As a CSM, owned about $2M ARR in client contracts; as PM, stayed the main client contact from launch through renewal. Uses Claude Code and Claude Cowork daily to summarize meetings, draft customer emails, and automate follow-ups.
+
+EXPERIENCE
+- Reduced customer onboarding time by 33% (9 to 6 days) by tracking activation for each new client, finding where they got stuck through interviews and usage data, then setting up event-triggered emails, in-app messages, and handoffs.
+- Ran 10+ client launches at a time from kickoff to go-live, owning each launch plan (timeline, milestones, check-ins) and each client's setup, from data mapping to integrations with city systems such as CivicPlus and Granicus.
+- Built an internal integration mapping tool to replace a manual spreadsheet process and troubleshot client integration issues in Postman, logs, and webhooks before escalating, cutting engineering integration effort from days to hours.
+- Ran discovery sessions with client teams and worked with a champion at each client to move staff, including reluctant teams, off old processes and onto the platform through trainings, office hours, and webinars.
+- Defined an internal engagement scoring system that Engineering built, tracking usage across every client to see which clients were adopting the product and which weren't, driving 18% QoQ usage growth.
+- Wrote results and usage reports for city managers and senior city leaders, ran QBRs, and reviewed each client's ticket-sales revenue to recommend changes to their future events and marketing.
+- Built CS processes from scratch, including Intercom routing and escalation rules, Intercom Fin's AI agent content and human handoff rules, and HubSpot lifecycle workflows, letting CS scale to 100+ accounts with no added headcount.
+- Documented each client's configuration for the team, created the onboarding playbook and QBR and success plan templates with the Head of CS, and trained Support and CS peers on new features and client setups.
+
+SKILLS
+Implementation: Client Onboarding, Implementation, Launch Plans, Discovery Sessions, Time to Value, Activation
+Customer Success: Adoption, Change Management, Client Champions, QBRs, Renewals, Churn Prevention, Account Plans
+Integrations: APIs, Postman, Webhooks, Data Mapping, SQL, Integration Troubleshooting, API Documentation
+Enablement: Playbooks, Knowledge Base, Customer Training, Webinars, Peer Training, Documentation
+Helpdesk & CS Tools: Intercom, AI Agent Deployment (Intercom Fin), HubSpot, Jam.dev, ClickUp, Confluence, Figma
+AI Tools: Claude, Claude Code, Claude Cowork, ChatGPT, Prompt Engineering, AI-assisted Workflows

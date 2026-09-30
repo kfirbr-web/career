@@ -13,7 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
-| 2026-09-29 | TMC (consultancy; client unnamed) | PM, Data & Analytics (same role as People Force below; location Unknown) | Stretch (reuse of People Force) | PM_TMC (draft, reuse) | Interested | Kfir approves draft; ask both agencies for the client name before applying twice; send posting link | `2026-09-29 TMC DataAnalytics/` |
+| 2026-09-29 | TMC (consultancy; client unnamed) | PM, Data & Analytics (same role as People Force below; location Unknown) | Stretch (reuse of People Force) | PM_TMC | Interested | Kfir reviews the Doc, exports PDF, applies; ask both agencies for the client name before applying twice; send posting link | `2026-09-29 TMC DataAnalytics/` |
 | 2026-09-29 | People Force (agency; client unnamed) | Senior PM, Data & Analytics (12-mo contract; hybrid Montreal 3 days/wk; likely the skipped LinkedIn 4469485077) | Stretch (was Skip earlier today; Kfir overrode) | PM_PeopleForce (draft v1) | Interested | Kfir approves draft v1; send posting link | `2026-09-29 PeopleForce DataAnalytics/` |
 | 2026-09-29 | Leyton | Business Transformation & Product Manager (location Unknown; bilingual JD, likely Montreal; FR preferred) | Stretch | PM_Leyton (draft v1) | Interested | Kfir approves draft v1; send posting link | `2026-09-29 Leyton/` |
 | 2026-09-29 | Sadie (Valsoft) | Product Owner (AI voice agent for restaurants/hotels; Montreal per listing) | Apply | PM_Sadie | Interested | Kfir applies (link in notes) | `2026-09-29 Sadie/` |

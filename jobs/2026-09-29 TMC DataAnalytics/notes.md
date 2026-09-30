@@ -27,7 +27,9 @@ representation conflict.
 
 ## CV
 - **Track / base:** PM master (`cv/master-PM.md`)
-- **Tailored copy:** pending approval (`Kfir_Braunstein_PM_TMC`)
+- **Tailored copy:** [Kfir_Braunstein_PM_TMC](https://docs.google.com/document/d/1gSPVFimoG2Z8bwTS6FTBYCXEOvAxAGM5LFlOMUa8hXg/edit)
+  (Google Doc; source .docx in this folder, built on the Sadie build of the Jerry V2 layout). One page in Google's
+  PDF export (last line 749pt; same as Sadie); every Skills row one line.
 - **Draft (reuse of People Force draft v1):** the People Force draft text was never saved (no Doc in Drive,
   not in the repo), so it was rebuilt from its change list and current summary rules:
   - Summary: sole PM for the full platform (roadmap, vendors, support, contract compliance); systems built;
@@ -37,7 +39,10 @@ representation conflict.
     Dropped: #5 onboarding (33%), #3 mobile, #8 login.
   - Skills: Vendors & Contracts and Operations & Support rows; Linear, Loveable and the AI row out;
     Excel and PowerPoint added.
-- Once approved, the same text can also serve People Force (one Doc per agency name).
+- Approved as is by Kfir (2026-09-30). Build trims to fit one page (first export ran to 2 pages): #2 dropped
+  "making client data more reliable and"; #15 + #13 dropped "end to end" and "a manual spreadsheet process" →
+  "manual spreadsheets"; Vendors & Contracts row dropped "Change Requests".
+- The same text can also serve People Force (one Doc per agency name).
 
 ## Cover note
 None
@@ -50,3 +55,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-29 | Flagged as the People Force D&A role; Kfir: reuse. Draft sent for approval |
+| 2026-09-30 | Kfir approved the draft. Built as a Google Doc (one page after 3 small trims); link above |

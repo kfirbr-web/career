@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-09-30 | Aylo | Product Owner, Payment Services (payouts/remittance; Montréal, hybrid) | Apply | PM_Aylo (draft) | Interested | Kfir approves draft; build Doc | `2026-09-30 Aylo PaymentServices/` |
 | 2026-09-29 | TMC (consultancy; client unnamed) | PM, Data & Analytics (same role as People Force below; location Unknown) | Stretch (reuse of People Force) | PM_TMC | Interested | Kfir reviews the Doc, exports PDF, applies; ask both agencies for the client name before applying twice; send posting link | `2026-09-29 TMC DataAnalytics/` |
 | 2026-09-29 | People Force (agency; client unnamed) | Senior PM, Data & Analytics (12-mo contract; hybrid Montreal 3 days/wk; likely the skipped LinkedIn 4469485077) | Stretch (was Skip earlier today; Kfir overrode) | PM_PeopleForce | Interested | Kfir reviews CV and applies; send posting link | `2026-09-29 PeopleForce DataAnalytics/` |
 | 2026-09-29 | Leyton | Business Transformation & Product Manager (location Unknown; bilingual JD, likely Montreal; FR preferred) | Stretch | PM_Leyton | Interested | Kfir reviews CV and applies; send posting link | `2026-09-29 Leyton/` |
@@ -40,7 +41,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 | 2026-07-23 | GoTo | ? | Apply | PM_GoTo (moved forward) | Rejected: final round | — | — |
 | 2026-07-06 | Autodesk | Operations Manager, Platform Product Teams | Apply | PMO_Autodesk | Screen (recruiter) | ? | — |
 | 2026-07-06 | RBC | PM/BA hybrid, Capital Markets (QTS/RAMPP), contract | Apply | ? | Screen | ? | — |
-| 2026-07-06 | ? (adult platform) | Search & Recommendation PM | Apply | ? | Screen (recruiter) | ? | — |
+| 2026-07-06 | Aylo? (adult platform; Kfir 2026-09-30: applied to Aylo before, different role) | Search & Recommendation PM | Apply | ? | Screen (recruiter) | ? | — |
 | 2026-06-16 | Botpress | ? | Apply | PM_Botpress (moved forward) | Rejected: final round | — | — |
 | ≤2026-07 | Wealthsimple | ? | Apply | ? | Interview? (prep referenced) | ? | — |
 

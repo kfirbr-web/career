@@ -219,6 +219,7 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Change management | Helped client teams move off old processes onto the platform, including reluctant staff | `PMEM` (MindBridge) |
 | Pushback on leadership | Pushed back on internal C-level pressure to prioritize features over infrastructure readiness | `PMEM`. Internal leadership, not clients |
 | Bulk actions | Specced bulk action capabilities inside the CRM/API data model work (#2); fold in when a JD signals bulk actions | `PMEM` |
+| Accessibility QA | Owned accessibility QA based on results from an external accessibility reviewer, and collected accessibility feedback from clients | Confirmed by Kfir 2026-09-30 (Level Access). Say "accessibility QA" / "external accessibility reviewer"; don't name a standard (WCAG, ADA, AODA, 508) or claim remediation outcomes until confirmed |
 | QA before release | Tested new features hands-on in staging before release and logged bugs for Engineering (Jam.dev) | Confirmed by Kfir 2026-09-29 (Claio). OK to say "QA testing" / "tested in staging" |
 | Customer content | Wrote knowledge base articles, user guides, FAQs, and release notes, and recorded short video tutorials for clients | Confirmed by Kfir 2026-09-29 (Claio). OK on CVs |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
@@ -367,6 +368,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | New fact: owned accessibility QA from an external reviewer's findings and collected client accessibility feedback. No named standard. No data science team at Bewith: never claim data science partnership | Kfir (Level Access) |
 | 2026-09-29 | Summary recipe: JD's 2-3 core areas → 2-3 named systems built → 2-3 headline metrics (may repeat bullets) → optional delivery line; 3-4 lines | Kfir |
 | 2026-09-29 | Summaries carry substance: name the concrete systems Kfir built (billing/payments, integrations, access, automation, data model) and end with 2-3 headline metrics. Generic "works between X and Y" lines are too thin. 2-3 tight sentences (replaces the 2-sentence/40-word rule logged earlier the same day). Summary metrics may repeat bullet metrics (Kfir chose this; bullets still never repeat a metric among themselves) | Kfir (Leyton, pointing at older summaries he preferred) |
 | 2026-09-29 | Summary is rewritten for every JD: sentence 1 = the JD's top objective, plus a recruiter hook; opener never repeats the company line | Kfir |

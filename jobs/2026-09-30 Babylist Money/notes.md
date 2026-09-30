@@ -51,3 +51,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-09-30 | Vetted (Stretch); listing live on Greenhouse; gap questions sent to Kfir before draft 1 |
+| 2026-09-30 | Kfir: yes to A/B tests with a result, resident sign-up funnel, resident-side numbers, transaction fee, donations/contributions, resident re-engagement, owned SMS/WhatsApp, regular leadership updates. Logged in career-context; asked for the specifics |

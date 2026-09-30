@@ -235,9 +235,16 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Client outcome reports | Wrote results / usage reports for clients, beyond QBRs and the activity dashboard | Confirmed by Kfir 2026-09-30 (nymble) |
 | European clients | Worked directly with European clients across time zones (not only North America) | Confirmed by Kfir 2026-09-30 (nymble) |
 | Presented at industry events | Presented or ran the booth at industry events, beyond attending with Sales | Confirmed by Kfir 2026-09-30 (nymble). Which events [TODO]; still no leads-generated claims |
-| SMS and WhatsApp messaging | Bewith sent SMS and WhatsApp messages to users; Kfir owned or specced it (ties to the Meta relationship, #15) | Confirmed by Kfir 2026-09-30 (nymble). Say "specced" until Kfir confirms he owned it |
+| SMS and WhatsApp messaging | Bewith sent SMS and WhatsApp messages to users; Kfir owned it (ties to the Meta relationship, #15) | Confirmed by Kfir 2026-09-30 (nymble); **owned** confirmed 2026-09-30 (Babylist): "owned" OK |
 | Health and wellness clients | Some Bewith clients or programs were health, fitness, or wellness related (e.g. recreation centers) | Confirmed by Kfir 2026-09-30 (nymble). Adjacency only: never claim health tech, clinical, or patient experience |
 | Travel | Fine with occasional travel for client meetings and events | Kfir 2026-09-30 (nymble) |
+| A/B tests | Ran A/B tests at Bewith with a measured result | Confirmed by Kfir 2026-09-30 (Babylist). Which test and what it moved [TODO]; no numbers until given |
+| Resident sign-up funnel | Worked on getting residents (end consumers) to sign up, register, and buy tickets, not only client admins | Confirmed by Kfir 2026-09-30 (Babylist) |
+| Resident-side numbers | Has real numbers for the resident-facing app/site (downloads, registrations, tickets sold) | Confirmed by Kfir 2026-09-30 (Babylist). The numbers themselves [TODO]; until given, only 12M+ residents engaged (N13) |
+| Transaction fee | Bewith earned a platform/transaction fee on resident payments, and Kfir worked on it | Confirmed by Kfir 2026-09-30 (Babylist). Fee size / revenue [TODO]; pricing ceiling still applies (recommended, never set) |
+| Donations / contributions | The payment product let residents donate or contribute money to an organization or cause, not only buy tickets | Confirmed by Kfir 2026-09-30 (Babylist) |
+| Resident re-engagement | Built features that brought residents back: reminders, recurring or seasonal events, notifications | Confirmed by Kfir 2026-09-30 (Babylist). Which ones and any result [TODO] |
+| Leadership reporting | Reported product results (wins, misses, learnings) to the CPO/CEO on a set cadence | Confirmed by Kfir 2026-09-30 (Babylist). Cadence [TODO] |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -385,6 +392,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | New facts: A/B tests with a result; resident sign-up funnel work; resident-side numbers exist; Bewith took a transaction fee on resident payments; donations/contributions in the payment product; resident re-engagement features; owned (not only specced) SMS/WhatsApp; regular results reporting to CPO/CEO. Specific numbers still [TODO]: write none until given | Kfir (Babylist) |
 | 2026-09-30 | New facts: concurrent client launches with launch plans (timeline, milestones, check-ins); client outcome reports; European clients; presented at industry events; SMS/WhatsApp user messaging; health/wellness-related clients (adjacency only); OK to travel. Not confirmed: building pitch decks, pricing materials, or packaging offerings (only advised Sales): never claim them | Kfir (nymble) |
 | 2026-09-30 | Cover notes follow Kfir's model (`skills/cover-note.md`): header, an opening point from experience, react to the JD's specific points, proof, optional personal angle, close, sign-off; ~250-350 words. Not the old 3-4 sentence format. Phone on notes is 514-462-2234 | Kfir (Meroka) |
 | 2026-09-30 | Estimate page fit from the draft before building: run `tools/fit_check.py` on the full draft (29 content lines, 26 with Projects; ~128 chars/line) and trim in the draft. No trial-and-error builds; the PDF export is one final check | Kfir (Meroka) |

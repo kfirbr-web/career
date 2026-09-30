@@ -36,14 +36,16 @@
 ## CV
 - **Track / base:** CSM master (`cv/master-CSM.md`)
 - **Tailored copy:** not built yet (draft sent for approval 2026-09-30)
+- **Kfir's answers (2026-09-30):** worked with the Head of CS on CS team projects: yes. Client-side analysts: no. Marketing on case studies / customer stories / webinars: yes. Both yeses logged in `career-context.md` and on the page.
 - **Changes from the master (draft v1):**
-  - Summary rewritten: onboarding, adoption, renewals; systems = onboarding workflows, roles and permissions model, HubSpot CS ops layer; metrics 33%, 100%+ (summary no longer names engagement scoring, since bullet 1 does).
+  - Summary rewritten as end results: onboarding, adoption, renewals; onboarding automation, roles and permissions model, HubSpot CS ops layer; 33%, 100%+, ~$2M ARR as CSM. Doesn't open with engagement scoring (bullet 1).
   - #6: "which weren't" → "which were at risk" (health signal).
-  - #7 split: new champions + QBR bullet (client champions, QBRs for city managers and senior city leaders, ticket-sales revenue recommendations) and new setup/integrations bullet (API settings, data mapping, CivicPlus / Granicus / CivicRec integrations, technical contact).
-  - #12: adds the reusable CS assets (onboarding playbook, QBR and success plan templates).
-  - Added #10 CS/ops variant (JD asks for AI tools to automate routine work).
-  - Dropped #1 (cross-sell product launch reads as PM work; expansion is covered by #4 and the CSM 20%) and #22 (trainings moved to Skills).
-  - Skills reworked; degree line uses a hyphen, not an em dash.
+  - #7 split: champions + QBRs + Marketing case studies/webinars bullet; setup/integrations bullet (API settings, data mapping, CivicPlus / Granicus / CivicRec, technical contact).
+  - #21: "usage data" → "usage and ticket-sales data".
+  - #12: "Worked with the Head of CS" + playbook and QBR / success plan templates.
+  - Added #10 CS/ops variant (JD: AI tools to automate routine work).
+  - Dropped #1 (cross-sell launch reads as PM work; expansion covered by #4 and CSM 20%) and #22 (trainings, webinars moved to Skills / QBR bullet).
+  - Skills reworked (rows ≤ 115 chars; "Client Success" label for the JD title); degree line hyphen, not em dash.
 
 ## Cover note
 None

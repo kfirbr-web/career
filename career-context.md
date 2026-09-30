@@ -203,6 +203,8 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | How do you use AI? | Claude Code for PRDs / user stories / prototypes; Figma Make mockups; job-search app built solo | Specifics on 3 tools |
 | Implementation / white-label | Owned per-client pre-configuration: API settings, data mapping, integrations with city IT (CivicPlus, Granicus, CivicRec) | Templated the mapping |
 | Contract compliance | Checked each client's contract against actual use: seats, admins, usage, storage | Confirmed by Kfir 2026-09-28. Say "contract compliance" / "checked usage against the contract". **Also handled billing issues** (Kfir 2026-09-28, Akur8; overrides the earlier "not billing" rule). Still no invoicing ownership or revenue recognition |
+| CS team projects with the Head of CS | Worked with Bewith's Head of CS on CS team projects: the onboarding playbook, QBR and success plan templates, and CS processes | Confirmed by Kfir 2026-09-30 (ZestyAI). Say "worked with the Head of CS" |
+| Marketing on client stories | Worked with Marketing on client-facing content: customer stories, case studies, and webinars (beyond launch coordination) | Confirmed by Kfir 2026-09-30 (ZestyAI). How many / which clients [TODO] |
 | Mentoring | Mentored junior CSMs at Bewith | Confirmed by Kfir 2026-09-28 (first appeared on the Fortra CV) |
 | Client champions | Worked with internal champions at each client to drive rollout and adoption | Confirmed by Kfir 2026-09-28; OK on CVs ("client champions") |
 | Scoping custom client requests | Wrote change requests and Statements of Work (SOWs) for custom client requests | Confirmed by Kfir 2026-09-28; details (how many, typical size) [TODO] |
@@ -374,6 +376,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | New facts: worked with the Head of CS on CS team projects (playbook, templates, processes); worked with Marketing on customer stories, case studies, and webinars. No analyst-type client contacts: never claim client analysts | Kfir (ZestyAI) |
 | 2026-09-30 | Don't overuse "sole PM" / "first PM": don't add them to summaries to cover a JD signal (e.g. multi-squad); they're not worth flagging | Kfir (Level Access) |
 | 2026-09-30 | Summary and bullets split the work: the summary states strong end results only (what was built and the outcome, up to 3 headline metrics, may repeat bullets); the bullets tell the story behind each result as X-Y-Z (what he did, how, what it produced). A repeat must add something: never restate a bullet's mechanism or wording in the summary, and never open the summary with the same story as bullet 1. Resolves the metric-repeat question: repeats stay allowed | Kfir (Aylo) |
 | 2026-09-30 | Process: ask every unmatched JD duty as one yes/no batch before draft 1; JD title on the page; must-haves all mapped; summary true for all 5 years; max 8 PM bullets; Skills rows ≤ ~115 chars (see `skills/tailor-cv.md` 2b, `skills/vet-job.md` step 6) | Kfir (Aylo) |

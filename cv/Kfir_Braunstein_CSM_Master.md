@@ -44,7 +44,7 @@ Product Manager and former Customer Success Manager with 5 years of experience i
 ## Education
 
 **Bezalel Academy of Arts and Design, Jerusalem**
-B.Arch. — Bachelor of Architecture · 2015 - 2019
+B.Arch. - Bachelor of Architecture · 2015 - 2019
 
 ## Languages
 

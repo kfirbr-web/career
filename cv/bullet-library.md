@@ -314,6 +314,7 @@
 
 ## VERSION LOG
 
+- **2026-09-30 (ZestyAI, Kfir):** Degree line em dash fixed in both masters (.docx and text copies): "B.Arch. - Bachelor of Architecture". It broke the no-em-dash rule and had to be fixed by hand in every build.
 - **2026-09-30:** Summary = strong end results (may repeat up to 3 bullet metrics); bullets = the X-Y-Z story behind each result. A repeated metric must not repeat the bullet's mechanism or wording (Kfir).
 - **2026-09-30 (Aylo v3, Kfir):** #24 + internal finance-team reporting requirements; new #25 Product Owner and #26 QA/test cases/UAT; #7 PO/integrations variant without QBRs; Payments row now leads with #24; new Product Owner row.
 - **2026-09-30:** Added #24 payment solution and client payouts on Stripe Connect (Kfir confirmed, Aylo build) and a Payments / payouts row in the selection guide.

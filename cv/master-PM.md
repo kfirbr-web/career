@@ -67,7 +67,7 @@ Product Manager with 5 years of experience in platform systems, payments, and in
 
 **EDUCATION**
 Bezalel Academy of Arts and Design, Jerusalem
-B.Arch. — Bachelor of Architecture | 2015 - 2019
+B.Arch. - Bachelor of Architecture | 2015 - 2019
 
 **LANGUAGES**
 English - Fluent | Hebrew - Native | French - A2

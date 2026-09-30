@@ -1,9 +1,14 @@
-I'm applying for the Operations Builder role at Meroka.
+Kfir Braunstein
+Montreal, QC, Canada  |  514-462-2234  |  kfirbr@gmail.com
 
-At Bewith.io I built client operations from scratch. As the company's first Product Manager I set up the CS operations layer in HubSpot and Intercom that let CS scale to 100+ accounts with no added headcount, and cut onboarding time by 33% (9 to 6 days) by finding where clients got stuck and automating those steps.
+I've spent five years at a B2B2C SaaS company serving 100+ municipalities, and what decided whether our work stuck was rarely the software. It was how each city's staff actually ran their day.
 
-Most of that work started with the people using it. I met city staff at their sites and in discovery sessions, learned how each city ran its programs, then built the process with CS and the tool with Engineering. When one tool didn't get used, I fixed it until it did.
+What drew me to this role is your line that a service has to work first for the people using it before it creates any value. I learned that one directly. We released a form builder in one batch, it was slow and unclear, and our CS team went back to building forms for clients by hand. I fixed the performance and the flow, adoption recovered, and I've shipped in smaller steps ever since. "Try things, monitor results, and iterate" is a fair description of how I work.
 
-I studied architecture before product, and I now build my own tools with Claude Code, including the job-search agent I use every day.
+At Bewith.io I built client operations from scratch. I set up the CS operations layer in HubSpot and Intercom that let CS scale to 100+ accounts with no added headcount. With our Head of CS, I built the onboarding playbook and templates other CSMs used, and I cut onboarding time by 33% by finding where clients got stuck. When integrations ran on a manual spreadsheet, I turned it into an internal mapping tool and cut engineering effort from days to hours. I also met client teams at their sites and moved their staff, including the reluctant ones, off their old processes.
 
-My French is at A2 after six months of full-time study this year, and I'm continuing.
+Before product, I studied architecture at Bezalel, which is part of why a company rooted in the built world caught my attention. Today I build my own tools with Claude Code, including the job-search agent I use every day. My French is at A2 after six months of full-time study this year, and I'm continuing.
+
+Your service lines need someone who can sit with an operator, find the real problem, and turn it into a process a team can run and a product can support. That's the work I've done, and I'd like to do it at Meroka.
+
+Kfir Braunstein

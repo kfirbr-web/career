@@ -66,7 +66,7 @@ work only; no people management).
   - Assumption to confirm: the Head of CS playbook work and mentoring sit under the PM role.
 
 ## Cover note
-Draft v1 in `cover-note.txt`.
+v2 in `cover-note.txt` (rewritten to Kfir's cover-note model, 2026-09-30).
 
 ## Interview prep
 - Stories to use: HubSpot CS ops layer (scale without headcount); US integration mapping (learning a new domain
@@ -77,5 +77,6 @@ Draft v1 in `cover-note.txt`.
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-09-30 | Kfir shared his cover-note model; skill rewritten; Meroka note v2 |
 | 2026-09-30 | Kfir said build. Built ProductOps_Meroka (Google Doc, one page after build trims) |
 | 2026-09-30 | Vetted: Stretch. Kfir: no team at Peres; built world = degree only; title Product and Operations Manager; cover note yes. Draft v1 + cover note sent for approval |

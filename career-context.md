@@ -376,6 +376,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | Cover notes follow Kfir's model (`skills/cover-note.md`): header, an opening point from experience, react to the JD's specific points, proof, optional personal angle, close, sign-off; ~250-350 words. Not the old 3-4 sentence format. Phone on notes is 514-462-2234 | Kfir (Meroka) |
 | 2026-09-30 | Estimate page fit from the draft before building: run `tools/fit_check.py` on the full draft (29 content lines, 26 with Projects; ~128 chars/line) and trim in the draft. No trial-and-error builds; the PDF export is one final check | Kfir (Meroka) |
 | 2026-09-30 | New facts: worked with the Head of CS on CS team projects (playbook, templates, processes); worked with Marketing on customer stories, case studies, and webinars. No analyst-type client contacts: never claim client analysts | Kfir (ZestyAI) |
 | 2026-09-30 | Don't overuse "sole PM" / "first PM": don't add them to summaries to cover a JD signal (e.g. multi-squad); they're not worth flagging | Kfir (Level Access) |

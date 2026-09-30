@@ -1,0 +1,22 @@
+Kfir Braunstein
+Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
+
+Product Manager with 5 years of experience in B2B2C SaaS, 4 of them as PM for consumer-facing mobile and web products engaging 12M+ residents. Built resident ticketing and scanner apps for iOS and Android, sign-up and event creation flows, and membership payments, deciding what shipped from user tests and A/B tests. Trained as an architect, with 3D modeling in SketchUp and Rhino.
+
+EXPERIENCE
+- Launched the company's first mobile apps from concept to App Store and Google Play release: a resident ticketing app and a staff app that scanned tickets and QR codes with the phone camera, generating $55K+ in new revenue.
+- Owned UX and wireframing end to end for the first 2 years as PM, designing app and web screens in Figma before a designer joined, and tested flows with residents through interviews and usability sessions.
+- Set success metrics for the apps, specced push notifications, and used App Store and Google Play reviews and resident feedback to decide what each release fixed next.
+- Diagnosed a login conversion bottleneck through funnel analysis, then A/B tested a configuration and copy fix that needed no engineering work, lifting conversion from 40% to 85% and cutting related support tickets by 90%.
+- Redesigned a long one-page event creation form into a step-by-step flow and A/B tested it against the original, cutting time to first event from tens of minutes to a few minutes and reducing related support tickets.
+- Led a new subscription and multi-entry payment product that residents used to buy memberships and passes, from discovery to launch, turning client and Sales requests into clear requirements and generating $100K+ in incremental ARR.
+- Scoped and prototyped AI features, including prompt-based activity search and a generative AI text generator, building working prototypes in Claude Code and Figma Make and working through feasibility with Engineering.
+- Wrote specs, user stories, and acceptance criteria, ran sprint planning and grooming with Engineering and Design across time zones, and tested new features hands-on in staging before release.
+
+SKILLS
+Product & UX: Consumer Mobile Apps, 0-to-1, UI/UX, Wireframing, User Research, Usability Testing, Product Specs
+Experimentation & Data: A/B Testing, Success Metrics, Funnel Analysis, SQL, Google Analytics, User Feedback
+Mobile: iOS, Android, Flutter, App Store and Google Play Releases, Push Notifications, Camera Scanning
+Delivery: Agile, Scrum, Sprint Planning, User Stories, Acceptance Criteria, QA Testing, UAT
+AI & Builder Tools: Claude Code, Figma Make, Gemini, ChatGPT, Prompt Engineering, AI Prototyping
+Tools & Design: Figma, SketchUp, Rhino, AutoCAD, Postman, REST APIs, Jam.dev, ClickUp, Confluence

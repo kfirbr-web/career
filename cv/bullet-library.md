@@ -238,6 +238,16 @@
 
 ---
 
+### 24. Payment Solution and Client Payouts (NEW)
+**No metric** (client count / volume [TODO])
+**Use for:** payments, payouts, fintech, finance-facing roles
+
+> Owned the payment solution end to end, working with each client's finance team to set up how their revenue was collected and paid out to them through Stripe Connect.
+
+**Tailoring notes:** Confirmed by Kfir 2026-09-30 (Aylo). Payments adjacency only: never claim banking. Pairs well with #14 (Stripe sync) and #17 (refunds).
+
+---
+
 ## CSM ROLE — BEWITH.IO BULLETS (locked)
 
 > Increased ARR by 20% by identifying expansion opportunities and upgrading 4 entry-level clients into enterprise-size contracts through structured account reviews and product-led conversations.
@@ -266,6 +276,7 @@
 |---|---|---|---|
 | 0-to-1 / new product | Subscriptions (#1) | Mobile app (#3) | Access/permissions (#4) |
 | Platform / API / technical | CRM/API data model (#2) | Access/permissions (#4) | Onboarding (#5) |
+| Payments / payouts | Subscriptions (#1) | Payouts (#24) + Stripe sync (#14) + Refunds (#17) | Onboarding (#5) |
 | Data / fintech / aggregation | CRM/API data model (#2) | Stripe sync (#14) + Integration tool (#13) | Launch coordination (#19) |
 | Infrastructure / deployment | Subscriptions (#1) or Access compliance (#4) | Multi-region releases (#16) | — |
 | GTM / growth / activation | Onboarding (#5) | Engagement scoring (#6) | CRM/API (#2) |
@@ -282,6 +293,7 @@
 
 ## VERSION LOG
 
+- **2026-09-30:** Added #24 payment solution and client payouts on Stripe Connect (Kfir confirmed, Aylo build) and a Payments / payouts row in the selection guide.
 - **2026-09-30:** CSM master summary rewritten to the summary recipe (areas → systems → headline metrics). Kept the $2M ARR and 30+ accounts facts in separate clauses (not confirmed to be the same book).
 - **2026-09-29:** Summary recipe: sentence 1 names the JD's 2-3 core areas, sentence 2 names 2-3 systems built, end on 2-3 headline metrics (may repeat bullets), optional delivery sentence. Master and GovTech variants rewritten to it. Came from comparing Kfir's stronger summaries against the rule-built ones.
 - **2026-09-29:** Summaries may repeat up to 3 headline metrics from the bullets and should name the concrete systems built (Kfir, Leyton: preferred older summaries that did this). Bullets still never repeat a metric among themselves.

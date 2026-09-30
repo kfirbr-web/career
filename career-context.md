@@ -146,8 +146,9 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 - **No margin, cost, or profitability work** at Bewith (revenue/ARR metrics only); P&L only at Peres. `PMEM`
 - **Revenue recognition:** small-scale exposure only; keep off the CV, discuss honestly in interviews. `PMEM`
 - **Subscriptions (#1) had no business case:** never claim one in that bullet. `PMEM`
-- **Scrum:** ran the ceremonies himself (sprint planning, grooming, retros, acceptance criteria); no
-  Scrum Master or PO certification. `PMEM`
+- **Scrum:** ran the ceremonies himself (sprint planning, grooming, retros, acceptance criteria), and took
+  part in the planning ceremonies and all R&D ceremonies (Kfir, 2026-09-30, Aylo); no Scrum Master or PO
+  certification. `PMEM` Agile and Scrum OK in Skills.
 - **Insurance and fraud:** no insurance / P&C experience and no fraud work at Bewith. Frame adjacency only (regulated decisions, public funds, compliance); never claim either. (Kfir, 2026-09-29, Wawanesa)
 - No invented numbers; no "hours saved" or "% efficiency" without a source.
 
@@ -158,7 +159,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **at most 
 | Engineering / Technical | Postman, SQL, Webhooks, Chrome Extension Dev, Prompt Engineering, SSO/OAuth2/OIDC (requirements level) |
 | Customer & Support | Intercom (incl. Fin), HubSpot, Jam.dev |
 | Analytics | Google Analytics, SQL |
-| Payments | Stripe |
+| Payments | Stripe, Stripe Connect (Kfir 2026-09-30) |
 | AI / Builder | Claude Code, Claude Cowork, ChatGPT |
 | Data / Automation | Airtable |
 | Design | AutoCAD (architecture background) |
@@ -219,6 +220,7 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Change management | Helped client teams move off old processes onto the platform, including reluctant staff | `PMEM` (MindBridge) |
 | Pushback on leadership | Pushed back on internal C-level pressure to prioritize features over infrastructure readiness | `PMEM`. Internal leadership, not clients |
 | Bulk actions | Specced bulk action capabilities inside the CRM/API data model work (#2); fold in when a JD signals bulk actions | `PMEM` |
+| Payments end to end / payouts | Owned the payment solution end to end with client finance teams, with client payouts via Stripe Connect | Confirmed by Kfir 2026-09-30 (Aylo). Details (how many clients, volume, payout schedule) [TODO]; no banking claims |
 | Accessibility QA | Owned accessibility QA based on results from an external accessibility reviewer, and collected accessibility feedback from clients | Confirmed by Kfir 2026-09-30 (Level Access). Say "accessibility QA" / "external accessibility reviewer"; don't name a standard (WCAG, ADA, AODA, 508) or claim remediation outcomes until confirmed |
 | QA before release | Tested new features hands-on in staging before release and logged bugs for Engineering (Jam.dev) | Confirmed by Kfir 2026-09-29 (Claio). OK to say "QA testing" / "tested in staging" |
 | Customer content | Wrote knowledge base articles, user guides, FAQs, and release notes, and recorded short video tutorials for clients | Confirmed by Kfir 2026-09-29 (Claio). OK on CVs |
@@ -369,6 +371,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 | Date | Rule | Source |
 |---|---|---|
 | 2026-09-30 | Don't overuse "sole PM" / "first PM": don't add them to summaries to cover a JD signal (e.g. multi-squad); they're not worth flagging | Kfir (Level Access) |
+| 2026-09-30 | New facts: payment solution end to end with client finance teams; client payouts via Stripe Connect; took part in planning and all R&D ceremonies; Agile/Scrum OK in Skills | Kfir (Aylo) |
 | 2026-09-30 | New fact: owned accessibility QA from an external reviewer's findings and collected client accessibility feedback. No named standard. No data science team at Bewith: never claim data science partnership | Kfir (Level Access) |
 | 2026-09-29 | Summary recipe: JD's 2-3 core areas → 2-3 named systems built → 2-3 headline metrics (may repeat bullets) → optional delivery line; 3-4 lines | Kfir |
 | 2026-09-29 | Summaries carry substance: name the concrete systems Kfir built (billing/payments, integrations, access, automation, data model) and end with 2-3 headline metrics. Generic "works between X and Y" lines are too thin. 2-3 tight sentences (replaces the 2-sentence/40-word rule logged earlier the same day). Summary metrics may repeat bullet metrics (Kfir chose this; bullets still never repeat a metric among themselves) | Kfir (Leyton, pointing at older summaries he preferred) |

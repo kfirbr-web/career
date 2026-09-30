@@ -1,0 +1,22 @@
+Kfir Braunstein
+Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
+
+Product Manager and former Customer Success Manager with 5 years of experience in client go-lives, account operations, and issue escalation in B2B2C SaaS. Built an incident and root-cause review process, the escalation paths CS and Support worked from, and go-live readiness checklists. As a CSM, owned about $2M ARR in client contracts.
+
+EXPERIENCE
+- Ran 10+ client launches at a time from kickoff to go-live, owning each launch plan, readiness checklist, and data migration, and built an integration mapping tool that cut onboarding time by 33% (9 to 6 days).
+- Led the response to critical platform and integration incidents, pulling Engineering, Support, and CS together and keeping affected clients updated, then ran root-cause reviews and tracked each follow-up fix to closure.
+- Set up monitoring and alerts so issues surfaced before clients reported them, and troubleshot client integration issues in Postman, logs, and webhooks before escalating to Engineering.
+- Ran a hypercare period after each go-live, with extra check-ins and faster fixes, and kept a shared log of risks, actions, dependencies, and decisions for launches and large accounts.
+- Defined escalation paths for CS and Support, who decides and when an issue goes up, and built them into Intercom routing and HubSpot workflows, letting CS scale to 100+ accounts with no added headcount.
+- Ran the release process with Engineering, from the release schedule and go/no-go to staged EU and US production deployments.
+- Served as the main contact for municipal IT teams on integration and access escalations, and ran QBRs and roadmap presentations for city managers and senior city leaders.
+- Built the onboarding playbook, QBR template, and success plan template with the Head of CS, which other CSMs used, and trained Support and CS peers on new features and client setups.
+
+SKILLS
+Service Operations: Go-Live Readiness, Hypercare, Incident Response, Root-Cause Reviews, Escalations, Monitoring
+Delivery: Launch Plans, Risk & Action Logs, Data Migration, Release Management, UAT, Agile, Scrum
+Customer Success: Onboarding, Health Scoring, Account Plans, QBRs, Renewals, Stakeholder Management, Playbooks
+Technical: Integrations, APIs, Webhooks, Postman, SQL, Multi-Region Releases (EU/US), Integration Troubleshooting
+Tools: HubSpot, Intercom, ClickUp, Jam.dev, Confluence, Stripe, Figma, Excel, PowerPoint
+AI Tools: Claude, Claude Cowork, Claude Code, ChatGPT, AI-assisted Workflows

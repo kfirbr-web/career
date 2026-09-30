@@ -251,6 +251,14 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Training peers | Trained Support and CS colleagues on new features and client setups (beyond mentoring junior CSMs) | Confirmed by Kfir 2026-09-30 (Gorgias) |
 | Intercom Fin setup | Set up Fin's content sources and its human handoff rules himself | Confirmed by Kfir 2026-09-30 (Gorgias). No Fin metric (resolution / deflection): never claim one. Still a supporting signal, not core work |
 | Activation tracking | Tracked activation / time to value for each client during onboarding | Confirmed by Kfir 2026-09-30 (Gorgias). Pairs with #5 onboarding (33%) |
+| Critical incidents | Led the response to critical platform and integration incidents: pulled Engineering, Support, and CS together, ran it until fixed, and kept affected clients updated | Confirmed by Kfir 2026-09-30 (Temenos). How many / how severe [TODO]; no uptime or MTTR metric: never claim one |
+| Root-cause reviews | Ran or wrote post-incident reviews and tracked the follow-up fixes to closure | Confirmed by Kfir 2026-09-30 (Temenos) |
+| Monitoring and alerts | Defined monitoring / alerts so problems surfaced before clients reported them | Confirmed by Kfir 2026-09-30 (Temenos). Tool [TODO]: don't name one |
+| Go-live readiness and hypercare | Used go-live readiness criteria / a checklist before each client launch; ran a defined hypercare period after go-live (extra check-ins, faster fixes); moved or imported client data as part of launch | Confirmed by Kfir 2026-09-30 (Temenos). **No full dress rehearsal** beyond feature UAT: never claim one |
+| Risk and action log | Kept a visible log of risks, actions, dependencies, and decisions for launches and large accounts | Confirmed by Kfir 2026-09-30 (Temenos). Tool [TODO] |
+| Escalation paths | Defined who decides what and when an issue goes up, for CS and Support (beyond the HubSpot triggers) | Confirmed by Kfir 2026-09-30 (Temenos) |
+| Release process | Owned or improved the release process with Engineering: release schedule, go/no-go, deployment steps | Confirmed by Kfir 2026-09-30 (Temenos). Pairs with #16 staged EU/US releases. Not CI/CD engineering |
+| Client IT escalations | Main contact for client (city) IT teams on integration and access escalations | Confirmed by Kfir 2026-09-30 (Temenos) |
 | Showing clients what their data says | Reviewed each client's ticket-sales revenue and recommended changes to their future events and marketing | Performance insights for clients. Keep it separate from billing, contract compliance, and revenue recognition (Kfir, 2026-09-28) |
 
 ### Story rules
@@ -398,6 +406,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-09-30 | New facts: led critical incidents (Eng/Support/CS) with client updates; root-cause reviews tracked to closure; set up monitoring/alerts; go-live readiness checklists; client data migration at launch; hypercare after go-live; risk/action/dependency/decision log; defined escalation paths; release process (schedule, go/no-go, deployment steps); client IT escalations. Not true: a full go-live dress rehearsal beyond UAT; support SLAs or coverage hours; hosting / infrastructure work. Never claim them | Kfir (Temenos) |
 | 2026-09-30 | New facts: troubleshot client integrations directly (Postman, logs, webhooks) before escalating; documented each client's configuration; trained Support/CS peers; set up Intercom Fin content sources and handoff rules; tracked activation / time to value per client; 10+ concurrent client launches. Not true: owned the Sales→CS handover; Shopify / ecommerce hands-on; a Fin resolution metric. Never claim them | Kfir (Gorgias) |
 | 2026-09-30 | Summary metrics: no repeats between summary and bullets by default (repeats waste the top of the page and recruiters notice). A repeat is allowed only when it clearly helps the CV, flagged in the draft. Replaces the "up to 3 repeats" rule | Kfir (Babylist) |
 | 2026-09-30 | New facts: subscription/multi-entry product let residents buy memberships and passes; the login fix (#8) was A/B tested too; monthly leadership update covered what shipped, what didn't work, and what changed next. Kfir chose "first PM ... owned the roadmap as the sole PM" and the 12M+ company-line opener for a roadmap-ownership JD (his call over the Level Access / Vention summary rules) | Kfir (Babylist) |

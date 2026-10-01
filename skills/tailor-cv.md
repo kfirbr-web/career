@@ -24,7 +24,7 @@ parallel CV project; see `career-context.md` §10 standing rules.)
    standing rules below. Run `python3 tools/fit_check.py <draft>` first (budget 29 content lines;
    26 with Projects; max 8 PM bullets).
 6. **Kfir approves, then builds the file himself.** Build a Google Doc only if he says "build"
-   (mechanics in `career-context.md` §9; never a PDF).
+   (mechanics in `career-context.md` §9; never a PDF). Upload into `Job Search/Tailored CVs` (`parentId` = `16F0Y2gmPgvBcFb-TwpHK03nTEDIsbWna`), never the Drive root.
 7. Record the final text and changes in the job's `notes.md` and the tracker "CV used". If a
    change is a general improvement, update the master and the library with a Version Log line.
 

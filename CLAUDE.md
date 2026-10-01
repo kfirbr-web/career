@@ -62,5 +62,12 @@ career/
   `cv/bullet-library.md` (with a Version Log entry: date, what, why) so the next job starts better.
 - Every posting vetted goes into `jobs/tracker.md`, including skips.
 - Tailored CVs: Claude drafts, Kfir approves and builds. If he says "build", they are Google Docs in Drive named `Kfir_Braunstein_<Track>_<Company>`; link them from
-  the job's `notes.md`. **Google Docs only: never create, send or commit a PDF.** Kfir exports PDFs
+  the job's `notes.md`. They live in **Drive → Job Search** (never the Drive root):
+  | Folder | Drive id | Holds |
+  |---|---|---|
+  | Job Search | `1bD7E-kTFJQ9eNjt6VX8kmcSuqT1VE5id` | parent |
+  | Tailored CVs | `16F0Y2gmPgvBcFb-TwpHK03nTEDIsbWna` | every `Kfir_Braunstein_*` CV |
+  | Interview Prep | `1Pmpj1Iohiw9fpclzrZ1f4jNqP-h7eVsQ` | screening preps, mocks, debriefs, win sheets, story bank |
+  | Home Assignments | `1gfPp2yKLybObSliPEEWcTmwH6Ys_0bH4` | take-home briefs and submissions |
+  | Archive | `1DPNqR-j-5PO6syfeA62CEvNhut2WuP-V` | old session handoffs | **Google Docs only: never create, send or commit a PDF.** Kfir exports PDFs
   himself.

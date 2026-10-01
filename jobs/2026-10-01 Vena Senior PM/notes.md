@@ -20,7 +20,7 @@ Senior Product Manager, roadmap, product vision, MVP, prototypes, user feedback 
 ## CV
 - **Track / base:** PM master + Vena APM build (payments / finance-team bullet, event form A/B)
 - **Tailored copy (use this):** https://docs.google.com/document/d/1UWVcoFeZ-rzPfhWBAvGs1GZvaTJ2nDVLREOdDVxSKOA/edit (`Kfir_Braunstein_PM_Vena_Senior`, Kfir's project build, moved to Drive → Job Search/Tailored CVs). Edits applied 2026-10-01: launch "with Sales, CS, and Marketing"; "into a focused release, shipping with Engineering" (removed an orphan line); event form "with Design"; AI bullet "testing the prototypes with users and Engineering" (Kfir confirmed). Drive export: 1 page, every bullet 2 lines; Product Strategy skills row wraps to 2 lines (as in his original)
-- **Superseded:** https://docs.google.com/document/d/1NTadbiAXPC5Ju3nNOWXgzQldIN5qN7qgkUtxEOaZZvw/edit (`Kfir_Braunstein_SeniorPM_Vena`, my build; weaker, see Log)
+- **Superseded:** https://docs.google.com/document/d/1NTadbiAXPC5Ju3nNOWXgzQldIN5qN7qgkUtxEOaZZvw/edit (`Kfir_Braunstein_SeniorPM_Vena`, my build; weaker, see Log; moved to Drive trash 2026-10-01)
 - **Fit:** fit_check 28/29 lines; one page in preview; 6 skills rows on one line
 - **vs. the APM build:** added roadmap with CPO (bullet 1), subscription launch with Sales/CS/Marketing, CTO / microservices advice, refunds decision, AI prototypes; kept payments/finance, event form A/B, integration tool, CRM/API; dropped engagement scoring (18%), onboarding (33%), Product Owner/backlog bullet
 - **Open:** summary "set roadmap strategy with the CPO" overlaps bullet 1 (rule: no overlap with bullet 1); Services/Support in GTM not confirmed; "Senior Product Manager" not on the page (title never held)

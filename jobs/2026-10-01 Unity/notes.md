@@ -33,7 +33,8 @@
 
 ## CV
 - **Track / base:** Ops (PM master base; title TBC with Kfir)
-- **Tailored copy:** not built yet. Draft v1 in `draft-v1.txt`, fit_check: 26 lines of 26 (no spare); waiting for Kfir's approval
+- **Tailored copy:** [Kfir_Braunstein_Ops_Unity](https://docs.google.com/document/d/1Ksu08T6u_-4YtVHtIxe69cLDBTVI8cxLLbK8HA7KVBI/edit) (Google Doc). Base was the Drive build Kfir found today (not built by this repo); edited in place to match `draft-v2.txt` with Kfir's summary kept as is. Length: Kfir fixes manually (fit_check estimated 27 of 29 lines for v2).
+- **Known formatting leftovers in the Doc:** the Customer Success Manager line lost its right tab stop (the Docs API can't set tab stops), so its date is not right-aligned: copy the format from the Peres role line. Education still sits above Skills (master order is Skills, then Education).
 - **Draft v1 changes from the CSM / PM masters:** ops-facing summary; #12 (N15) leads; Fin + Help Center/KB bullet; Support-to-Product review; #5 lifecycle (33%); launch readiness + Confluence hub; metrics/reporting (18% on scoring dashboard); HubSpot/automation bullet; Projects: career agent only. Dropped for space: login fix (#8), Chrome extension / job tracker line, $2M ARR.
 
 ## Cover note
@@ -42,5 +43,6 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-01 | Kfir: summary of the Drive build is better; "I'll deal with the CV length manually, build". Doc edited to draft v2 |
 | 2026-10-01 | Kfir confirmed 12 duty facts (logged in career-context); title Product and Operations Manager; Projects yes. Draft v1 ready |
 | 2026-10-01 | Vetted: Stretch. Clarifying questions sent before drafting |

@@ -416,6 +416,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-10-01 | New tailored CVs go in Drive → Job Search/Tailored CVs, never the Drive root | Kfir |
 | 2026-10-01 | New fact (confirmed): shipped CSV payment and reconciliation exports for client finance teams, shaped to fit the tools each team already used. Also on the Drive Vena build: bulk data import/export in the CRM/API data model work | Kfir (Vena) |
 | 2026-10-01 | New facts (confirmed): ran customer interviews to validate what to build; assessed the competitive landscape; ran experiments / tested hypotheses before building; analyzed prospect, competitor and commercial data for KPIs and decisions; worked with finance users (client finance teams on payouts). Not claimed: EPM / FP&A or Vena tool use, Excel-based planning (adjacency only: payouts, finance reporting requirements, P&L at Peres). Location not an issue for Kfir | Kfir (Vena) |
 | 2026-10-01 | When Kfir asks to compare two CV versions, judge them on content against the JD only and give a verdict. Don't grade them against the style rules (those apply when building, not when comparing) | Kfir (Unity) |

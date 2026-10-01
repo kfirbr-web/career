@@ -80,7 +80,8 @@ Only after `vet-job.md` gave Apply or Stretch.
    one page, then trash the old Doc and update the link in `notes.md`.
    Build from **Jerry V2** as `Kfir_Braunstein_<Track>_<Company>` (layout rules: `career-context.md`
    §9). **Deliverable = a Google Doc in Drive, nothing else** (Kfir, 2026-09-29): upload the built
-   `.docx` to Drive converted to a Google Doc with that name, and give Kfir the link. **Never create,
+   `.docx` to Drive converted to a Google Doc with that name, **inside `Job Search/Tailored CVs`**
+   (`parentId` = `16F0Y2gmPgvBcFb-TwpHK03nTEDIsbWna`; never the Drive root), and give Kfir the link. **Never create,
    send, upload or commit a PDF**; Kfir exports the PDF himself. For the page-fit check, render a
    throwaway preview in the scratchpad only, compare it visually with Jerry V2, flag a thin or
    overflowing page, then delete it.

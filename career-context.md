@@ -415,6 +415,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-10-01 | New facts (all confirmed): ran the Help Center; set a KB upkeep process (who updates articles and when, incl. Support agents); tuned Intercom Fin from ticket data (no Fin metric); recurring Support-to-Product issue review tracked to a fix; launch readiness for Support/CS (KB update + briefing before each release); internal enablement hub (Confluence) for playbooks; defined support/CS metrics and set up recurring/automated reports; prioritized HubSpot changes with CS users and tracked tool adoption; built automations hands-on and handed larger builds to Engineering; worked with systems/data teams (Engineering). Title "Product and Operations Manager" OK for Unity | Kfir (Unity) |
 | 2026-09-30 | New facts: loved app = AllTrails; long-term = lead product for AI / visual products; most complex task = permissions and access model rebuild, enjoyed it a lot | Kfir (Leap Tools) |
 | 2026-09-30 | Summary: start from the master summary (`cv/master-PM.md` / `cv/master-CSM.md`) and adjust lightly for the JD (swap an area, a system, a metric). Full rewrites read like a list or lose the senior tone. Replaces "no cap, always rewritten in full" | Kfir (Leap Tools) |
 | 2026-09-30 | Summary: never split the years ("5 years ..., 4 of them as PM"); reads unprofessional. Keep "5 years of experience in B2B2C SaaS" and carry the angle with a verb phrase ("building consumer-facing mobile and web products") | Kfir (Leap Tools) |

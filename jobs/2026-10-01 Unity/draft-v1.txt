@@ -1,0 +1,24 @@
+Kfir Braunstein
+Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
+
+Product Manager and former CSM with 5 years of experience in support and CS operations, knowledge bases, and CRM tooling. Built the Intercom and HubSpot processes CS and Support used, set up an AI support agent, and built tools with Claude Code.
+
+EXPERIENCE
+- Built CS processes from scratch, including Intercom routing and escalation rules, HubSpot lifecycle workflows and renewal alerts, and a shared knowledge base, letting CS scale to 100+ accounts with no added headcount.
+- Set up Intercom Fin's content sources and human handoff rules and tuned them from ticket data, and ran the Help Center with a routine for who updated articles and when, including Support agents.
+- Ran a recurring review of repeated Support issues with Product, tracked each one to a fix, and gave Support a Jam.dev handoff so bugs reached Engineering with the detail needed to reproduce them.
+- Reduced customer onboarding time by 33% (9 to 6 days) by finding where customers got stuck through interviews and behavioral data, then setting up event-triggered emails, in-app messages, and internal handoffs.
+- Got Support and CS ready for each feature release by updating the knowledge base and training them on the change, and kept playbooks and templates built with the Head of CS in an internal Confluence hub.
+- Defined support and CS metrics with Engineering and set up recurring reports, including an engagement scoring dashboard built to my spec, driving 18% QoQ usage growth.
+- Prioritized HubSpot changes with CS users, tracked adoption, built automations myself, and handed larger builds to Engineering.
+
+PROJECTS
+- Career agent: Claude Code setup with written rules, one facts file, reusable skills, and a Python script that sweeps job boards for new postings.
+
+SKILLS
+Support & CS Operations: Process Design, Help Center, Knowledge Base, Escalations, Launch Readiness, Enablement
+AI & Automation: Intercom Fin, Claude Code, Claude Cowork, ChatGPT, Prompt Engineering, AI-assisted Workflows
+CRM & CS Tools: HubSpot, Intercom, Jam.dev, Confluence, ClickUp, Airtable, Figma
+Data & Reporting: Support and CS Metrics, Dashboards, Automated Reporting, SQL, Funnel Analysis, Google Analytics
+Programs: Cross-functional Delivery, Adoption, Feedback Loops, Agile, Stakeholder Management
+Integrations: APIs, Webhooks, Postman, Data Mapping

@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-10-01 | Unity (Entertainment CRO Operations) | Senior Business Operations Manager (location / pay Unknown; careers.unity.com/position/6364654 not verified live) | Stretch | pending draft | Interested | Kfir answers the duty questions; Claude drafts; confirm Canada / remote and that the posting is live | `2026-10-01 Unity/` |
 | 2026-09-30 | Leap Tools (Roomvo) | Product Manager, Consumer Apps (Canada - Remote; pay not in the pasted text, aggregators show CAD 90-140K for a Leap Tools PM role; not confirmed live) | Apply | PM_LeapTools | Interested | Kfir reviews the Doc, exports PDF, applies; send posting link (not confirmed live) | `2026-09-30 LeapTools/` |
 | 2026-09-30 | Temenos | Regional Operations Lead, Regions Bank account (location Unknown, likely US; pay Unknown; posting not found live) | Stretch | Ops_Temenos | Interested | Kfir reviews the Doc, exports PDF, applies; send posting link; confirm Canada / remote is possible before applying | `2026-09-30 Temenos/` |
 | 2026-09-30 | Medallia | Engagement Manager (Canada / remote Canada per Kfir; only live copy found was McLean, VA; pay Unknown) | Apply | CSM_Medallia | Interested | Kfir reviews the Doc, exports PDF, applies (iCIMS job 6504 link in notes) | `2026-09-30 Medallia/` |

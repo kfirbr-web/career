@@ -2,7 +2,7 @@ Orchestry - Senior Product Manager: application answers (draft, Kfir to approve)
 
 1. What attracted you to Orchestry and this role?
 
-The hardest and most interesting problem I worked on at Bewith was the roles and permissions rebuild: who can see and change what, across cities with very different org structures. I enjoyed it a lot, and it let clients expand contracts 100%+ into new departments. Orchestry works on that same problem at much larger scale, inside the Microsoft 365 tools I already use, like Teams and SharePoint. I also like that the users are IT admins. I worked directly with city IT teams as their main technical contact. The role asks for discovery, working with Engineering early and measuring results, which is how I already work.
+The roles and permissions rebuild was the hardest problem I worked on at Bewith, and I enjoyed it a lot. It let clients expand contracts 100%+ into new departments. Orchestry works on that same problem at much larger scale, inside the Microsoft 365 tools I already use, like Teams and SharePoint, for IT admins. I worked directly with city IT teams as their main technical contact, and I want to keep building for that kind of user.
 
 2. A product decision without perfect information
 

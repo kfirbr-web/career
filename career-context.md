@@ -118,6 +118,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **once on 
 - **Retired:** 35% retention. Never use. `HO` `BL`
 - **AI features (#11):** ceiling is "prototyped," never "shipped" (`BL` raised it from "proposed" on
   2026-09-28). No post-prototype outcome; don't claim human-in-the-loop requirements.
+  The prototypes were tested with users (Kfir confirmed 2026-10-01, Vena Senior).
 - **Pricing:** recommended only; never "set" or "owned." `BL`
 - **Business cases:** no dollar cost models. What's true: at sprint and quarterly planning, presented large features with their benefits, alternatives, and estimated engineering hours. "Short, high-level business cases" is OK as a label (Kfir, 2026-09-28, Akur8); never claim cost/ROI models, and never on the subscriptions bullet (#1). (Kfir, 2026-09-28)
 - **Monolith → microservices:** advised the CPO and CTO on product impact; they led. `BL`
@@ -432,6 +433,7 @@ Older rows are history, not rules, where they conflict with the standing rules a
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-10-01 | New fact (confirmed): the AI prototypes (#11) were tested with users. Kfir's Vena Senior edits: launch "with Sales, CS, and Marketing"; event form redesign "with Design"; AI prototypes "testing the prototypes with users and Engineering". My Vena Senior build was weaker than his project build: bullet 1 had no hard outcome, I swapped metric stories for metric-less JD-wording matches (~4 hard metrics vs ~7), the summary used weak hooks (12M+, $2M) and overlapped bullet 1, and I started from the APM build instead of re-ranking all stories. Fixes added to `skills/tailor-cv.md` (proof-strength rules) | Kfir (Vena Senior) |
 | 2026-10-01 | Corrections cleanup: standing rules added above; the parallel CV project's rules and Kfir's four summary picks (Aylo, Babylist, Unity, Vena) override the older summary rules. Vena summary and bullets were chosen from the Drive build | Kfir (Vena review) |
 | 2026-10-01 | New facts from the parallel project's memory (Kfir confirmed in the Vena chat): owned CSV/Excel import and export features (bulk uploads, attendee lists, financial exports); client finance teams used CSV payment/reconciliation exports tailored to fit their tools; payment reporting requirements = payment reports and reconciliation exports; the integration mapping tool synced mostly with government tech apps, not finance/ERP/accounting systems (never claim finance/ERP sync); no hands-on EPM/FP&A and no Excel budget/forecast models; represented Bewith at ICMA conferences; ran the Help Center in HubSpot; Intercom Fin: part of the team, set up content sources and handoff rules, did not own the rollout (never say "owned Fin"); no revenue tested beyond transaction fees; monolith migration covered the users and events data entities | Kfir (Vena) |
 | 2026-10-01 | New tailored CVs go in Drive → Job Search/Tailored CVs, never the Drive root | Kfir |

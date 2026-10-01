@@ -131,6 +131,8 @@
 
 > Scoped and prototyped AI features, including prompt-based activity search and a generative AI text generator, defining requirements and working through feasibility with Engineering to decide where AI would really help users and where it would just add complexity.
 
+**Variant (user testing, confirmed 2026-10-01):** "Scoped and prototyped AI features, including prompt-based activity search and a generative AI text generator, testing the prototypes with users and Engineering to decide where AI would really help and where it would just add complexity."
+
 ---
 
 ### 12. Sales / CS Enablement and Ops Tooling
@@ -315,6 +317,7 @@
 
 ## VERSION LOG
 
+- **2026-10-01 (Vena Senior, Kfir):** #11 gets a user-testing variant (Kfir confirmed the AI prototypes were tested with users). Small JD-wording edits that kept metric bullets instead of swapping stories: #1 launch "with Sales, CS, and Marketing"; event form A/B "with Design".
 - **2026-10-01 (Vena, Kfir; career review vs the parallel CV project):** Standard summary now = company-line opener + first-PM line + headline outcomes (Kfir picked it at Aylo, Babylist, Unity, Vena; replaces the "never repeat the company line" rule). No metric twice on the page: headline metrics go in the summary, bullets use other stories. #24 gets a finance-tool CSV export variant, #2 a bulk import/export variant, #13 says "government tech apps" (it never synced with finance/ERP systems). New facts: CSV/Excel import and export features; Help Center; ICMA.
 - **2026-09-30 (Babylist, Kfir):** Summary no longer repeats bullet metrics by default (repeats waste the top of the page); allowed only when it clearly helps, flagged in the draft. #8 login fix was A/B tested; #1 residents bought memberships and passes (new confirmed facts).
 - **2026-09-30 (ZestyAI, Kfir):** Degree line em dash fixed in both masters (.docx and text copies): "B.Arch. - Bachelor of Architecture". It broke the no-em-dash rule and had to be fixed by hand in every build.

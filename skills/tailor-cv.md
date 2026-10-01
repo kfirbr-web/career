@@ -36,6 +36,15 @@ parallel CV project; see `career-context.md` §10 standing rules.)
 - **Bullets:** start from the library wording and reword only for the JD signal. Structure:
   what he did → how → outcome. First bullet = the JD's top signal. No JD mirroring; plain-language
   check (would Kfir say it out loud?). No em dashes; plain hyphen in dates.
+- **Proof strength** (Vena Senior review, 2026-10-01: Kfir's build beat mine on these):
+  - Bullet 1 carries a hard outcome, not only the JD's wording.
+  - Count distinct hard metrics on the page; aim for 6+. Prefer a story with a metric over a
+    metric-less one that matches the JD's words; cover the JD wording with small edits to the metric
+    bullet ("with Design", "with Sales, CS, and Marketing").
+  - Give the summary the strongest metrics the bullets don't use (e.g. 33%, 18%), not reach numbers
+    (12M+ residents, $2M ARR). The summary never repeats bullet 1's point.
+  - Re-rank the whole library by proof strength for each JD; never start from another build.
+  - Every new claim is checked against `career-context.md` before drafting; ask if it isn't there.
 - **Ceilings** (`career-context.md` §3) always apply: AI "prototyped", pricing "recommended",
   no quota, no NPS/CSAT, integration tool never synced with finance/ERP systems, Fin "part of the
   team", and so on.
@@ -43,5 +52,5 @@ parallel CV project; see `career-context.md` §10 standing rules.)
 - **Never** change layout, fonts or page count.
 
 ## One pass before showing the draft
-Metrics unrepeated and not retired · ceilings respected · JD title and every must-have on the page ·
+Bullet 1 has a hard outcome · 6+ distinct metrics · metrics unrepeated and not retired · ceilings respected · JD title and every must-have on the page ·
 no banned words or em dashes · fit_check within budget. Fix silently; flag only what Kfir must decide.

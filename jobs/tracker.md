@@ -13,7 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
-| 2026-10-01 | Vena Solutions | Senior Product Manager (Toronto / hybrid / remote Canada; CAD 125,800-170,200) | Stretch | SeniorPM_Vena (Google Doc) | Interested | Kfir reviews the Doc, exports PDF, applies | `2026-10-01 Vena Senior PM/` |
+| 2026-10-01 | Vena Solutions | Senior Product Manager (Toronto / hybrid / remote Canada; CAD 125,800-170,200) | Stretch | PM_Vena_Senior (Google Doc, Kfir's build + 3 edits) | Interested | Kfir reviews the Doc, exports PDF, applies | `2026-10-01 Vena Senior PM/` |
 | 2026-10-01 | Vena Solutions | Associate Product Manager (Toronto HQ; hybrid / remote per aggregator, GTA preferred; CAD 90,950-123,050; Wellfound listing not opened) | Stretch | PM_Vena (Google Doc, Kfir's build) | Interested | Kfir reviews the Doc, exports PDF, applies; confirm the posting is live | `2026-10-01 Vena/` |
 | 2026-10-01 | Unity (Entertainment CRO Operations) | Senior Business Operations Manager (location / pay Unknown; careers.unity.com/position/6364654 not verified live) | Stretch | Ops_Unity (Google Doc, edited to draft v2) | Interested | Kfir fixes length and the CSM date tab, exports PDF, applies; confirm Canada / remote and that the posting is live | `2026-10-01 Unity/` |
 | 2026-09-30 | Leap Tools (Roomvo) | Product Manager, Consumer Apps (Canada - Remote; pay not in the pasted text, aggregators show CAD 90-140K for a Leap Tools PM role; not confirmed live) | Apply | PM_LeapTools | Interested | Kfir reviews the Doc, exports PDF, applies; send posting link (not confirmed live) | `2026-09-30 LeapTools/` |

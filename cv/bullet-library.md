@@ -8,6 +8,7 @@
 - **PM roles:** "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe[, engaging 12M+ residents]. Promoted to the company's first Product Manager, [one proof of the JD's top duty]. [2-3 headline outcomes for this JD, e.g. $100K+ incremental ARR, $55K+ new revenue]."
 - **CSM roles:** "Product Manager and former Customer Success Manager with 5 years of experience in B2B2C SaaS[, one angle]." (CSM master; untested.)
 - **Master / general PM:** "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents. Promoted to the company's first Product Manager and built API data models, subscription and payment workflows, and a roles and permissions model."
+- Use "startup" instead of "company" in the opener only when the JD requires startup experience (from the project's library).
 - The company line in the summary is fine. Never "5 years across…" or other clipped phrasing. The summary's headline metrics are not repeated in the bullets: swap in other stories.
 
 ---

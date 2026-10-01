@@ -35,3 +35,4 @@ None
 |---|---|
 | 2026-10-01 | Vetted: Stretch. Clarifying questions sent before draft 1 |
 | 2026-10-01 | Compared Drive build vs draft 1: Drive build wins. CSV payment/reconciliation exports confirmed as a fact |
+| 2026-10-01 | Edited the Drive Doc: summary now says "Shipped a subscription product, shaped by a competitor study, that added $100K+..." (competitive-landscape proof; still 4 lines). Login A/B swap not made |

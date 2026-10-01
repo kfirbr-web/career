@@ -415,6 +415,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-10-01 | When Kfir asks to compare two CV versions, judge them on content against the JD only and give a verdict. Don't grade them against the style rules (those apply when building, not when comparing) | Kfir (Unity) |
 | 2026-10-01 | Kfir preferred the Drive Unity build's summary (company-line opener, CSM-to-first-PM line, hands-on builder line) over the rule-built one. His pick overrides the no-company-line and no-promotion-in-summary rules, as with Aylo. Applies to this JD; not a new default | Kfir (Unity) |
 | 2026-10-01 | New facts (all confirmed): ran the Help Center; set a KB upkeep process (who updates articles and when, incl. Support agents); tuned Intercom Fin from ticket data (no Fin metric); recurring Support-to-Product issue review tracked to a fix; launch readiness for Support/CS (KB update + briefing before each release); internal enablement hub (Confluence) for playbooks; defined support/CS metrics and set up recurring/automated reports; prioritized HubSpot changes with CS users and tracked tool adoption; built automations hands-on and handed larger builds to Engineering; worked with systems/data teams (Engineering). Title "Product and Operations Manager" OK for Unity | Kfir (Unity) |
 | 2026-09-30 | New facts: loved app = AllTrails; long-term = lead product for AI / visual products; most complex task = permissions and access model rebuild, enjoyed it a lot | Kfir (Leap Tools) |

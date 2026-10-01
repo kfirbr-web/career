@@ -3,18 +3,17 @@
 Always first. Most postings should die here, before any CV work.
 
 ## JD analysis framework (mandatory for every JD) `HO`
-1. **What they're really looking for:** key requirements, and the real role underneath the title.
+1. **What they're really looking for:** key requirements, and the real role underneath the title. Write one paragraph on what the team actually builds and the deciding requirement; it drives bullet choice in `tailor-cv.md`.
 2. **Company pain points:** what problem are they hiring to solve?
 3. **Fit:** strong matches AND gaps, honestly, against confirmed facts only.
 4. **Positioning:** where to lead, how to frame gaps, which story serves this role
    (the library's Story Selection Guide).
 5. **ATS keyword coverage:** which JD terms Kfir's background covers and which it doesn't.
-6. **Clarifying questions:** go through **every** JD responsibility and must-have that has no
-   confirmed fact in `career-context.md` and ask about each one in a single yes/no batch (e.g. "test
-   cases? UAT? internal finance-team requirements? use cases?"). Unasked gaps are the main reason a
-   draft misses (Kfir, 2026-09-30, Aylo: 4 true facts never reached the page). Log every yes as a fact
-   before drafting. Ask them as buttons/multiple choice before drafting anything. Never
-   assume experience; ask.
+6. **Clarifying questions:** ask only about JD duties and must-haves with no confirmed fact in
+   `career-context.md`, in one batch (buttons / multiple choice), 3-5 questions. For a hard domain
+   gap, hunt for the nearest real bridge: which systems, files, artifacts or user groups touched that
+   domain. Never re-ask a confirmed fact. Log every yes as a fact before drafting. Never assume experience.
+   (Rule from the Vena review, 2026-10-01: the best line on that CV came from asking about CSV exports, not from re-asking confirmed items.)
 
 Never ask about role priority or how serious the application is. Kfir applies widely. `HO`
 

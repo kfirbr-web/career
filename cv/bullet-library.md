@@ -2,17 +2,13 @@
 
 **Purpose:** This is the canonical, strongest version of every recurring bullet. Before drafting a new bullet for any story below, start from this version and only reword for JD keyword fit. Do not rewrite from scratch. If a session produces a genuinely stronger version, update this file (see "Version Log" at the bottom) rather than letting the improvement live in one resume and disappear.
 
-**Rules every bullet still passes:** no metric repeated across bullets (the summary doesn't repeat bullet metrics by default; only when it clearly helps, flagged), no JD mirroring, connects to that JD's actual signal, and the plain-language check: would Kfir say this line out loud to an interviewer? No filler ("evaluating tradeoffs across scope and timeline," "scalable workflows"), no jargon ("discovery synthesis," "testable concept"), no hedges ("where possible"), no trait-style lines. No em dashes in any resume text.
+**Rules every bullet still passes:** no metric appears twice on the page (summary or one bullet, never both), no JD mirroring, connects to that JD's actual signal, and the plain-language check: would Kfir say this line out loud to an interviewer? No filler ("evaluating tradeoffs across scope and timeline," "scalable workflows"), no jargon ("discovery synthesis," "testable concept"), no hedges ("where possible"), no trait-style lines. No em dashes in any resume text.
 
-**Standard summary openers** (default only; the summary is tailored in full per JD, Kfir 2026-09-29):
-- PM roles: "Product Manager with 5 years of experience in B2B2C SaaS, [one angle from the JD's top objective]." Master default angle: "owning products from discovery through launch and adoption."
-- CSM roles: "Product Manager and former Customer Success Manager with 5 years of experience in B2B2C SaaS[, one angle]."
-- **Summary variants** (starting points; still rewritten per JD):
-  - **Master / general PM:** "Product Manager with 5 years of experience in platform systems, payments, and integrations in B2B2C SaaS. Built API data models, subscription and payment workflows, and a roles and permissions model, driving $100K+ in incremental ARR, 100%+ contract expansion, and 18% QoQ usage growth."
-  - **GovTech / platform / configurable systems:** "Product Manager with 5 years of experience in B2B2C GovTech SaaS, turning requests from many different municipalities into reusable platform features. Built a roles and permissions model for complex municipal org structures and led multi-quarter API data model changes, driving 100%+ contract expansion and 30+ contract renewals."
-  - **CSM master:** "Product Manager and former Customer Success Manager with 5 years of experience in onboarding, renewals, and account expansion in B2B2C SaaS. Built an engagement scoring system, event-triggered onboarding workflows, and a HubSpot CS ops layer, cutting onboarding time by 33%. As a CSM, owned about $2M ARR with 100% retention across 30+ accounts."
-- **Never repeat the company line** in the summary (customer base, regions, "serving 100+ municipalities…"): the Bewith.io line right below already says it. Shape copied from the CVs that moved forward (Lightspeed, Lyft, GoTo, Jerry V2).
-- Never "5 years across…" or other clipped phrasing.
+**Standard summary (2026-10-01; Kfir picked this four times and the parallel CV project holds it as a rule):**
+- **PM roles:** "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe[, engaging 12M+ residents]. Promoted to the company's first Product Manager, [one proof of the JD's top duty]. [2-3 headline outcomes for this JD, e.g. $100K+ incremental ARR, $55K+ new revenue]."
+- **CSM roles:** "Product Manager and former Customer Success Manager with 5 years of experience in B2B2C SaaS[, one angle]." (CSM master; untested.)
+- **Master / general PM:** "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents. Promoted to the company's first Product Manager and built API data models, subscription and payment workflows, and a roles and permissions model."
+- The company line in the summary is fine. Never "5 years across…" or other clipped phrasing. The summary's headline metrics are not repeated in the bullets: swap in other stories.
 
 ---
 
@@ -36,6 +32,8 @@
 **Use for:** platform/API/data roles, data architecture, enterprise expansion
 
 > Planned and delivered multi-quarter changes to the CRM and API data model, deciding what to cut or delay to hit dates, and advised the CPO and CTO on product impact during the move from a monolith to microservices, making client data more reliable and supporting 30+ contract renewals.
+
+**Variant (data/files roles; Vena 2026-10-01):** "Planned multi-quarter changes to the CRM and API data model, including bulk data import and export, and decided what to cut or delay to hit dates, supporting 30+ contract renewals."
 
 **Tailoring notes:** Migration is partnership only: Kfir advised on product impact; the CPO and CTO led. The migration clause can be dropped for brevity.
 
@@ -148,7 +146,7 @@
 **Metric:** Engineering integration effort from days to hours
 **Use for:** integrations, internal tools, ERP/data roles
 
-> Built an internal integration mapping tool to replace a manual spreadsheet process, supporting two-way data sync with client systems, validating third-party provider APIs in Postman, and cutting engineering integration effort from days to hours.
+> Built an internal integration mapping tool to replace a manual spreadsheet process, supporting two-way data sync with the government tech apps our clients used, validating third-party provider APIs in Postman, and cutting engineering integration effort from days to hours.
 
 ---
 
@@ -246,6 +244,8 @@
 
 > Owned the payment solution end to end, working with each client's finance team to set up how their revenue was collected and paid out to them through Stripe Connect, and gathering payment reporting requirements from our own finance team.
 
+**Variant (finance-tool fit; Vena 2026-10-01):** "Owned the payment solution end to end, working with each client's finance team on how revenue was collected and paid out through Stripe Connect, and shipped CSV payment and reconciliation exports shaped to fit the tools each team already used."
+
 **Tailoring notes:** Confirmed by Kfir 2026-09-30 (Aylo). Payments adjacency only: never claim banking. Pairs well with #14 (Stripe sync) and #17 (refunds).
 
 ---
@@ -314,6 +314,7 @@
 
 ## VERSION LOG
 
+- **2026-10-01 (Vena, Kfir; career review vs the parallel CV project):** Standard summary now = company-line opener + first-PM line + headline outcomes (Kfir picked it at Aylo, Babylist, Unity, Vena; replaces the "never repeat the company line" rule). No metric twice on the page: headline metrics go in the summary, bullets use other stories. #24 gets a finance-tool CSV export variant, #2 a bulk import/export variant, #13 says "government tech apps" (it never synced with finance/ERP systems). New facts: CSV/Excel import and export features; Help Center; ICMA.
 - **2026-09-30 (Babylist, Kfir):** Summary no longer repeats bullet metrics by default (repeats waste the top of the page); allowed only when it clearly helps, flagged in the draft. #8 login fix was A/B tested; #1 residents bought memberships and passes (new confirmed facts).
 - **2026-09-30 (ZestyAI, Kfir):** Degree line em dash fixed in both masters (.docx and text copies): "B.Arch. - Bachelor of Architecture". It broke the no-em-dash rule and had to be fixed by hand in every build.
 - **2026-09-30:** Summary = strong end results (may repeat up to 3 bullet metrics); bullets = the X-Y-Z story behind each result. A repeated metric must not repeat the bullet's mechanism or wording (Kfir).

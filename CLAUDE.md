@@ -54,11 +54,13 @@ career/
 ## Area rules
 - One fact lives in one place: `career-context.md`. If a CV and the facts file disagree, the facts
   file wins and the CV is wrong.
-- Every correction Kfir makes becomes a written rule in `career-context.md` → "Corrections log".
-  Same fix twice = the system failed.
+- Every correction Kfir makes is logged in `career-context.md` → "Corrections log" (History). It
+  becomes a standing rule only if he says "always / never" or it repeats on a second JD. Same fix
+  twice = the system failed. Before editing a rule, check it doesn't contradict a standing rule or a
+  summary Kfir actually picked.
 - Masters in `cv/` are never edited for a single job. General improvements go into the master and
   `cv/bullet-library.md` (with a Version Log entry: date, what, why) so the next job starts better.
 - Every posting vetted goes into `jobs/tracker.md`, including skips.
-- Tailored CVs are Google Docs in Drive named `Kfir_Braunstein_<Track>_<Company>`; link them from
+- Tailored CVs: Claude drafts, Kfir approves and builds. If he says "build", they are Google Docs in Drive named `Kfir_Braunstein_<Track>_<Company>`; link them from
   the job's `notes.md`. **Google Docs only: never create, send or commit a PDF.** Kfir exports PDFs
   himself.

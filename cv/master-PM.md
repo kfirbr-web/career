@@ -1,6 +1,6 @@
 # Master PM CV
 
-Status: **locked 2026-09-28.** Built into `Kfir_Braunstein_PM_Master.docx` on the Jerry V2
+Status: **locked 2026-09-28; summary updated 2026-10-01 (.docx and text copies).** Built into `Kfir_Braunstein_PM_Master.docx` on the Jerry V2
 layout (Calibri 10/16pt, 1cm margins, dates on the right tab stop). The text below matches the .docx;
 if they ever disagree, fix this file from the .docx.
 
@@ -12,7 +12,7 @@ Jerry V2). Bullets use the locked wording in `cv/bullet-library.md`.
 **Kfir Braunstein**
 Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
 
-Product Manager with 5 years of experience in platform systems, payments, and integrations in B2B2C SaaS. Built API data models, subscription and payment workflows, and a roles and permissions model, driving $100K+ in incremental ARR, 100%+ contract expansion, and 18% QoQ usage growth.
+Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents. Promoted to the company's first Product Manager and built API data models, subscription and payment workflows, and a roles and permissions model.
 
 **EXPERIENCE**
 
@@ -87,10 +87,7 @@ English - Fluent | Hebrew - Native | French - A2
 (subscriptions, your "greatest achievement" story), then onboarding, then permissions (shows
 platform/systems depth), then metrics/data, 0-to-1 mobile, scrappy no-engineering fix, platform/data.
 
-**Summary:** a default starting point only; every build tailors the whole summary to the JD (Kfir,
-2026-09-29). QBRs left out of the PM default: they read as account management; add them back only for
-client-facing roles (implementation, solutions, CSM). Uses the library's PM opener, and its metrics ($2M ARR, 12M+) don't repeat any bullet,
-so no metric appears twice (the winners broke that rule; the current rules don't allow it).
+**Summary (updated 2026-10-01):** company-line opener + first-PM line, same as the parallel CV project's rule and the four builds Kfir picked (Aylo, Babylist, Unity, Vena). Its metric (12M+ residents) is in no bullet. Per-JD builds move the best-fit headline metrics ($100K+, $55K+, etc.) into the summary and swap the bullet stories so no number repeats.
 
 **Fixed from the winners because they break current rules:**
 | Winner | Problem | Fix |

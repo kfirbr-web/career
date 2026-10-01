@@ -81,7 +81,7 @@ memory export (2026-09-28).
 
 ## 3. Verified numbers
 
-Locked in `BL`. Each metric belongs to **one story only** and appears **at most once in the bullets** of a resume. The summary does **not** repeat bullet metrics by default; a repeat is allowed only when it clearly helps the CV, and the draft must flag it (Kfir, 2026-09-30, Babylist). Summary-only metrics (12M+ residents, ~$2M ARR as CSM) are the normal way to carry numbers in the summary. `HO` `BL`
+Locked in `BL`. Each metric belongs to **one story only** and appears **once on the page** (summary or one bullet, never both; see §9). Put the strongest metrics for the JD in the summary and build the bullets from other stories. `HO` `BL`
 
 | # | Claim | Owner story (BL #) | Notes |
 |---|---|---|---|
@@ -231,6 +231,9 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Finance-team reporting | Gathered payment reporting requirements from Bewith's own finance team | Confirmed by Kfir 2026-09-30 (Aylo); pairs with the payouts story |
 | Payments end to end / payouts | Owned the payment solution end to end with client finance teams, with client payouts via Stripe Connect | Confirmed by Kfir 2026-09-30 (Aylo). Details (how many clients, volume, payout schedule) [TODO]; no banking claims |
 | Payment exports | Shipped CSV payment and reconciliation exports for client finance teams, shaped to fit the tools each team already used | Confirmed by Kfir 2026-10-01 (Vena). Pairs with the payouts story; no volume / client count [TODO] |
+| Excel / CSV import and export | Owned CSV/Excel import and export features: bulk uploads, attendee lists, financial exports | Confirmed by Kfir 2026-10-01 (Vena). Pairs with payment exports and the bulk actions in the CRM/API work |
+| ICMA conferences | Represented Bewith at ICMA conferences | Kfir's other project memory (nymble), 2026-10-01. Still no leads-generated claims |
+| Help Center | Set up and ran the Help Center / knowledge base in HubSpot | Kfir 2026-10-01 (Unity) |
 | Accessibility QA | Owned accessibility QA based on results from an external accessibility reviewer, and collected accessibility feedback from clients | Confirmed by Kfir 2026-09-30 (Level Access). Say "accessibility QA" / "external accessibility reviewer"; don't name a standard (WCAG, ADA, AODA, 508) or claim remediation outcomes until confirmed |
 | QA before release | Tested new features hands-on in staging before release and logged bugs for Engineering (Jam.dev) | Confirmed by Kfir 2026-09-29 (Claio). OK to say "QA testing" / "tested in staging" |
 | Customer content | Wrote knowledge base articles, user guides, FAQs, and release notes, and recorded short video tutorials for clients | Confirmed by Kfir 2026-09-29 (Claio). OK on CVs |
@@ -398,9 +401,12 @@ that moved forward.
 - After building: check page fit with a throwaway preview (scratchpad only, never saved or sent)
   compared against Jerry V2; flag a thin or overflowing page.
 
-**Summary vs bullets:** Summary and bullets split the work (Kfir, 2026-09-30): the summary states strong end results only (what was built and the outcome; metrics not already in the bullets, repeats only when they clearly help and flagged (Kfir, 2026-09-30, Babylist)); the bullets tell the story behind each result as X-Y-Z (what he did, how, what it produced). A repeat must add something: never restate a bullet's mechanism or wording in the summary, and never open the summary with the same story as bullet 1.
-**Summary:** start from the master summary and adjust lightly for the JD (Kfir, 2026-09-30, Leap Tools; replaces the 2026-09-29 full-rewrite rule); includes metrics; not generic; third-person resume
-voice; doesn't repeat bullet 1; short sentences; no JD mirroring.
+**Summary (standing rule, 2026-10-01; replaces the earlier summary rules):**
+- **Opener (default):** "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe[, engaging 12M+ residents]." Kfir picked this at Aylo, Babylist, Unity and Vena, and the parallel CV project holds it as a rule. The company line in the summary is fine.
+- **Second sentence (default):** "Promoted to the company's first Product Manager", plus one proof of the JD's top duty (e.g. roadmap with the CPO through competitive analysis and customer interviews). Drop the first-PM line only if Kfir says.
+- **Third sentence:** the 2-3 headline outcomes that fit the JD best (e.g. $100K+ incremental ARR, $55K+ new revenue). Summary states results; bullets tell the story behind other results.
+- **No metric twice on the page.** Pick the strongest metrics for the summary and build the bullets from other stories (swap bullets, don't repeat a number). Repeat only if Kfir approves.
+- Third-person resume voice; short sentences; no trait lines; no JD mirroring; no first-person; no consultant-speak.
 **Bullets:** first bullet hits the JD's top signal with a hard outcome. 5-8 PM bullets to fit one page (9 overflowed; Aylo 2026-09-30).
 **CSM section:** locked 3 bullets + promoted line. **Peres Center:** locked 2 bullets.
 
@@ -412,10 +418,22 @@ voice; doesn't repeat bullet 1; short sentences; no JD mirroring.
 
 ## 10. Corrections log
 
-Every fix Kfir makes becomes a rule here. Newest on top.
+### Standing rules (global, in force; 2026-10-01 cleanup)
+1. **Summary:** see §9. Company-line opener, first-PM line, headline metrics in the summary, no metric twice on the page.
+2. **Decode the JD first** (`skills/tailor-cv.md` step 1): one short paragraph on what the team actually builds, then the lead stories and the ones to leave out. The real signal drives bullet choice, not the master.
+3. **Gap questions:** when the JD has a hard gap, ask 3-5 questions that hunt for the nearest real bridge (which systems, which artifacts, which users touched that domain). Never re-ask a confirmed fact.
+4. **Output:** draft in chat, Kfir approves, Kfir builds the file. Build a Google Doc only when he says "build". Never a PDF.
+5. **Honesty ceilings and facts** (§3, §4) stay as written. Plain hyphen in dates; no em dashes.
+6. **Corrections from now on:** log each one in History with its job. It becomes a standing rule only if Kfir says "always / never" or the same correction repeats on a second JD. A single-JD preference is not a global rule.
+7. **Fewer checks:** one pass against §3 ceilings, banned words, no-repeat metrics, fit estimate. No long checklists.
+
+### History (per-JD corrections, newest on top)
+Older rows are history, not rules, where they conflict with the standing rules above (company-line, promotion and sole-PM summary rules, summary-metric rules, "build the Doc every time"). Facts and ceilings in these rows still hold.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-10-01 | Corrections cleanup: standing rules added above; the parallel CV project's rules and Kfir's four summary picks (Aylo, Babylist, Unity, Vena) override the older summary rules. Vena summary and bullets were chosen from the Drive build | Kfir (Vena review) |
+| 2026-10-01 | New facts from the parallel project's memory (Kfir confirmed in the Vena chat): owned CSV/Excel import and export features (bulk uploads, attendee lists, financial exports); client finance teams used CSV payment/reconciliation exports tailored to fit their tools; payment reporting requirements = payment reports and reconciliation exports; the integration mapping tool synced mostly with government tech apps, not finance/ERP/accounting systems (never claim finance/ERP sync); no hands-on EPM/FP&A and no Excel budget/forecast models; represented Bewith at ICMA conferences; ran the Help Center in HubSpot; Intercom Fin: part of the team, set up content sources and handoff rules, did not own the rollout (never say "owned Fin"); no revenue tested beyond transaction fees; monolith migration covered the users and events data entities | Kfir (Vena) |
 | 2026-10-01 | New fact (confirmed): shipped CSV payment and reconciliation exports for client finance teams, shaped to fit the tools each team already used. Also on the Drive Vena build: bulk data import/export in the CRM/API data model work | Kfir (Vena) |
 | 2026-10-01 | New facts (confirmed): ran customer interviews to validate what to build; assessed the competitive landscape; ran experiments / tested hypotheses before building; analyzed prospect, competitor and commercial data for KPIs and decisions; worked with finance users (client finance teams on payouts). Not claimed: EPM / FP&A or Vena tool use, Excel-based planning (adjacency only: payouts, finance reporting requirements, P&L at Peres). Location not an issue for Kfir | Kfir (Vena) |
 | 2026-10-01 | When Kfir asks to compare two CV versions, judge them on content against the JD only and give a verdict. Don't grade them against the style rules (those apply when building, not when comparing) | Kfir (Unity) |

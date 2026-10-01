@@ -13,6 +13,8 @@ named `Kfir_Braunstein_<Track>_<Company>`) and linked from `jobs/<folder>/notes.
 | `Kfir_Braunstein_CSM_Master.docx` | **CSM master**: start every CSM build here | Built 2026-09-28; untested |
 | `master-CSM.md` | Text of the CSM master + reasoning + swap-in bench | Reference |
 
+Reference builds Kfir actually used (Drive): read the closest recent one (Aylo, Babylist, Vena `Kfir_Braunstein_PM_<Company>`) before drafting; it shows the summary and bullet choices he picks.
+
 `bullet-library.md` is the locked, canonical version of every recurring bullet, plus the story
 selection guide. Tailoring starts from it and only rewords for JD keyword fit. A genuinely stronger
 version replaces the library entry (logged in its Version Log), never lives in one resume only.

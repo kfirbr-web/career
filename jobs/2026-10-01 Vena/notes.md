@@ -24,7 +24,8 @@ Associate Product Manager, EPM, FP&A, backlog, product strategy, customer interv
 
 ## CV
 - **Track / base:** PM / `cv/Kfir_Braunstein_PM_Master.docx`
-- **Tailored copy:** not built (waiting on clarifying answers)
+- **Tailored copy:** https://docs.google.com/document/d/1kOdcaQ3ybBPItmOPstjT-3g1PUmtZsF_xQJl6B8_IqU/edit (Kfir's Drive build, `Kfir_Braunstein_PM_Vena`)
+- **Compared with Claude draft 1 (2026-10-01):** Drive build better for this JD (CSV/finance-tool fit, explicit backlog ownership, interviews + competitive in summary, Excel). Kept from draft 1 as optional: competitor-platform clause, login A/B bullet
 
 ## Cover note
 None
@@ -33,3 +34,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-10-01 | Vetted: Stretch. Clarifying questions sent before draft 1 |
+| 2026-10-01 | Compared Drive build vs draft 1: Drive build wins. CSV payment/reconciliation exports confirmed as a fact |

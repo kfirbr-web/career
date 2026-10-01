@@ -230,6 +230,7 @@ via AI-assisted building; OK only when a JD asks. `PMEM`
 | Test cases and UAT | Wrote test cases and ran UAT with clients before release | Confirmed by Kfir 2026-09-30 (Aylo) |
 | Finance-team reporting | Gathered payment reporting requirements from Bewith's own finance team | Confirmed by Kfir 2026-09-30 (Aylo); pairs with the payouts story |
 | Payments end to end / payouts | Owned the payment solution end to end with client finance teams, with client payouts via Stripe Connect | Confirmed by Kfir 2026-09-30 (Aylo). Details (how many clients, volume, payout schedule) [TODO]; no banking claims |
+| Payment exports | Shipped CSV payment and reconciliation exports for client finance teams, shaped to fit the tools each team already used | Confirmed by Kfir 2026-10-01 (Vena). Pairs with the payouts story; no volume / client count [TODO] |
 | Accessibility QA | Owned accessibility QA based on results from an external accessibility reviewer, and collected accessibility feedback from clients | Confirmed by Kfir 2026-09-30 (Level Access). Say "accessibility QA" / "external accessibility reviewer"; don't name a standard (WCAG, ADA, AODA, 508) or claim remediation outcomes until confirmed |
 | QA before release | Tested new features hands-on in staging before release and logged bugs for Engineering (Jam.dev) | Confirmed by Kfir 2026-09-29 (Claio). OK to say "QA testing" / "tested in staging" |
 | Customer content | Wrote knowledge base articles, user guides, FAQs, and release notes, and recorded short video tutorials for clients | Confirmed by Kfir 2026-09-29 (Claio). OK on CVs |
@@ -415,6 +416,7 @@ Every fix Kfir makes becomes a rule here. Newest on top.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-10-01 | New fact (confirmed): shipped CSV payment and reconciliation exports for client finance teams, shaped to fit the tools each team already used. Also on the Drive Vena build: bulk data import/export in the CRM/API data model work | Kfir (Vena) |
 | 2026-10-01 | New facts (confirmed): ran customer interviews to validate what to build; assessed the competitive landscape; ran experiments / tested hypotheses before building; analyzed prospect, competitor and commercial data for KPIs and decisions; worked with finance users (client finance teams on payouts). Not claimed: EPM / FP&A or Vena tool use, Excel-based planning (adjacency only: payouts, finance reporting requirements, P&L at Peres). Location not an issue for Kfir | Kfir (Vena) |
 | 2026-10-01 | When Kfir asks to compare two CV versions, judge them on content against the JD only and give a verdict. Don't grade them against the style rules (those apply when building, not when comparing) | Kfir (Unity) |
 | 2026-10-01 | Kfir preferred the Drive Unity build's summary (company-line opener, CSM-to-first-PM line, hands-on builder line) over the rule-built one. His pick overrides the no-company-line and no-promotion-in-summary rules, as with Aylo. Applies to this JD; not a new default | Kfir (Unity) |

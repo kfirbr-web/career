@@ -1,0 +1,21 @@
+Kfir Braunstein
+Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
+
+Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents. Started as a CSM owning about $2M ARR, then became the company's first Product Manager, working daily with CS, Support, and Sales on the processes and tools they ran on. Builds automations and internal tools hands-on with Claude Code and Claude Cowork.
+
+EXPERIENCE
+- Built CS and support operations from scratch with the Head of CS, including Intercom routing and escalation rules, HubSpot lifecycle workflows, and onboarding playbooks, letting CS scale to 100+ accounts with no added headcount.
+- Set up Intercom Fin's content sources and human handoff rules and tuned them from ticket data, and ran the Help Center with a routine for who updated articles and when.
+- Ran a recurring review of repeated Support issues with Product and tracked each to a fix, including a login fix through configuration and copy alone that lifted conversion from 40% to 85% and cut related tickets by 90%.
+- Reduced customer onboarding time by 33% (9 to 6 days) by finding where customers got stuck through interviews and behavioral data, then automating event-based workflows and internal handoffs.
+- Got Support and CS ready for each feature release with release notes, knowledge base updates, and training, and kept playbooks and templates in an internal Confluence hub.
+- Defined support and CS metrics with Engineering and set up recurring reports, including an engagement scoring dashboard Engineering built, driving 18% QoQ usage growth.
+- Prioritized HubSpot changes with CS users, tracked adoption, and built automations and internal tools with Claude Code and Claude Cowork, handing larger builds to Engineering.
+
+SKILLS
+Business Operations: Process Redesign, Support Operations, CS Operations, Help Center, Launch Readiness, Enablement
+AI & Automation: Claude Code, Claude Cowork, Intercom Fin, ChatGPT, Prompt Engineering, AI Prototyping
+Systems & Tooling: HubSpot, Intercom, Jam.dev, ClickUp, Confluence, Airtable, Postman, REST APIs
+Data & Metrics: KPI Definition, Dashboard Requirements, Automated Reporting, SQL, Usage Analytics, Google Analytics
+Programs: Cross-functional Delivery, Feedback Loops, Change Management, Adoption, Root Cause Analysis
+Tools: Figma, Excel, PowerPoint, Monday, Slack

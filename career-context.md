@@ -171,7 +171,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **once on 
 | Testing | A/B Testing (confirmed by Kfir 2026-09-28) |
 | Office | Excel, PowerPoint, Word (confirmed by Kfir 2026-09-28) |
 
-Also confirmed: **Slack, Monday** (used regularly, `PMEM`). Loveable [TODO: confirm]. HTML/CSS: basic,
+Also confirmed: **Slack, Monday** (used regularly, `PMEM`). Loveable and Kanban confirmed (Kfir 2026-10-02). HTML/CSS: basic,
 via AI-assisted building; OK only when a JD asks. `PMEM`
 
 ---

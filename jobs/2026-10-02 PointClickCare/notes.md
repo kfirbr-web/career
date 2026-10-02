@@ -27,7 +27,7 @@ platform services, APIs, shared services, identity and access, workflow orchestr
 
 ## CV
 - **Track / base:** PM / PM master, re-ranked for platform
-- **Tailored copy:** not built
+- **Tailored copy:** https://docs.google.com/document/d/1Mn2CHAfrknuOripkYCejiuzxdGnAPwY_q-iPFj_EvX0/edit (Drive > Job Search > Tailored CVs; hybrid of Claude draft v2 and the parallel project's Drive build)
 - **Changes:** draft pending gap answers
 
 ## Cover note
@@ -37,6 +37,7 @@ None
 | Date | What happened |
 |---|---|
 | 2026-10-02 | Vetted Stretch; Kfir said rebuild; gap questions asked |
+| 2026-10-02 | Compared Claude draft with the Drive build from the parallel project; Kfir: build the hybrid. Built the Google Doc. Left out the unconfirmed 'other teams check a client's connection mapping' clause. Kanban and Loveable confirmed. Hybrid bullets: data model, integration tool, access, onboarding workflows, CS enablement (100+ accounts), roadmap + planning estimates, Claude daily use, login fix. Summary: $100K+ and $55K+ |
 
 ## Draft v2 (2026-10-02, not built; Kfir answers applied)
 ```

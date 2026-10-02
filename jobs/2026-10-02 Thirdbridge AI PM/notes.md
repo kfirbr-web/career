@@ -35,7 +35,7 @@
 
 ## CV
 - **Track / base:** PM
-- **Tailored copy:** not built
+- **Tailored copy:** https://docs.google.com/document/d/1Ybf2Gpfcn8ehhUnI9UfsBIU3MFaaWLBkHhJIqI1Q5TI/edit (Google Doc, built 2026-10-02 from the Vena Senior layout; text as in the approved draft)
 - **Gap answers (Kfir 2026-10-02):** no project budgets (Peres P&L only); no Harvest/Forecast; yes to client roadmap/plan work (no detail given); no retail/loyalty/gamification bridge beyond memberships, passes, re-engagement
 - **Draft v1 (not built):** see draft text sent in chat; metrics: summary $100K+, $55K+, 18%; bullets 33%, 40->85%/90%, 100%+
 
@@ -52,3 +52,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-10-02 | Vetted Stretch; no duplicate found; gap questions asked before draft |
+| 2026-10-02 | Kfir approved; Google Doc built in Tailored CVs |

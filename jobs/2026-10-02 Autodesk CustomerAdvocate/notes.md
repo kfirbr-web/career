@@ -39,7 +39,7 @@ EXPERIENCE
 Bewith.io | B2B2C SaaS platform serving 100+ municipalities and organizations across North America and Europe
 Product Manager	Nov 2021 - Oct 2025
 
-- Diagnosed a login conversion bottleneck through funnel analysis and Support ticket patterns, then shipped a fix through configuration and copy changes alone, lifting conversion from 40% to 85% and cutting related support tickets by 90%.
+- Doubled login conversion (40% to 85%) and cut related support tickets by 90% by finding the drop-off in the sign-up funnel and A/B testing configuration and copy changes, with no engineering work.
 - Ran a recurring Support-to-Product issue review with Support and Engineering, tracking each recurring problem to a fix, and presented large features at sprint and quarterly planning with their benefits, alternatives, and estimated engineering hours.
 - Led the response to critical platform and integration incidents, pulling Engineering, Support, and CS together and keeping affected clients updated, then ran post-incident reviews and tracked the follow-up fixes to closure.
 - Defined an internal engagement scoring system that Engineering built, then combined its usage data with CS syncs and support tickets to set success metrics and roadmap priorities, driving 18% QoQ usage growth.
@@ -90,6 +90,7 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-02 | Kfir: login bullet phrasing was weak (it is library #8, reused on many CVs); also I had added "Support ticket patterns" to the diagnosis, which is not a confirmed fact. Replaced in the Doc with the outcome-first version (option 1) |
 | 2026-10-02 | Kfir said build: Doc created. Cut "using Claude to summarize the notes" from the feedback-sessions bullet (unconfirmed). Section order follows the Vena Senior Doc (Education before Skills) |
 | 2026-10-02 | Kfir: feedback sessions monthly + QBRs; fabrication / 3D printing / CNC degree-only (not on CV); systemic-issue example saved for interview. Draft v1 shown |
 | 2026-10-02 | Vetted as Stretch; same company as Autodesk Ops Manager (PMO_Autodesk, screen) and the July Tandem build, different role. Gap questions sent to Kfir |

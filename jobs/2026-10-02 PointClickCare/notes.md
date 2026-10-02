@@ -27,7 +27,7 @@ platform services, APIs, shared services, identity and access, workflow orchestr
 
 ## CV
 - **Track / base:** PM / PM master, re-ranked for platform
-- **Tailored copy:** not built
+- **Tailored copy:** https://docs.google.com/document/d/1Mn2CHAfrknuOripkYCejiuzxdGnAPwY_q-iPFj_EvX0/edit (Drive > Job Search > Tailored CVs; hybrid of Claude draft v2 and the parallel project's Drive build)
 - **Changes:** draft pending gap answers
 
 ## Cover note
@@ -37,6 +37,8 @@ None
 | Date | What happened |
 |---|---|
 | 2026-10-02 | Vetted Stretch; Kfir said rebuild; gap questions asked |
+| 2026-10-02 | Kfir: never said he advised on the monolith to microservices move; clause removed from the Doc and notes |
+| 2026-10-02 | Compared Claude draft with the Drive build from the parallel project; Kfir: build the hybrid. Built the Google Doc. Left out the unconfirmed 'other teams check a client's connection mapping' clause. Kanban and Loveable confirmed. Hybrid bullets: data model, integration tool, access, onboarding workflows, CS enablement (100+ accounts), roadmap + planning estimates, Claude daily use, login fix. Summary: $100K+ and $55K+ |
 
 ## Draft v2 (2026-10-02, not built; Kfir answers applied)
 ```
@@ -46,7 +48,7 @@ Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
 Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe. Promoted to the company's first Product Manager and set roadmap strategy with the CPO through competitive analysis and customer interviews. Delivered $100K+ in incremental ARR with a subscription and payments product and $55K+ in new revenue with the company's first mobile apps.
 
 - Owned client access setup from provisioning to role assignment, turning complex municipal org structures into a roles and permissions model with admin controls and an audit trail, enabling 100%+ contract expansion into new departments.
-- Planned and delivered multi-quarter changes to the CRM and API data model that Support, CS, Product, and R&D teams relied on, and advised the CPO and CTO on the monolith to microservices move, supporting 30+ contract renewals.
+- Planned and delivered multi-quarter changes to the CRM and API data model that Support, CS, Product, and R&D teams relied on, supporting 30+ contract renewals.
 - Built an internal integration mapping tool to replace a manual spreadsheet process, syncing data both ways with the government tech apps our clients used and cutting engineering integration effort from days to hours.
 - Reduced customer onboarding time by 33% (9 to 6 days) by finding where customers got stuck through interviews and behavioral data, then automating event-based workflows to get them to first value faster.
 - Diagnosed a login conversion drop through funnel analysis and fixed it with configuration and copy changes alone, with no engineering work, lifting conversion from 40% to 85% and cutting related support tickets by 90%.

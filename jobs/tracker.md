@@ -13,6 +13,7 @@ Backfilled 2026-09-28 from Drive (tailored CVs, prep docs) and *Kfir_Session_Han
 
 | Date | Company | Role | Verdict | CV used | Status | Next step | Folder |
 |---|---|---|---|---|---|---|---|
+| 2026-10-02 | PointClickCare | Senior Product Manager, Platform Services (Canada remote or hybrid Mississauga; $145-161K per snippet, currency Unknown; Lever, not verified live) | Stretch | PM_PointClickCare rebuild (draft pending; June 24 build is stale) | Interested | Kfir answers gap questions, approves draft, says "build", exports PDF, applies | `2026-10-02 PointClickCare/` |
 | 2026-10-01 | Orchestry | Senior Product Manager (M365 governance SaaS; remote-first; location / pay Unknown; posting not found live, only a Director of PM listing) | Stretch | PM_Orchestry (draft in notes; not built) | Interested | Kfir approves draft, says "build", exports PDF, applies; send posting link | `2026-10-01 Orchestry/` |
 | 2026-10-01 | Vena Solutions | Senior Product Manager (Toronto / hybrid / remote Canada; CAD 125,800-170,200) | Stretch | PM_Vena_Senior (Google Doc, Kfir's build + 3 edits) | Interested | Kfir reviews the Doc, exports PDF, applies | `2026-10-01 Vena Senior PM/` |
 | 2026-10-01 | Vena Solutions | Associate Product Manager (Toronto HQ; hybrid / remote per aggregator, GTA preferred; CAD 90,950-123,050; Wellfound listing not opened) | Stretch | PM_Vena (Google Doc, Kfir's build) | Interested | Kfir reviews the Doc, exports PDF, applies; confirm the posting is live | `2026-10-01 Vena/` |

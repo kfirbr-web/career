@@ -403,7 +403,8 @@ that moved forward.
   compared against Jerry V2; flag a thin or overflowing page.
 
 **Summary (standing rule, 2026-10-01; replaces the earlier summary rules):**
-- **Opener (default):** "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe[, engaging 12M+ residents]." Kfir picked this at Aylo, Babylist, Unity and Vena, and the parallel CV project holds it as a rule. The company line in the summary is fine.
+- **Opener (default):** "Product Manager with 5 years of experience at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe[, engaging 12M+ residents]." Kfir picked this at Aylo, Babylist, Unity and Vena, and the parallel CV project holds it as a rule. The company line in the summary is fine.
+  Add "in product and customer success roles" only when the JD gives it a benefit (see standing rule #10).
 - **Second sentence (default):** "Promoted to the company's first Product Manager", plus one proof of the JD's top duty (e.g. roadmap with the CPO through competitive analysis and customer interviews). Drop the first-PM line only if Kfir says.
 - **Third sentence:** the 2-3 headline outcomes that fit the JD best (e.g. $100K+ incremental ARR, $55K+ new revenue). Summary states results; bullets tell the story behind other results.
 - **No metric twice on the page.** Pick the strongest metrics for the summary and build the bullets from other stories (swap bullets, don't repeat a number). Repeat only if Kfir approves.
@@ -429,12 +430,14 @@ that moved forward.
 7. **Fewer checks:** one pass against §3 ceilings, banned words, no-repeat metrics, fit estimate. No long checklists.
 8. **Never mention the monolith to microservices move** in any form (advisory, migration, or the data entities it touched). Kfir 2026-10-02: "too concrete and not true". Strip it from any old CV or library text before reuse.
 9. **Professional register in bullets and summaries** (Kfir 2026-10-02, CGI: "language should be professional in the bullets"). Use decision and ownership verbs (diagnosed, pinpointed, determined, briefed, presented, owned; led only where true). Avoid casual phrasing such as "to find where they got stuck", "would really help", "explained X to", "found a ...", "served as", "supported ... with demos". Professional is not jargon: plain words, no filler, no inflated claims; ceilings still apply. Applies to every CV and level.
+10. **Customer success in the PM summary only when the JD benefits** (Kfir 2026-10-02, CGI). Default PM opener: "Product Manager with 5 years of experience at a B2B2C SaaS company serving ...". Add "in product and customer success roles" only for CSM, implementation, solutions, client-facing or account-heavy PM, ops, or JDs that state customer-relationship duties. The promotion line and the CSM section already carry the history. Replaces the four-pick default; the CSM master keeps "former Customer Success Manager".
 
 ### History (per-JD corrections, newest on top)
 Older rows are history, not rules, where they conflict with the standing rules above (company-line, promotion and sole-PM summary rules, summary-metric rules, "build the Doc every time"). Facts and ceilings in these rows still hold.
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-10-02 | PM summary: drop "product and customer success roles" by default; include only when the JD benefits. Now standing rule #10. PM master, library and master-PM updated. CGI was submitted with the old opener (client-facing role, kept on purpose) | Kfir (CGI Innovation Centre Lead) |
 | 2026-10-02 | CGI build read junior (casual phrasings). Kfir made it a standing rule: professional register in bullets (standing rule #9 above). Rewrites applied to the CGI Doc, the library (#5, #7, #11) and `skills/tailor-cv.md` | Kfir (CGI Innovation Centre Lead) |
 | 2026-10-02 | New facts (confirmed): facilitated ideation / design-thinking style workshops (journey mapping, prioritization sessions) with clients and internal teams; explained what AI can and cannot do to CS, Support, and client teams. Not true: AI governance / privacy / security work; Business Model Canvas; impact/effort scoring frameworks; prospect demos beyond Sales support (#18). Never claim them. Copilot, IoT, RPA, blockchain not confirmed. CGI Innovation Centre Lead vetted Stretch; French "excellent" required vs A2 is the main risk | Kfir (CGI Innovation Centre Lead) |
 | 2026-10-02 | Login fix (#8): Kfir's own wording says the drop-off was found from Support tickets and funnel data (confirmed by his edit), fixed with configuration and copy changes alone. The bare #8 line reads small and appears on many CVs; he wants bullets that read professional, not casual ("pulling teams together") | Kfir (Autodesk Customer Advocate) |

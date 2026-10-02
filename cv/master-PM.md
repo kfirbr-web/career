@@ -12,7 +12,7 @@ Jerry V2). Bullets use the locked wording in `cv/bullet-library.md`.
 **Kfir Braunstein**
 Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
 
-Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents. Promoted to the company's first Product Manager and built API data models, subscription and payment workflows, and a roles and permissions model.
+Product Manager with 5 years of experience at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents. Promoted to the company's first Product Manager and built API data models, subscription and payment workflows, and a roles and permissions model.
 
 **EXPERIENCE**
 

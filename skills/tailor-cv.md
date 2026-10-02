@@ -29,7 +29,7 @@ parallel CV project; see `career-context.md` §10 standing rules.)
    change is a general improvement, update the master and the library with a Version Log line.
 
 ## Standing rules (summary, bullets)
-- **Summary** (`career-context.md` §9): company-line opener, "Promoted to the company's first
+- **Summary** (`career-context.md` §9): company-line opener (no "customer success roles" unless the JD benefits; standing rule #10), "Promoted to the company's first
   Product Manager" plus one proof of the JD's top duty, then the 2-3 headline outcomes that fit this
   JD. Third-person, short sentences, no trait lines, no JD mirroring.
 - **No metric twice on the page.** Strongest metrics in the summary; bullets use other stories.

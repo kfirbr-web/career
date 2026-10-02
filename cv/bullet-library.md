@@ -5,9 +5,10 @@
 **Rules every bullet still passes:** no metric appears twice on the page (summary or one bullet, never both), no JD mirroring, connects to that JD's actual signal, and the plain-language check: would Kfir say this line out loud to an interviewer? No filler ("evaluating tradeoffs across scope and timeline," "scalable workflows"), no jargon ("discovery synthesis," "testable concept"), no hedges ("where possible"), no trait-style lines. No em dashes in any resume text.
 
 **Standard summary (2026-10-01; Kfir picked this four times and the parallel CV project holds it as a rule):**
-- **PM roles:** "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe[, engaging 12M+ residents]. Promoted to the company's first Product Manager, [one proof of the JD's top duty]. [2-3 headline outcomes for this JD, e.g. $100K+ incremental ARR, $55K+ new revenue]."
+- **PM roles (default):** "Product Manager with 5 years of experience at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe[, engaging 12M+ residents]. Promoted to the company's first Product Manager, [one proof of the JD's top duty]. [2-3 headline outcomes for this JD, e.g. $100K+ incremental ARR, $55K+ new revenue]."
+- **Add "in product and customer success roles" to the PM opener only when the JD gives it a benefit** (CSM, implementation, solutions, client-facing or account-heavy PM, ops, stated customer-relationship duties). Standing rule #10, Kfir 2026-10-02.
 - **CSM roles:** "Product Manager and former Customer Success Manager with 5 years of experience in B2B2C SaaS[, one angle]." (CSM master; untested.)
-- **Master / general PM:** "Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents. Promoted to the company's first Product Manager and built API data models, subscription and payment workflows, and a roles and permissions model."
+- **Master / general PM:** "Product Manager with 5 years of experience at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe, engaging 12M+ residents. Promoted to the company's first Product Manager and built API data models, subscription and payment workflows, and a roles and permissions model."
 - Use "startup" instead of "company" in the opener only when the JD requires startup experience (from the project's library).
 - The company line in the summary is fine. Never "5 years across…" or other clipped phrasing. The summary's headline metrics are not repeated in the bullets: swap in other stories.
 
@@ -317,6 +318,8 @@
 ---
 
 ## VERSION LOG
+
+- **2026-10-02 (CGI, Kfir):** PM summary opener no longer says "in product and customer success roles" by default; add it only when the JD benefits from customer-facing experience (career-context rule #10). PM master (.docx and both text copies) updated. The CSM master keeps "former Customer Success Manager".
 
 - **2026-10-02 (CGI, Kfir):** Professional register is now a standing rule (career-context rule #9). #5, #7 and #11 reworded ("pinpointing where customers stalled", "Acted as the primary technical contact ... presented QBRs", "determine which use cases AI would improve ... only complicate"). Check the other bullets for casual phrasing on each build.
 

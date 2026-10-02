@@ -36,7 +36,8 @@
 ## CV
 - **Track / base:** PM
 - **Tailored copy:** not built
-- **Changes (before → after):** draft pending gap answers
+- **Gap answers (Kfir 2026-10-02):** no project budgets (Peres P&L only); no Harvest/Forecast; yes to client roadmap/plan work (no detail given); no retail/loyalty/gamification bridge beyond memberships, passes, re-engagement
+- **Draft v1 (not built):** see draft text sent in chat; metrics: summary $100K+, $55K+, 18%; bullets 33%, 40->85%/90%, 100%+
 
 ## Cover note
 None

@@ -53,3 +53,4 @@ None
 |---|---|
 | 2026-10-02 | Vetted Stretch; no duplicate found; gap questions asked before draft |
 | 2026-10-02 | Kfir approved; Google Doc built in Tailored CVs |
+| 2026-10-02 | Summary opener changed to the default (no customer success phrase); Doc updated |

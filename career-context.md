@@ -437,6 +437,7 @@ Older rows are history, not rules, where they conflict with the standing rules a
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-10-02 | Thirdbridge AI PM: removed "in product and customer success roles" from the summary. Kfir: most product roles are customer facing, so client-facing duties in a PM/PO JD do not justify it. Single-JD correction so far; if it repeats, tighten standing rule #10 to CSM, implementation, account-heavy or ops roles only | Kfir (Thirdbridge) |
 | 2026-10-02 | Gap answers: no project budgets at Bewith; no Harvest or Forecast use; confirmed yes to diagnosing / planning for a client (roadmap or plan work; details not given). No retail / loyalty / gamification beyond memberships and passes, re-engagement, donations. Thirdbridge AI PM vetted Stretch (French excellent vs A2 is the main risk) | Kfir (Thirdbridge) |
 | 2026-10-02 | PM summary: drop "product and customer success roles" by default; include only when the JD benefits. Now standing rule #10. PM master, library and master-PM updated. CGI was submitted with the old opener (client-facing role, kept on purpose) | Kfir (CGI Innovation Centre Lead) |
 | 2026-10-02 | CGI build read junior (casual phrasings). Kfir made it a standing rule: professional register in bullets (standing rule #9 above). Rewrites applied to the CGI Doc, the library (#5, #7, #11) and `skills/tailor-cv.md` | Kfir (CGI Innovation Centre Lead) |

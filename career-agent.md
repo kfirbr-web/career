@@ -39,3 +39,4 @@ and runs interview prep. Drafts only — Kfir approves and sends everything.
    See `skills/vet-job.md` step 1.
 11. **Google Docs only, and only when Kfir says "build".** A built CV is a Google Doc in Drive. Never create, send,
    upload or commit a PDF; Kfir exports it himself.
+12. **Never mention the monolith to microservices move** in any CV, note or answer. Kfir 2026-10-02: not true. Never carry a claim over from the library, an old CV or a memory export unless Kfir has confirmed it; if unsure, ask.

@@ -34,11 +34,10 @@
 
 > Planned and delivered multi-quarter changes to the CRM and API data model, deciding what to cut or delay to hit dates, making client data more reliable and supporting 30+ contract renewals.
 
-**Removed 2026-10-02 (Kfir, PointClickCare):** the clause "advised the CPO and CTO on product impact during the move from a monolith to microservices". Kfir says he never said it; it was never confirmed by him. Don't use until he re-confirms.
+**NEVER mention the monolith to microservices move** in this bullet or any other (Kfir 2026-10-02: not true). It was removed from this bullet and is a standing rule.
 
 **Variant (data/files roles; Vena 2026-10-01):** "Planned multi-quarter changes to the CRM and API data model, including bulk data import and export, and decided what to cut or delay to hit dates, supporting 30+ contract renewals."
 
-**Tailoring notes:** Migration is partnership only: Kfir advised on product impact; the CPO and CTO led. The migration clause can be dropped for brevity.
 
 ---
 
@@ -319,7 +318,7 @@
 
 ## VERSION LOG
 
-- **2026-10-02 (PointClickCare, Kfir):** #2 loses the monolith to microservices advisory clause (Kfir: never said it). Other builds that carry it are unchanged; review if reused.
+- **2026-10-02 (PointClickCare, Kfir):** #2 loses the monolith to microservices clause; never mention it anywhere (Kfir: not true, too concrete). Older builds that carry it must be stripped before reuse.
 - **2026-10-01 (Vena Senior, Kfir):** #11 gets a user-testing variant (Kfir confirmed the AI prototypes were tested with users). Small JD-wording edits that kept metric bullets instead of swapping stories: #1 launch "with Sales, CS, and Marketing"; event form A/B "with Design".
 - **2026-10-01 (Vena, Kfir; career review vs the parallel CV project):** Standard summary now = company-line opener + first-PM line + headline outcomes (Kfir picked it at Aylo, Babylist, Unity, Vena; replaces the "never repeat the company line" rule). No metric twice on the page: headline metrics go in the summary, bullets use other stories. #24 gets a finance-tool CSV export variant, #2 a bulk import/export variant, #13 says "government tech apps" (it never synced with finance/ERP systems). New facts: CSV/Excel import and export features; Help Center; ICMA.
 - **2026-09-30 (Babylist, Kfir):** Summary no longer repeats bullet metrics by default (repeats waste the top of the page); allowed only when it clearly helps, flagged in the draft. #8 login fix was A/B tested; #1 residents bought memberships and passes (new confirmed facts).

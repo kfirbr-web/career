@@ -45,6 +45,7 @@ parallel CV project; see `career-context.md` §10 standing rules.)
     (12M+ residents, $2M ARR). The summary never repeats bullet 1's point.
   - Re-rank the whole library by proof strength for each JD; never start from another build.
   - Every new claim is checked against `career-context.md` before drafting; ask if it isn't there.
+- **Register** (standing rule #9, CGI 2026-10-02): professional verbs in every bullet (diagnosed, pinpointed, determined, briefed, presented, owned). No casual phrasing ("find where they got stuck", "would really help", "served as", "found a"). Reread each bullet for it before showing the draft.
 - **Ceilings** (`career-context.md` §3) always apply: AI "prototyped", pricing "recommended",
   no quota, no NPS/CSAT, integration tool never synced with finance/ERP systems, Fin "part of the
   team", and so on.
@@ -52,5 +53,5 @@ parallel CV project; see `career-context.md` §10 standing rules.)
 - **Never** change layout, fonts or page count.
 
 ## One pass before showing the draft
-Bullet 1 has a hard outcome · 6+ distinct metrics · metrics unrepeated and not retired · ceilings respected · JD title and every must-have on the page ·
+Bullet 1 has a hard outcome · professional register (rule #9) · 6+ distinct metrics · metrics unrepeated and not retired · ceilings respected · JD title and every must-have on the page ·
 no banned words or em dashes · fit_check within budget. Fix silently; flag only what Kfir must decide.

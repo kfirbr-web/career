@@ -68,7 +68,7 @@
 **Metric:** 33% reduction (9 to 6 days)
 **Use for:** almost every role; adjust the mechanism per JD
 
-> Reduced customer onboarding time by 33% (9 to 6 days) by finding where customers got stuck through interviews and behavioral data, then automating event-based workflows to get them to first value faster.
+> Reduced customer onboarding time by 33% (9 to 6 days) by pinpointing where customers stalled through interviews and behavioral data, then automating event-based workflows that brought them to first value sooner.
 
 **Variants:**
 - Self-serve: "…then building self-serve setup flows and automated event-based workflows…"
@@ -90,7 +90,7 @@
 **No metric**
 **Use for:** stakeholder communication, executive reviews, client IT
 
-> Served as the main technical contact between municipal IT teams and Engineering, and ran QBRs and roadmap presentations for client leadership.
+> Acted as the primary technical contact between municipal IT teams and Engineering, and presented QBRs and roadmaps to client leadership.
 
 **PO / integrations variant (no QBRs):** "Served as the main technical contact between municipal IT teams and Engineering, owning API documentation for client developers and turning client feature requests into scoped requirements."
 
@@ -132,7 +132,7 @@
 
 > Scoped and prototyped AI features, including prompt-based activity search and a generative AI text generator, defining requirements and working through feasibility with Engineering to decide where AI would really help users and where it would just add complexity.
 
-**Variant (user testing, confirmed 2026-10-01):** "Scoped and prototyped AI features, including prompt-based activity search and a generative AI text generator, testing the prototypes with users and Engineering to decide where AI would really help and where it would just add complexity."
+**Variant (user testing, confirmed 2026-10-01):** "Scoped and prototyped AI features, including prompt-based activity search and a generative AI text generator, testing the prototypes with users and Engineering to determine which use cases AI would improve and which it would only complicate."
 
 ---
 
@@ -317,6 +317,8 @@
 ---
 
 ## VERSION LOG
+
+- **2026-10-02 (CGI, Kfir):** Professional register is now a standing rule (career-context rule #9). #5, #7 and #11 reworded ("pinpointing where customers stalled", "Acted as the primary technical contact ... presented QBRs", "determine which use cases AI would improve ... only complicate"). Check the other bullets for casual phrasing on each build.
 
 - **2026-10-02 (PointClickCare, Kfir):** #2 loses the monolith to microservices clause; never mention it anywhere (Kfir: not true, too concrete). Older builds that carry it must be stripped before reuse.
 - **2026-10-01 (Vena Senior, Kfir):** #11 gets a user-testing variant (Kfir confirmed the AI prototypes were tested with users). Small JD-wording edits that kept metric bullets instead of swapping stories: #1 launch "with Sales, CS, and Marketing"; event form A/B "with Design".

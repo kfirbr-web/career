@@ -35,7 +35,7 @@ memory export (2026-09-28).
   tools, or process language. `HO`
 - Start from what Kfir actually did → what it produced → does it connect to the JD signal. Never
   start from JD language. `HO`
-- Plain-language check: would Kfir say this out loud to an interviewer? `BL`
+- Plain-language check: would Kfir say this out loud to an interviewer? `BL` Plain means no jargon or filler, not casual: bullets use a professional register (standing rule #9).
 - No filler ("evaluating tradeoffs across scope and timeline," "scalable workflows"), no jargon
   ("discovery synthesis," "testable concept"), no hedges ("where possible"), no trait-style lines. `BL`
 - No JD mirroring. `BL` `HO`
@@ -428,13 +428,14 @@ that moved forward.
 6. **Corrections from now on:** log each one in History with its job. It becomes a standing rule only if Kfir says "always / never" or the same correction repeats on a second JD. A single-JD preference is not a global rule.
 7. **Fewer checks:** one pass against §3 ceilings, banned words, no-repeat metrics, fit estimate. No long checklists.
 8. **Never mention the monolith to microservices move** in any form (advisory, migration, or the data entities it touched). Kfir 2026-10-02: "too concrete and not true". Strip it from any old CV or library text before reuse.
+9. **Professional register in bullets and summaries** (Kfir 2026-10-02, CGI: "language should be professional in the bullets"). Use decision and ownership verbs (diagnosed, pinpointed, determined, briefed, presented, owned; led only where true). Avoid casual phrasing such as "to find where they got stuck", "would really help", "explained X to", "found a ...", "served as", "supported ... with demos". Professional is not jargon: plain words, no filler, no inflated claims; ceilings still apply. Applies to every CV and level.
 
 ### History (per-JD corrections, newest on top)
 Older rows are history, not rules, where they conflict with the standing rules above (company-line, promotion and sole-PM summary rules, summary-metric rules, "build the Doc every time"). Facts and ceilings in these rows still hold.
 
 | Date | Rule | Source |
 |---|---|---|
-| 2026-10-02 | CGI build read junior: casual phrasings like "with clients to find where they got stuck", "would really help", "explained what AI could and could not do", "Found a login drop-off", "supported Sales with demos". For senior or consulting-facing JDs use decision and ownership verbs (diagnosed, pinpointed, determined, briefed, owned) and avoid casual verbs, while keeping plain words and no jargon. Single-JD for now; becomes a standing rule if it repeats | Kfir (CGI Innovation Centre Lead) |
+| 2026-10-02 | CGI build read junior (casual phrasings). Kfir made it a standing rule: professional register in bullets (standing rule #9 above). Rewrites applied to the CGI Doc, the library (#5, #7, #11) and `skills/tailor-cv.md` | Kfir (CGI Innovation Centre Lead) |
 | 2026-10-02 | New facts (confirmed): facilitated ideation / design-thinking style workshops (journey mapping, prioritization sessions) with clients and internal teams; explained what AI can and cannot do to CS, Support, and client teams. Not true: AI governance / privacy / security work; Business Model Canvas; impact/effort scoring frameworks; prospect demos beyond Sales support (#18). Never claim them. Copilot, IoT, RPA, blockchain not confirmed. CGI Innovation Centre Lead vetted Stretch; French "excellent" required vs A2 is the main risk | Kfir (CGI Innovation Centre Lead) |
 | 2026-10-02 | Login fix (#8): Kfir's own wording says the drop-off was found from Support tickets and funnel data (confirmed by his edit), fixed with configuration and copy changes alone. The bare #8 line reads small and appears on many CVs; he wants bullets that read professional, not casual ("pulling teams together") | Kfir (Autodesk Customer Advocate) |
 | 2026-10-02 | Monolith to microservices: never mention it in any form (Kfir: "I never said it", "too concrete and not true"). It came from the bullet library, not from him. Removed from the PointClickCare CV; now a standing rule (#8 above) and a never-claim in §3. `cv/bullet-library.md` #2 and older builds that carry it need review | Kfir (PointClickCare) |

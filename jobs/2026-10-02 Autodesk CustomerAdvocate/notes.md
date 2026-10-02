@@ -90,7 +90,7 @@ None
 ## Log
 | Date | What happened |
 |---|---|
-| 2026-10-02 | Kfir: login bullet phrasing was weak (it is library #8, reused on many CVs); also I had added "Support ticket patterns" to the diagnosis, which is not a confirmed fact. Replaced in the Doc with the outcome-first version (option 1) |
+| 2026-10-02 | Kfir: login bullet phrasing was weak (it is library #8, reused on many CVs); also I had added "Support ticket patterns" to the diagnosis, which is not a confirmed fact. Kfir edited the Doc himself: "Found residents were dropping off at login from Support tickets and funnel data, and fixed it with configuration and copy changes alone, lifting login conversion from 40% to 85% and cutting related tickets by 90%." His wording stands (it confirms Support tickets fed the diagnosis). Then tightened the Support-to-Product, incidents and release-readiness bullets |
 | 2026-10-02 | Kfir said build: Doc created. Cut "using Claude to summarize the notes" from the feedback-sessions bullet (unconfirmed). Section order follows the Vena Senior Doc (Education before Skills) |
 | 2026-10-02 | Kfir: feedback sessions monthly + QBRs; fabrication / 3D printing / CNC degree-only (not on CV); systemic-issue example saved for interview. Draft v1 shown |
 | 2026-10-02 | Vetted as Stretch; same company as Autodesk Ops Manager (PMO_Autodesk, screen) and the July Tandem build, different role. Gap questions sent to Kfir |

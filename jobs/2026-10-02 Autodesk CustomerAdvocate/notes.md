@@ -1,7 +1,7 @@
 # Autodesk — Customer Advocate, Design & Manufacturing (Customer Technical Success)
 
 ## Posting
-- **Link:** not provided (pasted JD)
+- **Link:** https://jobs.autodesk.com/careers/job/1443153529088?domain=autodesk.com&src=JB-10065&source=LinkedIn (from Kfir 2026-10-02; could not be opened from this environment, live status unverified)
 - **Checked live on:** 2026-10-02: not found live (search only surfaced other CTS roles: Technical Adoption Specialist, Customer Success Advisor D&M)
 - **Source:** pasted JD
 - **Location / remote:** Unknown
@@ -24,7 +24,7 @@
 
 ## CV
 - **Track / base:** PM (customer-intelligence angle) off the PM master
-- **Tailored copy:** draft v1 below (not built)
+- **Tailored copy:** https://docs.google.com/document/d/1q11Tsyc9pOLpOZ_VzsGjJGJdo5T85c7yGo8K4Mfvi5E/edit (Google Doc `Kfir_Braunstein_PM_Autodesk`, built 2026-10-02 from the Vena Senior Doc layout; Drive -> Job Search/Tailored CVs)
 - **Changes:** summary rewritten from the master (roadmap from tickets + interviews; $100K+ and 33% in summary); bullets re-ranked for support-data / escalation / VoC signal; Skills row 1 = Customer Intelligence; AutoCAD, SketchUp, Rhino in last Skills row only. fit_check: 29/29
 
 ### Draft v1
@@ -90,5 +90,6 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-02 | Kfir said build: Doc created. Cut "using Claude to summarize the notes" from the feedback-sessions bullet (unconfirmed). Section order follows the Vena Senior Doc (Education before Skills) |
 | 2026-10-02 | Kfir: feedback sessions monthly + QBRs; fabrication / 3D printing / CNC degree-only (not on CV); systemic-issue example saved for interview. Draft v1 shown |
 | 2026-10-02 | Vetted as Stretch; same company as Autodesk Ops Manager (PMO_Autodesk, screen) and the July Tandem build, different role. Gap questions sent to Kfir |

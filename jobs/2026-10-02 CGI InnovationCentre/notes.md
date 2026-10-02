@@ -24,7 +24,7 @@ AI use cases, generative AI, AI agents, Design Thinking, workshops, ideation, in
 
 ## CV
 - **Track / base:** PM (PM master, Innovation / AI angle)
-- **Tailored copy:** not built
+- **Tailored copy:** https://docs.google.com/document/d/1VwXha8oPNO1uxN0INvAgCWhoqkdv9gP9Km1P4YVN7WY/edit (Google Doc, built 2026-10-02 in Drive > Job Search > Tailored CVs, on the Vena Senior layout)
 - **Draft (no Projects section; fit_check with it was over by 3 lines):**
 
 ```
@@ -54,7 +54,7 @@ SKILLS
 - Innovation & Discovery: Design Thinking, User Journeys, Prototyping, Workshops, Customer Interviews, Use Cases
 - Product Strategy: Roadmapping, Prioritization, Competitive Analysis, KPIs, A/B Testing, Business Cases
 - Client Facing: QBRs, Demos, Training, Webinars, Change Management, Onboarding, Stakeholder Management
-- Agile & Delivery: Agile, Scrum, PRDs, Acceptance Criteria, UAT, Third-party Integrations
+- Agile & Delivery: Agile, Scrum, Sprint Planning, PRDs, Acceptance Criteria, UAT
 - Tools: Figma, ClickUp, Confluence, HubSpot, Intercom, Stripe, Excel, PowerPoint
 ```
 
@@ -68,3 +68,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-10-02 | Vetted Stretch, Kfir answered gap questions, draft written |
+| 2026-10-02 | Kfir said build: Google Doc created; dates and degree line set to plain hyphens |

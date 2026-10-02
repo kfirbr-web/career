@@ -121,7 +121,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **once on 
   The prototypes were tested with users (Kfir confirmed 2026-10-01, Vena Senior).
 - **Pricing:** recommended only; never "set" or "owned." `BL`
 - **Business cases:** no dollar cost models. What's true: at sprint and quarterly planning, presented large features with their benefits, alternatives, and estimated engineering hours. "Short, high-level business cases" is OK as a label (Kfir, 2026-09-28, Akur8); never claim cost/ROI models, and never on the subscriptions bullet (#1). (Kfir, 2026-09-28)
-- **Monolith → microservices:** advised the CPO and CTO on product impact; they led. `BL`
+- **Monolith → microservices:** **[CONFLICT] Kfir 2026-10-02 (PointClickCare): "I never said it" that he advised on the move.** The line (advised the CPO and CTO on product impact; they led) comes from `BL` only. Do not use it on any CV or in answers until Kfir re-confirms. Only the `PMEM` note stands: the migration covered the users and events data entities.
 - **Renewal negotiations:** supported only, never led. `BL`
 - **Quota:** never carried a quota or formal revenue target (CSM or PM). Say "owned renewals and expansion," never "quota" or "hit target." (Kfir, 2026-09-28, Akur8)
 - **Engagement scoring:** internal dashboard Engineering built to Kfir's spec (login frequency,
@@ -433,6 +433,7 @@ Older rows are history, not rules, where they conflict with the standing rules a
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-10-02 | Advising the CPO and CTO on the monolith to microservices move is not confirmed by Kfir ("I never said it"); it came from the bullet library, not from him. Removed from the PointClickCare CV; blocked in §3 until he re-confirms. `cv/bullet-library.md` #2 and older builds that carry it need review | Kfir (PointClickCare) |
 | 2026-10-02 | New facts (confirmed): CAD use (AutoCAD, SketchUp, Rhino) was degree-only, none professionally or since 2019, so never present CAD as current hands-on or a strength; never claim Fusion / Inventor. Fabrication / 3D printing / CNC use in the B.Arch. (degree only; keep off the CV). Ran monthly customer feedback sessions plus QBRs at Bewith (no advisory group claimed). Has an example of proving a Support-to-Product issue was systemic (details [TODO]). Autodesk Customer Advocate vetted Stretch | Kfir (Autodesk Customer Advocate) |
 | 2026-10-02 | New facts (confirmed, details not given): other Bewith teams built on the APIs, data model and permissions Kfir owned (internal customers: Support, CS, Product, R&D; Kfir 2026-10-02); used Design Thinking methods: user journeys and prototyping; the event-based workflows lived both in the product and in HubSpot/Intercom; owned something defined as a reusable shared capability across products (which one [TODO]). Duplicate: PointClickCare already had Drive builds (GTM 2026-05-19, PM 2026-06-24); Kfir chose rebuild | Kfir (PointClickCare) |
 | 2026-10-01 | Teams and SharePoint were light use, not a strength: never present Microsoft 365 as familiar territory or a draw in answers or summaries; keep to a Skills mention at most | Kfir (Orchestry) |

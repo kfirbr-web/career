@@ -60,5 +60,6 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-07 | Kfir confirmed security/privacy questionnaires; said he adjusts page fit himself (no cuts). Edited his Doc in place: launch with Sales, CS, and Marketing; competitive comparisons in the Sales bullet; AI prototypes tested with users and Engineering; Skills +Case Studies & Webinars |
 | 2026-10-07 | Compared Kfir's Drive build with my draft (verdict in chat) |
 | 2026-10-07 | Duplicate flagged (two older Drive builds); Kfir chose rebuild. Vetted Stretch; gap answers logged; draft in chat |

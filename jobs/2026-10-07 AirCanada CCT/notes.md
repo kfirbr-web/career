@@ -27,7 +27,7 @@ Air Canada wants someone who watches how the digital care tools (chatbot, eligib
 
 ## CV
 - **Track / base:** PM master
-- **Tailored copy:** draft below, not built
+- **Tailored copy:** https://docs.google.com/document/d/15yFoQcZNMddniIJ69szWTriU5mgxGMKHcK2ABB2uHXI/edit (Google Doc, Job Search/Tailored CVs, built 2026-10-07 as HTML import: Calibri 10pt, 1cm margins set; right tab stop for the 3 date lines must be set by hand). Text below
 - **Metrics:** summary 33%, 18% QoQ; bullets 40% to 85% / 90%, 100%+; CSM 20%, 100%, 30+ accounts
 - **Left out on purpose:** mobile, payments, subscriptions, AI scoping; no Fin metric, no ServiceNow / Jira / QuickSight / Power BI, no ITIL / PMP, no Fin conversation review
 
@@ -79,5 +79,6 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-07 | Kfir said build; Doc created in Tailored CVs |
 | 2026-10-07 | Gap answers logged; draft in chat |
 | 2026-10-07 | Vetted Stretch; no earlier Air Canada build; gap questions sent |

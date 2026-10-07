@@ -80,6 +80,7 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-07 | Kfir confirmed "defined the value proposition for different client types"; segmentation overstated, so the Doc's messaging bullet now says "matching each message to where the customer was in onboarding or adoption" and "Customer Segmentation" is out of Skills (edited in place) |
 | 2026-10-07 | Compared Kfir's Drive build with my draft; his is the stronger fit, two claims to confirm |
 | 2026-10-07 | Kfir answered gap questions (facts logged); draft in chat |
 | 2026-10-07 | Vetted Stretch; no earlier Servus build in repo or Drive; gap questions sent |

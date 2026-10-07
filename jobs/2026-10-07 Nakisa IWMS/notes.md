@@ -27,6 +27,7 @@ Nakisa wants a PM who owns an IWMS module end to end and is also the product voi
 
 ## CV (draft, not built)
 - **Track / base:** PM master
+- **Kfir's own build (Drive root Doc 1S463pRAaInn6o-L7NzvPtcRV27UeLYSugBn91joPwUY, 2026-10-07 17:15; .docx copy in Tailored CVs):** compared to my draft; his is stronger on JD fit (facility booking, RFP, onboarding/SOWs, integration tool) but fit_check estimates ~35 lines vs budget 29 and its Skills rows run 171 chars. Open: security/privacy questionnaires claim (Kfir answered RFP/RFI only to my question).
 - **Prior builds (Drive, pre-repo, not reused):** Kfir_Braunstein_PM_Nakisa (2026-06-01), Kfir Braunstein - PM - Nakisa (2026-01-22). Kfir mentioned a newer version in the Drive main folder; search found none titled Nakisa, so it was not used.
 - **Metrics:** summary 33%, 18% QoQ; bullets $55K+, $100K+, 100%+, 30+. fit_check: 27 content lines, fits.
 
@@ -59,4 +60,5 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-07 | Compared Kfir's Drive build with my draft (verdict in chat) |
 | 2026-10-07 | Duplicate flagged (two older Drive builds); Kfir chose rebuild. Vetted Stretch; gap answers logged; draft in chat |

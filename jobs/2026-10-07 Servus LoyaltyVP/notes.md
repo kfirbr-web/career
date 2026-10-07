@@ -27,7 +27,8 @@ Servus wants an owner who keeps the Profit Share program accurate and visible ev
 
 ## CV
 - **Track / base:** PM master
-- **Tailored copy:** draft below, not built. fit_check: 26 content lines of 29, fits
+- **Kfir's own build (Drive root, 2026-10-07 17:27):** https://docs.google.com/document/d/1cqHvp6f9f5oNLu5rtVoGvfD7cF2WlCxcj3N1GsQ-i_s/edit (.docx copy in Tailored CVs). Compared to my draft: stronger on JD fit (value proposition, segmentation, lifecycle terms, 18% and 33% bullets, business cases). Open claims to confirm: "defined the value proposition for different client types" and segment targeting / "Customer Segmentation"
+- **My draft (not used):** draft below, not built. fit_check: 26 content lines of 29, fits
 - **Metrics:** summary 33%, 18% QoQ; bullets $100K+, 40% to 85% / 90%; CSM 20%, 100%, 30+ accounts
 - **Left out on purpose:** mobile, AI, refunds, vendors, permissions; no loyalty/rewards, deposit, banking or sponsorship claims
 
@@ -79,5 +80,6 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-07 | Compared Kfir's Drive build with my draft; his is the stronger fit, two claims to confirm |
 | 2026-10-07 | Kfir answered gap questions (facts logged); draft in chat |
 | 2026-10-07 | Vetted Stretch; no earlier Servus build in repo or Drive; gap questions sent |

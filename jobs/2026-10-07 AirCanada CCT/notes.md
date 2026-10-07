@@ -59,7 +59,7 @@ Project Manager and Content Developer	Dec 2018 - Dec 2019
 
 SKILLS
 Product & Insights: Roadmapping, Prioritization, Customer Journeys, Root-cause Analysis, KPIs, Competitive Analysis
-Incident & Support Ops: Incident Response, Post-incident Reviews, Escalation Paths, Monitoring, Knowledge Base, Intercom Fin
+Incident & Support Ops: Incident Response, Post-incident Reviews, Escalation Paths, Knowledge Base, Intercom Fin
 Analytics & Reporting: Google Analytics, SQL, Funnel Analysis, A/B Testing, Reporting, Excel, PowerPoint
 Agile & Delivery: Agile, Scrum, SDLC, Backlog Management, User Stories, Acceptance Criteria, UAT
 Tools: ClickUp, Confluence, Intercom, HubSpot, Jam.dev, Postman, Figma

@@ -27,7 +27,51 @@ Servus wants an owner who keeps the Profit Share program accurate and visible ev
 
 ## CV
 - **Track / base:** PM master
-- **Tailored copy:** not drafted yet (gap questions pending)
+- **Tailored copy:** draft below, not built. fit_check: 26 content lines of 29, fits
+- **Metrics:** summary 33%, 18% QoQ; bullets $100K+, 40% to 85% / 90%; CSM 20%, 100%, 30+ accounts
+- **Left out on purpose:** mobile, AI, refunds, vendors, permissions; no loyalty/rewards, deposit, banking or sponsorship claims
+
+```
+Kfir Braunstein
+Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
+
+Product Manager with 5 years of experience at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe. Promoted to the company's first Product Manager, with ownership of retention and engagement metrics. Built the event-based onboarding workflows and engagement scoring behind a 33% faster onboarding and 18% QoQ usage growth.
+
+EXPERIENCE
+Bewith.io | B2B2C SaaS platform serving 100+ municipalities and organizations across North America and Europe
+Product Manager	Nov 2021 - Oct 2025
+- Led a subscription and multi-entry payment product from discovery to launch with Sales, CS, and Marketing, used by residents to buy memberships and passes and generating $100K+ in incremental ARR.
+- Owned the payment solution end to end with each client's finance team, including client payouts through Stripe Connect and CSV reconciliation exports, and traced failed webhooks and reconciliation errors to their cause with Engineering.
+- Ran customer messaging across HubSpot email sequences, Intercom in-app messages and product tours, and SMS and WhatsApp, matching each message to where the client or resident was in onboarding or adoption.
+- Diagnosed a login conversion bottleneck through funnel analysis and shipped a fix through configuration and copy changes alone, lifting conversion from 40% to 85% and cutting related support tickets by 90%.
+- Reviewed each client's ticket-sales revenue and usage, recommended changes to their future events and marketing, and reported results to clients in QBRs and outcome reports.
+- Coordinated launches across Sales, CS, and Marketing, working with Marketing on customer stories, case studies, and webinars, and briefing Support and CS with updated help articles before each release.
+- Set roadmap strategy with the CPO using competitive analysis and customer interviews, and reported to leadership each month on what shipped, what did not work, and what changed next.
+Customer Success Manager	Feb 2021 - Oct 2021
+- Increased ARR by 20% by identifying expansion opportunities and upgrading 4 entry-level clients into enterprise-size contracts through structured account reviews and product-led conversations.
+- Maintained 100% retention across 30+ accounts by monitoring client health, running proactive check-ins, and resolving issues before they escalated into renewal risks.
+- Partnered closely with R&D and Product teams to document recurring client pain points and translate them into actionable product feedback, directly influencing roadmap priorities.
+Promoted to Product Manager in under a year based on performance.
+Peres Center for Peace and Innovation | Non-Profit
+Project Manager and Content Developer	Dec 2018 - Dec 2019
+- Led a multi-year lecture program with full P&L oversight, budget management, and vendor coordination, delivering all project milestones on time.
+- Developed learning strategies, educational content, and workshops for program participants.
+
+SKILLS
+Product & Lifecycle: Roadmapping, Prioritization, Customer Lifecycle, Retention, Onboarding, Competitive Analysis
+Campaigns & Messaging: HubSpot, Intercom, Email Sequences, In-app Messaging, SMS/WhatsApp, Customer Journeys
+Payments & Reporting: Stripe, Stripe Connect, Payouts, Reconciliation Exports, Payment Reporting, Excel, PowerPoint
+Analytics: Google Analytics, Funnel Analysis, A/B Testing, SQL, KPI Definition, Reporting
+Agile & Delivery: Agile, Scrum, Backlog Management, PRDs, Acceptance Criteria, Stakeholder Management
+AI & Tools: Claude Code, ChatGPT, Figma, ClickUp, Confluence, Airtable
+
+EDUCATION
+Bezalel Academy of Arts and Design, Jerusalem
+B.Arch. - Bachelor of Architecture | 2015 - 2019
+
+LANGUAGES
+English - Fluent | Hebrew - Native | French - A2
+```
 
 ## Cover note
 None
@@ -35,4 +79,5 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-07 | Kfir answered gap questions (facts logged); draft in chat |
 | 2026-10-07 | Vetted Stretch; no earlier Servus build in repo or Drive; gap questions sent |

@@ -74,12 +74,16 @@ LANGUAGES
 English - Fluent | Hebrew - Native | French - A2
 ```
 
+## Application answers (Kfir's wording)
+- **Strategy plus execution:** "At Bewith, clients and Sales kept asking for a way to sell memberships and multi-entry passes, not just single tickets. I led discovery with clients to understand how they'd use it and recommended pricing models to leadership and Sales. Then I owned the execution: I wrote the requirements, worked with Engineering through the build, and planned the launch with Sales and CS. The product brought in over $100K in new annual revenue."
+
 ## Cover note
 None
 
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-07 | Kfir preferred the subscriptions story (his wording above) over my onboarding draft for the strategy-plus-execution question |
 | 2026-10-07 | Kfir confirmed "defined the value proposition for different client types"; segmentation overstated, so the Doc's messaging bullet now says "matching each message to where the customer was in onboarding or adoption" and "Customer Segmentation" is out of Skills (edited in place) |
 | 2026-10-07 | Compared Kfir's Drive build with my draft; his is the stronger fit, two claims to confirm |
 | 2026-10-07 | Kfir answered gap questions (facts logged); draft in chat |

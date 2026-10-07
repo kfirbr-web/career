@@ -24,7 +24,7 @@
 
 ## CV
 - **Track / base:** PM
-- **Tailored copy:** not drafted yet; waiting on gap answers
+- **Tailored copy:** https://docs.google.com/document/d/1ssTetOwNewjqnUPdiWjIPH8i2TxOj_BAXQbjwgvRX1w/edit (Kfir's build, in Drive root; move to Tailored CVs)
 - **Changes (before -> after):**
 
 ## Cover note
@@ -37,3 +37,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-10-05 | Vetted Stretch; gap questions sent; no duplicate found in tracker, jobs, cv or Drive |
+| 2026-10-05 | Compared Kfir's Drive build with my draft; removed monolith and AWS/email claims from the Doc; health-check, access approvals, Fin confirmed |

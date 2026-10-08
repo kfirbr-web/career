@@ -1,8 +1,8 @@
 # DNV - Digital Product Manager, Intelligent Workflows
 
 ## Posting
-- **Link:** Unknown (pasted JD, not verified live)
-- **Checked live on:** not checked
+- **Link:** https://jobs.dnv.com/job-search/energy-systems/it-and-software/toronto-on-canada-calgary-ab-montreal-qc/digital-product-manager-intelligent-workflows/300001724824395 (job ID 300001724824395; Kfir's LinkedIn referral link)
+- **Checked live on:** not checked (jobs.dnv.com blocked from this session; Kfir to confirm it is open)
 - **Source:** pasted JD
 - **Location / remote:** Toronto, Montreal or Calgary office; hybrid, 3+ days a week in office
 - **Pay range (if posted):** CAD 115,000-140,000 (Vancouver and Toronto range as posted)
@@ -67,6 +67,7 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-08 | Kfir sent the posting link; could not open it (egress blocked), still unverified live |
 | 2026-10-08 | Edited Kfir's Doc in place: AI bullet gets user-review and user-testing wording; integration tool bullet replaced by the GDPR / privacy / accessibility QA bullet; en dashes to hyphens |
 | 2026-10-08 | Kfir's Drive build compared with my draft; his lead bullets kept, swaps suggested (AI review step, privacy bullet), en dashes and Drive root flagged |
 | 2026-10-08 | Vetted Stretch; no earlier DNV build; gap answers logged; draft in chat |

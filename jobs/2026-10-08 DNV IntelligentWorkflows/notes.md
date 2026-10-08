@@ -67,5 +67,6 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-08 | Edited Kfir's Doc in place: AI bullet gets user-review and user-testing wording; integration tool bullet replaced by the GDPR / privacy / accessibility QA bullet; en dashes to hyphens |
 | 2026-10-08 | Kfir's Drive build compared with my draft; his lead bullets kept, swaps suggested (AI review step, privacy bullet), en dashes and Drive root flagged |
 | 2026-10-08 | Vetted Stretch; no earlier DNV build; gap answers logged; draft in chat |

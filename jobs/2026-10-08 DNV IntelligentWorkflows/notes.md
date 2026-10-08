@@ -27,7 +27,7 @@ DNV is building a collaborative review product: people review, comment and appro
 
 ## CV
 - **Track / base:** PM master, rebuilt from the whole library
-- **Tailored copy:** draft in chat 2026-10-08; not built (Kfir says "build")
+- **Tailored copy:** https://docs.google.com/document/d/1Enx1qtMyhfNVtos1LFjfCgxDsW7g4Z54oYlZ7gO1YBk/edit (Kfir's own build, Drive root; a .docx copy sits in Tailored CVs). My draft below was compared and not used as-is
 - **Metrics:** summary $100K+, 33%; bullets 100%+, 18% QoQ, few dozen questions a month to near zero; CSM 20%, 100% retention, 30+ accounts
 - **Left out on purpose:** mobile, login fix, payouts, integration tool, CRM/API; no due diligence or assurance claim, no data governance claim, no "shipped" AI, no AI governance
 
@@ -67,4 +67,5 @@ None
 ## Log
 | Date | What happened |
 |---|---|
+| 2026-10-08 | Kfir's Drive build compared with my draft; his lead bullets kept, swaps suggested (AI review step, privacy bullet), en dashes and Drive root flagged |
 | 2026-10-08 | Vetted Stretch; no earlier DNV build; gap answers logged; draft in chat |

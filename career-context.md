@@ -117,7 +117,7 @@ Locked in `BL`. Each metric belongs to **one story only** and appears **once on 
 ### Never claim (claim ceilings)
 - **Retired:** 35% retention. Never use. `HO` `BL`
 - **AI features (#11):** ceiling is "prototyped," never "shipped" (`BL` raised it from "proposed" on
-  2026-09-28). No post-prototype outcome; don't claim human-in-the-loop requirements.
+  2026-09-28). No post-prototype outcome. Design level only (Kfir 2026-10-08, DNV): the prototypes were designed so users reviewed the AI output before using it; say "designed so users reviewed the output", never a formal human-in-the-loop requirement or a shipped control.
   The prototypes were tested with users (Kfir confirmed 2026-10-01, Vena Senior).
 - **Pricing:** recommended only; never "set" or "owned." `BL`
 - **Business cases:** no dollar cost models. What's true: at sprint and quarterly planning, presented large features with their benefits, alternatives, and estimated engineering hours. "Short, high-level business cases" is OK as a label (Kfir, 2026-09-28, Akur8); never claim cost/ROI models, and never on the subscriptions bullet (#1). (Kfir, 2026-09-28)
@@ -437,6 +437,7 @@ Older rows are history, not rules, where they conflict with the standing rules a
 
 | Date | Rule | Source |
 |---|---|---|
+| 2026-10-08 | New facts (confirmed): registrations and forms had staff approval steps before acceptance; the AI prototypes (#11) were designed so users reviewed the AI output before using it (design level only, prototyped, no post-prototype outcome); clients used audit trails, incident / safety records in the platform (details [TODO]; say only "audit trails" on CVs); worked through client privacy reviews with IT and legal teams. Not true: signed documents / waivers or uploaded files reviewed by staff (only exports and reports). DNV Digital PM, Intelligent Workflows vetted Stretch; no due diligence or assurance claim | Kfir (DNV) |
 | 2026-10-07 | A Doc built by HTML import looked "nothing like the templates" (Arial, no right-aligned date tabs, no section rules). Build new CVs by copying Kfir's latest Drive build (Calibri 10pt, rules under headings, right tab at 555.3pt) and replacing text with replaceAllText; never by HTML import | Kfir (Air Canada) |
 | 2026-10-07 | New facts (confirmed): defined access rules (who can see and change what) in the permissions model; tracked incidents and Support-to-Product issues to closure in ClickUp. Not true: reviewed Intercom Fin conversations to find failures or handoffs (Fin work stays setup plus tuning from ticket data). Air Canada CCT Customer Care PM vetted Stretch; ITIL/PMP, ServiceNow, Jira, QuickSight, Power BI not claimed | Kfir (Air Canada) |
 | 2026-10-07 | For a "strategy and execution" application question Kfir chose the subscriptions story (#1: discovery with clients, pricing models recommended to leadership and Sales, requirements, build with Engineering, launch with Sales and CS, $100K+) over my onboarding story. Single-JD preference; pricing stays "recommended" | Kfir (Servus) |

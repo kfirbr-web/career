@@ -1,0 +1,22 @@
+Kfir Braunstein
+Montreal, QC, Canada | 514-462-2234 | kfirbr@gmail.com | LinkedIn
+
+Product Manager with 5 years of experience in product and customer success roles at a B2B2C SaaS company serving 100+ municipalities and organizations across North America and Europe. Promoted to the company's first Product Manager, then built the CS operations layer in HubSpot and Intercom, scaling CS to 100+ accounts with no added headcount, and automated onboarding workflows that cut onboarding time by 33%. As a CSM, owned about $2M ARR.
+
+EXPERIENCE
+- Defined an internal engagement scoring system that Engineering built, set up CS dashboards on adoption and usage, and tied alerts to defined actions for CS, driving 18% QoQ usage growth.
+- Built CS processes from scratch with the Head of CS, including Intercom routing and escalation rules, HubSpot lifecycle workflows and renewal alerts, and an onboarding playbook.
+- Administered HubSpot for CS, prioritizing changes with CS users and tracking adoption, and evaluated and selected support and CS tools.
+- Helped define which accounts received which level of CS coverage and tracked accounts per CSM to balance workload.
+- Checked each client's contract against actual use (seats, admins, usage, storage) and kept contract and renewal fields in HubSpot.
+- Ran a recurring review of repeated Support issues with Product and tracked each to a fix, including a login fix through configuration and copy that lifted conversion from 40% to 85% and cut related tickets by 90%.
+- Defined escalation paths for CS and Support and built an internal ClickUp system that teams adopted without a mandate as the single source of truth.
+- Built automations and internal tools with Claude Code and Claude Cowork, handing larger builds to Engineering.
+
+SKILLS
+Customer Success Ops: Process Design, Segmentation & Coverage, Escalation Paths, Onboarding, Renewals
+Reporting & Data: CS Dashboards, Engagement Scoring, Usage Analytics, KPI Definition, SQL, Google Analytics
+CS Systems: HubSpot, Intercom, ClickUp, Confluence, Jam.dev, Airtable, Stripe, Postman
+AI & Automation: Claude Code, Claude Cowork, Claude, ChatGPT, Intercom Fin, Prompt Engineering
+Programs: Cross-functional Delivery, Feedback Loops, Adoption, Root Cause Analysis, Project Planning
+Tools: Excel, PowerPoint, Word, Slack, Monday, Figma

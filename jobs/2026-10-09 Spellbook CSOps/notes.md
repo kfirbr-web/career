@@ -25,7 +25,7 @@
 ## CV
 - **Track / base:** CSM / Ops (CSM master + HubSpot CS ops layer)
 - **Tailored copy:** not built
-- **Changes (before → after):** pending gap answers
+- **Changes:** draft-v1.txt (shown in chat, awaiting approval)
 
 ## Cover note
 None

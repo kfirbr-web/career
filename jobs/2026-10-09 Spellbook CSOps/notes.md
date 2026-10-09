@@ -41,3 +41,4 @@ None
 |---|---|
 | 2026-10-09 | Pasted JD vetted Stretch; gap questions sent to Kfir before drafting |
 | 2026-10-09 | Built Google Doc on Kfir's say-so; title kept as Product Manager (Unity base said Product and Operations Manager) |
+| 2026-10-09 | Kfir's Drive build (1FBNGaFFgzrTZw5kaioy46nrhHhXJVxr_dwzgNQbblPA, Drive root) is the CV of record; fixes merged from my draft. Move it to Tailored CVs |

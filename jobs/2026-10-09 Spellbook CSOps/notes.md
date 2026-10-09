@@ -24,7 +24,7 @@
 
 ## CV
 - **Track / base:** CSM / Ops (CSM master + HubSpot CS ops layer)
-- **Tailored copy:** not built
+- **Tailored copy:** https://docs.google.com/document/d/1CwYVZoiNUZbkEDSlmDzIdhihv__l6GSpRUDC3cxz_Y4/edit (Kfir_Braunstein_CSOps_Spellbook, Job Search/Tailored CVs; copied from Ops_Unity, text replaced)
 - **Changes:** draft-v1.txt (shown in chat, awaiting approval)
 
 ## Cover note
@@ -40,3 +40,4 @@ None
 | Date | What happened |
 |---|---|
 | 2026-10-09 | Pasted JD vetted Stretch; gap questions sent to Kfir before drafting |
+| 2026-10-09 | Built Google Doc on Kfir's say-so; title kept as Product Manager (Unity base said Product and Operations Manager) |
